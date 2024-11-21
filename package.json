@@ -34,7 +34,7 @@
     "@bugsnag/js": "^6.4.1",
     "@bugsnag/plugin-vue": "^6.4.1",
     "@highcharts/map-collection": "^1.1.2",
-    "@nuxtjs/apollo": "^4.0.1-rc.5",
+    "@nuxtjs/apollo": "5.0.0-alpha.14",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/feed": "^2.0.0",
