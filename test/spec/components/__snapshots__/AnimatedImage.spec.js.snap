@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedImage renders default animated image 1`] = `
+<img
+  alt="Image ale"
+  class=""
+  src="some_image_url"
+/>
+`;
+
+exports[`AnimatedImage renders default animated image 2`] = `
+<img
+  alt="Image ale"
+  class=""
+  src="some_image_url"
+/>
+`;
+
+exports[`AnimatedImage renders default animated image 3`] = `
+<img
+  alt="Image ale"
+  class=""
+  src="some_image_url"
+/>
+`;

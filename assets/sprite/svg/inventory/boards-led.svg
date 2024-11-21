@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="boards-led" transform="translate(2.000000, 12.000000)">
+            <g id="Group" transform="translate(0.000000, 34.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofja-link">
+                    <polygon id="pofja" points="0 26 80 26 80 0 0 0"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(27.000000, 40.000000)" fill="#FF553F">
+                <g id="pofjb-link">
+                    <polygon id="pofjb" points="0 14 26 14 26 0 0 0"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(27.000000, 40.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjb-link">
+                    <polygon id="pofjb" points="0 14 26 14 26 0 0 0"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(6.000000, 40.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjc-link">
+                    <polyline id="pofjc" points="0 0 6 7 0 14"></polyline>
+                </g>
+            </g>
+            <g id="Group" transform="translate(15.000000, 40.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjd-link">
+                    <polyline id="pofjd" points="0 0 6 7 0 14"></polyline>
+                </g>
+            </g>
+            <g id="Group" transform="translate(59.000000, 40.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofje-link">
+                    <polyline id="pofje" points="0 0 6 7 0 14"></polyline>
+                </g>
+            </g>
+            <g id="Group" transform="translate(68.000000, 40.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjf-link">
+                    <polyline id="pofjf" points="0 0 6 7 0 14"></polyline>
+                </g>
+            </g>
+            <g id="Group" transform="translate(7.000000, 17.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjg-link">
+                    <path d="M0,15 L0.9,4.57 C1.12276344,1.98924437 3.27965488,0.0059458016 5.87,3.55271453e-15 L12.11,3.55271453e-15 C14.7080222,-0.00442895256 16.8765735,1.981599 17.1,4.57 L18,15" id="pofjg"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(7.000000, 25.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjh-link">
+                    <path d="M0.64,1.33 L2.08,1.13 C7.15021342,0.41437812 12.3002684,0.481831362 17.35,1.33" id="pofjh"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(31.000000, 17.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofji-link">
+                    <path d="M0,15 L0.9,4.57 C1.12276344,1.98924437 3.27965488,0.0059458016 5.87,3.55271453e-15 L12.11,3.55271453e-15 C14.7080222,-0.00442895256 16.8765735,1.981599 17.1,4.57 L18,15" id="pofji"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(31.000000, 25.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjj-link">
+                    <path d="M0.64,1.33 L2.08,1.13 C7.15021342,0.41437812 12.3002684,0.481831362 17.35,1.33" id="pofjj"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(55.000000, 17.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjk-link">
+                    <path d="M0,15 L0.9,4.57 C1.12276344,1.98924437 3.27965488,0.0059458016 5.87,3.55271453e-15 L12.11,3.55271453e-15 C14.7080222,-0.00442895256 16.8765735,1.981599 17.1,4.57 L18,15" id="pofjk"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(55.000000, 25.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjl-link">
+                    <path d="M0.64,1.33 L2.08,1.13 C7.15021342,0.41437812 12.3002684,0.481831362 17.35,1.33" id="pofjl"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(19.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjm-link">
+                    <path d="M0,15 L0.9,4.57 C1.12276344,1.98924437 3.27965488,0.0059458016 5.87,1.77635769e-15 L12.11,1.77635769e-15 C14.7080222,-0.00442895256 16.8765735,1.981599 17.1,4.57 L18,15" id="pofjm"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(19.000000, 8.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjn-link">
+                    <path d="M0.64,1.33 L2.08,1.13 C7.15021342,0.41437812 12.3002684,0.481831362 17.35,1.33" id="pofjn"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(43.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjo-link">
+                    <path d="M0,15 L0.9,4.57 C1.12276344,1.98924437 3.27965488,0.0059458016 5.87,1.77635769e-15 L12.11,1.77635769e-15 C14.7080222,-0.00442895256 16.8765735,1.981599 17.1,4.57 L18,15" id="pofjo"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(43.000000, 8.000000)" fill="#FFFFFF" fill-opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="pofjp-link">
+                    <path d="M0.64,1.33 L2.08,1.13 C7.15021342,0.41437812 12.3002684,0.481831362 17.35,1.33" id="pofjp"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "fixturesFolder": "./test/e2e/fixtures",
+  "integrationFolder": "./test/e2e/integration",
+  "pluginsFile": "./test/e2e/plugins",
+  "screenshotsFolder": "./test/e2e/screenshots",
+  "supportFile": "./test/e2e/support/index.js",
+  "videosFolder": "./test/e2e/videos",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "numTestsKeptInMemory": 5,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporterOpts.json"
+  }
+}

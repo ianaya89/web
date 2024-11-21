@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="print-material" transform="translate(2.000000, 2.000000)">
+            <polygon id="Path" fill="#FF553F" points="1.18 54.69 1.64 77.5 38.97 66.98 38.39 43.22"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round" points="40 68.75 0 78.63 0 9.87 40 0"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round" points="80 80 40 68.75 40 0 80 11.25"></polygon>
+            <path d="M49,39.72 L67.62,44.95" id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M49,48.73 L67.62,53.97" id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M49,57.75 L67.62,62.98" id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,42.4 L0,52.94" id="Path" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" stroke="#000000" stroke-width="4.71" stroke-linecap="round" stroke-linejoin="round" transform="translate(59.664887, 25.345782) rotate(-59.530000) translate(-59.664887, -25.345782) " cx="59.6648867" cy="25.3457818" rx="6.52" ry="7.65"></ellipse>
+        </g>
+    </g>
+</svg>

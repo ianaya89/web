@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider renders default Slider 1`] = `
+<div
+  class="slider relative"
+>
+  <div
+    class="text-p3 text-grey uppercase tracking-wide w-full"
+  />
+   
+  <span
+    class="font-medium text-h5 w-full"
+  >
+    0
+  </span>
+   
+  <v-slider-stub
+    backgroundcolor=""
+    class="-mt-1"
+    color="#FF553F"
+    errorcount="1"
+    errormessages=""
+    formatterargs=""
+    max="100"
+    messages=""
+    min="0"
+    rules=""
+    step="1"
+    successmessages=""
+    thumbsize="32"
+    ticklabels=""
+    ticksize="1"
+    value="20"
+  />
+   
+  <span
+    class="left-0 bottom-0 absolute text-grey"
+  >
+    0
+  </span>
+   
+  <span
+    class="right-0 bottom-0 absolute text-grey"
+  >
+    100
+  </span>
+</div>
+`;
+
+exports[`Slider renders range Slider specific min max 1`] = `
+<div
+  class="slider relative"
+>
+  <div
+    class="text-p3 text-grey uppercase tracking-wide w-full"
+  />
+   
+  <span
+    class="font-medium text-h5 w-full"
+  >
+    - - -
+  </span>
+   
+  <v-range-slider-stub
+    backgroundcolor=""
+    class="-mt-1"
+    color="#FF553F"
+    errorcount="1"
+    errormessages=""
+    formatterargs=""
+    max="10000"
+    messages=""
+    min="10"
+    range="true"
+    rules=""
+    step="1"
+    successmessages=""
+    thumbsize="32"
+    ticklabels=""
+    ticksize="1"
+    value="20,500"
+  />
+   
+  <span
+    class="left-0 bottom-0 absolute text-grey"
+  >
+    10
+  </span>
+   
+  <span
+    class="right-0 bottom-0 absolute text-grey"
+  >
+    10 000
+  </span>
+</div>
+`;
+
+exports[`Slider renders range Slider specific min max 2`] = `
+<div
+  class="slider relative"
+>
+  <div
+    class="text-p3 text-grey uppercase tracking-wide w-full"
+  />
+   
+  <span
+    class="font-medium text-h5 w-full"
+  >
+    - - -
+  </span>
+   
+  <v-range-slider-stub
+    backgroundcolor=""
+    class="-mt-1"
+    color="#FF553F"
+    errorcount="1"
+    errormessages=""
+    formatterargs=""
+    max="10000"
+    messages=""
+    min="10"
+    range="true"
+    rules=""
+    step="1"
+    successmessages=""
+    thumbsize="32"
+    ticklabels=""
+    ticksize="1"
+    value="20,500"
+  />
+   
+  <span
+    class="left-0 bottom-0 absolute text-grey"
+  >
+    10
+  </span>
+   
+  <span
+    class="right-0 bottom-0 absolute text-grey"
+  >
+    10 000
+  </span>
+</div>
+`;

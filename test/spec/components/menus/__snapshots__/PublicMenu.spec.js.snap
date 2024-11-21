@@ -1,0 +1,250 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PublicMenu renders PublicMenu 1`] = `
+<div
+  class="w-full"
+>
+  <div
+    class="public-header-mask"
+  />
+   
+  <div
+    class="public-header px-8 sm:px-12"
+  >
+    <div
+      class="w-1/2 sm:w-1/3 md:w-1/5 lg:w-2/7 my-auto"
+    >
+      <logo-stub
+        class="w-32"
+        variant="light"
+      />
+    </div>
+     
+    <div
+      class="w-full md:w-3/5 hidden lg:flex flex-wrap lg:-ml-8 sm:px-8 md:px-0 text-h7"
+    >
+      <ul>
+        <li>
+          <a>
+            
+            TRANSLATE:public.header.teams
+          
+          </a>
+        </li>
+         
+        <li>
+          <a>
+            
+            TRANSLATE:public.header.brands
+          
+          </a>
+        </li>
+         
+        <li
+          class="cursor-pointer"
+        >
+          <span>
+            
+            TRANSLATE:public.header.pricing
+          
+          </span>
+           
+          <span
+            class="pl-2 fas fa-caret-down text-landing-vertical-line"
+          />
+           
+          <dropdown-stub
+            class="cursor-default"
+            itemsclasses="top-0 left-0 min-w-28"
+          >
+            <ul
+              class="menu--dropdown flex flex-wrap"
+            >
+              <li>
+                <a>
+                  
+                  TRANSLATE:public.header.teams
+                
+                </a>
+              </li>
+               
+              <li
+                class="pt-2"
+              >
+                <a>
+                  
+                  TRANSLATE:public.header.brands
+                
+                </a>
+              </li>
+            </ul>
+          </dropdown-stub>
+        </li>
+         
+        <li>
+          <a>
+            
+            TRANSLATE:public.header.news
+          
+          </a>
+        </li>
+         
+        <li>
+          <a>
+            
+            TRANSLATE:public.header.about-us
+          
+          </a>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      class="flex items-center"
+    >
+      <ul>
+        <li
+          class="cursor-pointer"
+        >
+          <span>
+            
+            EN
+          
+          </span>
+           
+          <span
+            class="pl-2 fas fa-caret-down text-landing-vertical-line"
+          />
+           
+          <dropdown-stub
+            class="cursor-default"
+            itemsclasses="top-0 left-0 min-w-28"
+          >
+            <ul
+              class="menu--dropdown flex flex-col flex-wrap"
+            />
+          </dropdown-stub>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      class="flex flex-1 justify-end text-h6 sm:text-h7 pr-2"
+    >
+      <a
+        class="my-auto text-white hidden lg:block hover:text-red-l1"
+      >
+        
+        TRANSLATE:public.header.login
+      
+      </a>
+       
+      <div
+        class="flex flex-col lg:hidden ml-4 text-h3 sm:text-h7 my-auto"
+      >
+        <transition-stub
+          mode="out-in"
+          name="fade"
+        >
+          <div>
+            <span
+              class="lni-menu text-h3 text-white my-auto cursor-pointer select-none block mx-auto"
+            />
+          </div>
+        </transition-stub>
+         
+        <span
+          class="text-white uppercase select-none block text-p2 mx-auto"
+        >
+          TRANSLATE:general.menu
+        </span>
+      </div>
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <div
+        class="mobile-menu lg:hidden text-h6 sm:text-h7"
+        style="display: none;"
+      >
+        <ul
+          class="mr-8"
+        >
+          <li
+            class="border-b border-grey-l3"
+          >
+            <a>
+              
+              TRANSLATE:public.header.teams
+            
+            </a>
+             
+            <ul>
+              <li>
+                <a>
+                  
+                  TRANSLATE:public.header.pricing
+                
+                </a>
+              </li>
+            </ul>
+          </li>
+           
+          <li
+            class="border-b border-grey-l3"
+          >
+            <a>
+              
+              TRANSLATE:public.header.brands
+            
+            </a>
+             
+            <ul>
+              <li>
+                <a>
+                  
+                  TRANSLATE:public.header.pricing
+                
+                </a>
+              </li>
+            </ul>
+          </li>
+           
+          <li
+            class="border-b border-grey-l3"
+          >
+            <a>
+              
+              TRANSLATE:public.header.news
+            
+            </a>
+          </li>
+           
+          <li
+            class="border-b border-grey-l3"
+          >
+            <a>
+              
+              TRANSLATE:public.header.about-us
+            
+            </a>
+          </li>
+           
+          <li>
+            <a
+              class="text-h5"
+            >
+              
+              TRANSLATE:public.header.login
+            
+            </a>
+          </li>
+        </ul>
+      </div>
+    </transition-stub>
+  </div>
+   
+  <!---->
+</div>
+`;

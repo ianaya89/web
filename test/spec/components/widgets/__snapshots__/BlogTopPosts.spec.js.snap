@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogTopPosts renders BlogTopPosts 1`] = `
+<div
+  class="blog__top-posts mt-12 lg:mt-0"
+>
+  <p
+    class="text-p2 uppercase font-medium text-grey mb-6"
+  >
+    
+    TRANSLATE:blog.headings.sections.top_posts
+  
+  </p>
+   
+  <div>
+    <blog-post-stub
+      class="w-full border-b border-grey-l4 pb-2 mb-6"
+      post="[object Object]"
+      size="small"
+    />
+    <blog-post-stub
+      class="w-full border-b border-grey-l4 pb-2 mb-6"
+      post="[object Object]"
+      size="small"
+    />
+    <blog-post-stub
+      class="w-full border-b border-grey-l4 pb-2 mb-6"
+      post="[object Object]"
+      size="small"
+    />
+    <blog-post-stub
+      class="w-full border-b border-grey-l4 pb-2 mb-6"
+      post="[object Object]"
+      size="small"
+    />
+     
+    <!---->
+  </div>
+</div>
+`;

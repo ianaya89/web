@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaModal renders default modal 1`] = `
+<portal
+  to="modals-outlet"
+>
+   
+  <transition-stub
+    name="fade-fast"
+  >
+    <div
+      class="modal-backdrop items-start sm:items-center"
+      style="display: none;"
+    >
+      <div
+        aria-describedby="modalDescription"
+        aria-labelledby="modalTitle"
+        class="modal media-modal w-full flex flex-col items-start"
+        role="dialog"
+        style="display: none;"
+      >
+        <header
+          class="modal-header"
+          id="modalTitle"
+        >
+          
+            This is the default title!
+            
+          <button
+            class="btn-close focus:outline-none"
+            type="button"
+          />
+        </header>
+         
+        <section
+          class="modal-body text-h7 sm:text-menu mx-auto py-3 px-4"
+          id="modalDescription"
+        >
+          <!---->
+           
+        </section>
+      </div>
+       
+      <footer
+        class="modal-footer flex flex-initial items-end"
+      />
+    </div>
+  </transition-stub>
+</portal>
+`;

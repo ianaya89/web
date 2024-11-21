@@ -1,0 +1,294 @@
+{
+  "data": {
+    "teams": [
+      {
+        "id": "1",
+        "name": "FC International",
+        "logo": {
+          "url": null,
+          "__typename": "Image"
+        },
+        "unit": {
+          "id": "7",
+          "__typename": "OrganizationUnit"
+        },
+        "precalcs": [
+          {
+            "data": {
+              "fans": {
+                "total": 20799,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 98658,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 738,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 98425,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 4268,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          }
+        ],
+        "inventoriesCount": 14,
+        "packagesCount": 2,
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "Team"
+      },
+      {
+        "id": "2",
+        "name": "FC National",
+        "logo": {
+          "url": "http://sponsor.test/uploads/14?token=Km5G9XGYgF4LZaaWCC5GzNh5OG180TgK&conversion=thumb",
+          "__typename": "Image"
+        },
+        "unit": {
+          "id": "9",
+          "__typename": "OrganizationUnit"
+        },
+        "precalcs": [
+          {
+            "data": {
+              "fans": {
+                "total": 83230,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 63068,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 97409,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 83132,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 76234,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          }
+        ],
+        "inventoriesCount": 14,
+        "packagesCount": 2,
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "Team"
+      },
+      {
+        "id": "3",
+        "name": "FC Trnava",
+        "logo": {
+          "url": "http://sponsor.test/uploads/18?token=K6FMXEk8qghFcSxR8XLsnK0pxtE7F4Lo&conversion=thumb",
+          "__typename": "Image"
+        },
+        "unit": {
+          "id": "11",
+          "__typename": "OrganizationUnit"
+        },
+        "precalcs": [
+          {
+            "data": {
+              "fans": {
+                "total": 94362,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 69423,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 74223,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 19501,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": 50546,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          }
+        ],
+        "inventoriesCount": 9,
+        "packagesCount": 2,
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "Team"
+      },
+      {
+        "id": "4",
+        "name": "Null Team",
+        "logo": {
+          "url": null,
+          "__typename": "Image"
+        },
+        "unit": {
+          "id": "13",
+          "__typename": "OrganizationUnit"
+        },
+        "precalcs": [
+          {
+            "data": {
+              "fans": {
+                "total": null,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": null,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": null,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": null,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          },
+          {
+            "data": {
+              "fans": {
+                "total": null,
+                "__typename": "TeamFans"
+              },
+              "__typename": "TeamPrecalcFields"
+            },
+            "__typename": "TeamPrecalcs"
+          }
+        ],
+        "inventoriesCount": 0,
+        "packagesCount": 0,
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "Team"
+      }
+    ]
+  }
+}

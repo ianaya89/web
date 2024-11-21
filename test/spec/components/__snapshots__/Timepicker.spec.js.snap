@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timepicker renders default timepicker 1`] = `
+<div
+  class="timepicker"
+>
+  <v-menu-stub
+    attach=""
+    closedelay="0"
+    closeonclick="true"
+    contentclass=""
+    fullwidth="true"
+    lazy="true"
+    maxheight="auto"
+    maxwidth="auto"
+    minwidth="290px"
+    nudgebottom="0"
+    nudgeleft="0"
+    nudgeright="0"
+    nudgetop="0"
+    nudgewidth="0"
+    opendelay="0"
+    openonclick="true"
+    origin="top left"
+    transition="scale-transition"
+  >
+     
+    <v-time-picker-stub
+      color="red"
+      format="24hr"
+      nexticon="lni-chevron-right"
+      previcon="lni-chevron-left"
+      reactive="true"
+      rules=""
+      sololabel="Label"
+      type="date"
+      width="290"
+    />
+  </v-menu-stub>
+</div>
+`;

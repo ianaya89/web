@@ -1,0 +1,735 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pricing renders default Pricing 1`] = `
+<tr
+  class="w-full"
+>
+  <div>
+    <content-placeholders>
+      <content-placeholders-heading
+        img="true"
+      />
+       
+      <content-placeholders-text
+        lines="10"
+      />
+    </content-placeholders>
+  </div>
+</tr>
+`;
+
+exports[`Pricing renders default Pricing 2`] = `
+<tr
+  class="w-full"
+>
+  <div>
+    <content-placeholders>
+      <content-placeholders-heading
+        img="true"
+      />
+       
+      <content-placeholders-text
+        lines="10"
+      />
+    </content-placeholders>
+  </div>
+</tr>
+`;
+
+exports[`Pricing renders pricing with data 1`] = `
+<tr
+  class="w-full"
+>
+  <table
+    class="w-full"
+  >
+    <thead>
+      <tr>
+        <th
+          class="xl:w-1/4"
+        >
+          <div
+            class="flex"
+          >
+            <app-tooltip-stub
+              class="font-normal text-left"
+              color="dark"
+              position="right"
+              thresholdoffset="100"
+            >
+               
+              <span
+                class="w-64"
+              >
+                TRANSLATE:pricing.annually
+              </span>
+            </app-tooltip-stub>
+             
+            <switcher-stub
+              class="text-black font-medium pr-3"
+              color="red"
+              data-cy="pay-switcher"
+              label="TRANSLATE:public.bill.bill_annually"
+              rules=""
+              value="true"
+            />
+          </div>
+        </th>
+         
+        <th
+          class="min-w-56 lg:min-w-48 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="text-h3 xl:text-h2 uppercase"
+          >
+            
+            Free
+          
+          </h2>
+           
+          <transition-stub
+            mode="out-in"
+            name="fade"
+          >
+            <div>
+              <div>
+                <h2
+                  class="text-h4 xl:text-h3 text-red font-normal"
+                >
+                  
+                  0 €/TRANSLATE:general.year_shortcut
+                
+                </h2>
+              </div>
+               
+              <div
+                class="flex items-end"
+              >
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  loading-text="TRANSLATE:general.updating"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </transition-stub>
+        </th>
+        <th
+          class="min-w-56 lg:min-w-48 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="text-h3 xl:text-h2 uppercase"
+          >
+            
+            Basic
+          
+          </h2>
+           
+          <transition-stub
+            mode="out-in"
+            name="fade"
+          >
+            <div>
+              <div>
+                <h2
+                  class="text-h4 xl:text-h3 text-red font-normal"
+                >
+                  
+                  900 €/TRANSLATE:general.year_shortcut
+                
+                </h2>
+              </div>
+               
+              <div
+                class="flex items-end"
+              >
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  loading-text="TRANSLATE:general.updating"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </transition-stub>
+        </th>
+        <th
+          class="min-w-56 lg:min-w-48 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="text-h3 xl:text-h2 uppercase"
+          >
+            
+            Premium
+          
+          </h2>
+           
+          <h2
+            class="text-h4 xl:text-h3 text-red font-normal uppercase"
+          >
+            <div>
+              
+              TRANSLATE:general.custom
+
+              
+              <div>
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </h2>
+        </th>
+      </tr>
+       
+      <tr>
+        <td
+          class="relative px-6 text-grey"
+        />
+         
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+      </tr>
+    </thead>
+     
+    <tbody>
+      <tr>
+        <td
+          class="border-b border-grey-l3 relative px-6 text-grey"
+        >
+          <app-tooltip-stub
+            class="feature-description"
+            color="dark"
+            position="right"
+            thresholdoffset="100"
+          >
+             
+            <span
+              class="w-64"
+            >
+              
+              TRANSLATE:pricing.commission
+            
+            </span>
+          </app-tooltip-stub>
+          
+          TRANSLATE:pricing.deal_commission
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          6%
+        
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          4%
+        
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          2%
+        
+        </td>
+      </tr>
+       
+      <tr>
+        <td
+          class="border-b border-grey-l3 relative px-6 text-grey"
+        >
+          
+          TRANSLATE:pricing.user_accounts
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          1 
+          <span
+            class="uppercase"
+          >
+            COUNT-TRANSLATE:general.accounts
+          </span>
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          3 
+          <span
+            class="uppercase"
+          >
+            COUNT-TRANSLATE:general.accounts
+          </span>
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4 font-medium"
+        >
+          
+          10 
+          <span
+            class="uppercase"
+          >
+            COUNT-TRANSLATE:general.accounts
+          </span>
+        </td>
+      </tr>
+    </tbody>
+     
+    <thead>
+      <tr>
+        <th
+          class="text-left pb-4 pt-8"
+        >
+          <h3>
+            TRANSLATE:pricing.features
+          </h3>
+        </th>
+      </tr>
+    </thead>
+     
+    <tbody>
+      <tr>
+        <td
+          class="border-b border-grey-l3 relative px-6 text-grey"
+        >
+          
+          Insights from social media you use
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+      </tr>
+       
+      <tr>
+        <td
+          class="w-1/5 border-b border-grey-l3 relative px-6 text-grey"
+        >
+          <app-tooltip-stub
+            class="feature-description"
+            color="dark"
+            position="right"
+            thresholdoffset="100"
+          >
+             
+            <span
+              class="w-64"
+            >
+              
+              TRANSLATE:pricing.data_update_freq_info
+            
+            </span>
+          </app-tooltip-stub>
+          
+          TRANSLATE:pricing.data_update_freq
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          
+          QUARTERLY
+        
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          
+          MONTHLY
+        
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          
+          CUSTOM
+        
+        </td>
+      </tr>
+    </tbody>
+     
+    <thead>
+      <tr>
+        <th
+          class="text-left pb-4 pt-8"
+        >
+          <h3>
+            TRANSLATE:pricing.analytics
+          </h3>
+        </th>
+      </tr>
+    </thead>
+     
+    <tbody>
+      <tr>
+        <td
+          class="w-1/5 border-b border-grey-l3 relative px-6 text-grey"
+        >
+          <!---->
+          
+          Your team dashboard
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+      </tr>
+    </tbody>
+     
+    <thead>
+      <tr>
+        <th
+          class="text-left pb-4 pt-8"
+        >
+          <h3>
+            TRANSLATE:pricing.support
+          </h3>
+        </th>
+      </tr>
+    </thead>
+     
+    <tbody>
+      <tr>
+        <td
+          class="border-b border-grey-l3 relative px-6 text-grey"
+        >
+          
+          Email
+        
+        </td>
+         
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+        <td
+          class="border-l border-b border-grey-l3 text-left px-6 py-4"
+        >
+          <span
+            class="fas fa-check text-green"
+          />
+        </td>
+      </tr>
+    </tbody>
+     
+    <thead>
+      <tr>
+        <th
+          class="w-1/4"
+        >
+          <div
+            class="flex"
+          >
+            <app-tooltip-stub
+              class="font-normal text-left"
+              color="dark"
+              position="right"
+              thresholdoffset="100"
+            >
+               
+              <span
+                class="w-64"
+              >
+                TRANSLATE:pricing.annually
+              </span>
+            </app-tooltip-stub>
+             
+            <switcher-stub
+              class="text-black font-medium pr-3"
+              color="red"
+              label="TRANSLATE:public.bill.bill_annually"
+              rules=""
+              value="true"
+            />
+          </div>
+        </th>
+         
+        <th
+          class="w-1/5 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="uppercase"
+          >
+            
+            Free
+          
+          </h2>
+           
+          <transition-stub
+            mode="out-in"
+            name="fade"
+          >
+            <div>
+              <div>
+                <h2
+                  class="text-red text-h3 font-normal"
+                >
+                  
+                  0 €/TRANSLATE:general.year_shortcut
+                
+                </h2>
+              </div>
+               
+              <div
+                class="flex items-end"
+              >
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  loading-text="TRANSLATE:general.updating"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </transition-stub>
+        </th>
+        <th
+          class="w-1/5 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="uppercase"
+          >
+            
+            Basic
+          
+          </h2>
+           
+          <transition-stub
+            mode="out-in"
+            name="fade"
+          >
+            <div>
+              <div>
+                <h2
+                  class="text-red text-h3 font-normal"
+                >
+                  
+                  900 €/TRANSLATE:general.year_shortcut
+                
+                </h2>
+              </div>
+               
+              <div
+                class="flex items-end"
+              >
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  loading-text="TRANSLATE:general.updating"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </transition-stub>
+        </th>
+        <th
+          class="w-1/5 border-l border-grey-l3 text-left px-6 py-12"
+        >
+          <h2
+            class="uppercase"
+          >
+            
+            Premium
+          
+          </h2>
+           
+          <h2
+            class="text-red text-h3 font-normal uppercase"
+          >
+            <div>
+              
+              TRANSLATE:general.custom
+
+              
+              <div
+                class="flex items-end"
+              >
+                <app-button-stub
+                  btnclass="primary"
+                  class="mt-4"
+                  disabled="true"
+                  style="min-height: 3.25rem;"
+                  title="TRANSLATE:general.get_started"
+                />
+              </div>
+            </div>
+          </h2>
+        </th>
+      </tr>
+       
+      <tr>
+        <td
+          class="relative px-6 text-grey"
+        />
+         
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+        <td
+          class="border-l border-grey-l3 text-left px-6 py-2 font-medium"
+        >
+          <div>
+            <span
+              class="text-grey-l1 text-p2"
+            >
+              <span
+                class="text-red"
+              >
+                *
+              </span>
+              
+            </span>
+          </div>
+        </td>
+      </tr>
+    </thead>
+  </table>
+</tr>
+`;

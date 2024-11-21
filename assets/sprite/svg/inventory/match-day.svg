@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="match-day" transform="translate(5.000000, 5.000000)">
+            <rect id="Rectangle" fill="#FF553F" x="0" y="0" width="74" height="13.6"></rect>
+            <g id="Page-1" transform="translate(0.000000, 13.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="Icons:-Main">
+                    <g id="bigboard-front">
+                        <polygon id="Stroke-1" points="0 35.46 74 35.46 74 0.6 0 0.6"></polygon>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="5.75" y="58.74" width="8" height="15.26"></rect>
+            <path d="M9.75,58.74 L9.75,49.43" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="60.25" y="58.74" width="8" height="15.26"></rect>
+            <path d="M64.25,58.74 L64.25,49.43" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16.5,41.18 C11.2551655,40.0157522 7.51728395,35.3724727 7.5,30 L7.5,20.71 L25.5,20.71 L25.5,30 C25.482716,35.3724727 21.7448345,40.0157522 16.5,41.18 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M57.5,41.18 C52.2551655,40.0157522 48.517284,35.3724727 48.5,30 L48.5,20.71 L66.5,20.71 L66.5,30 C66.482716,35.3724727 62.7448345,40.0157522 57.5,41.18 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" fill="#000000" cx="37" cy="25.83" rx="1.88" ry="1.93"></ellipse>
+            <ellipse id="Oval" fill="#000000" cx="37" cy="36.06" rx="1.88" ry="1.93"></ellipse>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="74" height="13.6"></rect>
+            <path d="M8.7,21.77 L23.08,37" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M48.5,28.51 L66.5,28.51" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

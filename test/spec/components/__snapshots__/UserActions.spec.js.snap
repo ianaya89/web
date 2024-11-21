@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserActions renders default UserActions 1`] = `
+<li
+  class="user--actions min-w-56 mr-8"
+>
+  <content-placeholders
+    class="flex w-32"
+  >
+    <content-placeholders-heading
+      class="w-full"
+      img="true"
+    />
+  </content-placeholders>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute right-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute right-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-chevron-up text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <dropdown-stub
+    class="cursor-default"
+    itemsclasses="top-gap"
+  >
+    <div
+      class="w-full pt-4 max-h-128 overflow-y-scroll"
+    >
+      <div
+        class="w-full"
+      >
+        <div
+          class="text-p2 text-grey min-w-80 px-4 uppercase"
+        >
+          
+          TRANSLATE:app.header.user_dropdown.active_account
+        
+        </div>
+         
+        <div
+          class="px-4 pt-1 flex"
+        >
+          <div
+            class="flex justify-center"
+          >
+            <avatar-stub
+              avatarclasses=""
+              class="my-auto"
+              classes="h-16 w-16"
+              rounded="true"
+              src=""
+              tooltipcolor="light"
+              tooltipposition="top"
+            />
+          </div>
+           
+          <div
+            class="w-2/3 pl-2"
+          >
+            <p
+              class="font-sans text-h7 font-medium"
+            >
+              
+              
+            
+            </p>
+             
+            <p
+              class="text-grey text-p3 leading-tight"
+            >
+              
+              
+            
+            </p>
+             
+            <p
+              class="text-grey text-p3"
+            >
+              
+              
+            
+            </p>
+          </div>
+        </div>
+      </div>
+       
+      <!---->
+       
+      <div
+        class="w-full flex py-4 px-2"
+      >
+        <div
+          class="w-full flex"
+        >
+          <app-button-stub
+            btnclass="link"
+            class="button--action"
+            data-cy="logout"
+            title="TRANSLATE:app.header.user_dropdown.log_out"
+          />
+        </div>
+      </div>
+    </div>
+  </dropdown-stub>
+</li>
+`;

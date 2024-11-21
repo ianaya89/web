@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion renders empty accordion 1`] = `<div />`;
+
+exports[`Accordion renders multi accordion 1`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;
+
+exports[`Accordion renders multi accordion 2`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;
+
+exports[`Accordion renders multi accordion 3`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;
+
+exports[`Accordion renders no-mutli accordion 1`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;
+
+exports[`Accordion renders no-mutli accordion 2`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;
+
+exports[`Accordion renders no-mutli accordion 3`] = `
+<div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+  <div
+    class="accordion border-grey-l3 border-b"
+  >
+    <div
+      class="accordion-header"
+    >
+      <!---->
+        
+      <span
+        class="opener font-bold ml-auto px-4 lni-chevron-down"
+      />
+    </div>
+     
+    <transition-stub
+      name="fade-down"
+    >
+      <!---->
+    </transition-stub>
+  </div>
+</div>
+`;

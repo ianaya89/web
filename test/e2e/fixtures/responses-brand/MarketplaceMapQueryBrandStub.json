@@ -1,0 +1,24 @@
+{
+  "data": {
+    "valuationMap": [
+      {
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "valuation": 0,
+        "__typename": "CountryValuation"
+      },
+      {
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "valuation": 0,
+        "__typename": "CountryValuation"
+      }
+    ]
+  }
+}

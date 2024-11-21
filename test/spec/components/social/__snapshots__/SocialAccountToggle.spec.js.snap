@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialAccountToggle renders SocialAccountToggle 1`] = `
+<div
+  class="flex items-center"
+>
+  <switcher-stub
+    color="red"
+    disabled="true"
+    label=""
+    rules=""
+    value="true"
+  />
+   
+  <avatar-stub
+    avatarclasses=""
+    classes="h-12 w-12 mr-4"
+    src=""
+    tooltipcolor="light"
+    tooltipposition="top"
+  />
+   
+  <span
+    class="font-serif text-grey"
+  >
+    
+    Totally awesome page
+  
+  </span>
+</div>
+`;

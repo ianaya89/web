@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppFooter renders footer with current year and social media links 1`] = `
+<footer
+  class="w-full flex flex-wrap-reverse sm:flex-wrap pb-12 sm:pb-6 lg:pb-24"
+>
+  <div
+    class="w-full lg:w-2/5 flex lg:justify-center px-8 py-8 sm:py-3 mt-1"
+  >
+    <span
+      class="font-bold"
+    >
+      <a
+        class="text-grey"
+      >
+        
+      </a>
+    </span>
+     
+    <span
+      class="text-grey ml-1 my-auto"
+    >
+      © 2022 
+    </span>
+  </div>
+   
+  <div
+    class="w-4/5 lg:w-3/5 px-8 pt-4 text-menu"
+  >
+    <div
+      class="my-auto w-full sm:flex"
+    >
+      <div
+        class="sm:flex-1"
+      >
+        <a
+          class="text-grey my-auto ml-auto"
+        >
+          
+          
+        
+        </a>
+         
+        <span
+          class="px-2"
+        >
+          |
+        </span>
+         
+        <a
+          class="text-grey my-auto ml-auto"
+        >
+          
+          
+        
+        </a>
+      </div>
+       
+      <div
+        class="pt-6 sm:pt-0 self-end"
+      >
+        <a
+          class="text-grey my-auto text-h5"
+          href="https://www.linkedin.com/company/sponsor-online/"
+          rel="noopener"
+          target="_blank"
+        >
+          <span
+            class="fab fa-linkedin"
+          />
+        </a>
+         
+        <a
+          class="text-grey my-auto ml-8 text-h5"
+          href="https://www.facebook.com/SponsorOnline-279923382517995/"
+          rel="noopener"
+          target="_blank"
+        >
+          <span
+            class="fab fa-facebook"
+          />
+        </a>
+         
+        <a
+          class="text-grey my-auto ml-8 text-h5"
+          href="https://www.youtube.com/channel/UCWhrAaCSGj1Si0q8X8KXlsw"
+          rel="noopener"
+          target="_blank"
+        >
+          <span
+            class="fab fa-youtube"
+          />
+        </a>
+         
+        <a
+          class="text-grey my-auto ml-8 text-h5"
+          href="https://twitter.com/SponsorOnline"
+          rel="noopener"
+          target="_blank"
+        >
+          <span
+            class="fab fa-twitter-square"
+          />
+        </a>
+         
+        <a
+          class="text-grey my-auto ml-8 text-h5"
+          href="https://www.instagram.com/sponsor.online"
+          rel="noopener"
+          target="_blank"
+        >
+          <span
+            class="fab fa-instagram"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+`;

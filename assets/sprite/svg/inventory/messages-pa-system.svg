@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="messages-p|a-system" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle" fill="#FF553F" x="43.59" y="9" width="24" height="34.86"></rect>
+            <rect id="Rectangle" fill="#FF553F" x="12.41" y="9" width="24" height="34.86"></rect>
+            <g id="Page-1" transform="translate(0.000000, 63.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <g id="Icons:-Main">
+                    <g id="tribune-two">
+                        <path d="M80,17 L0,17" id="Stroke-1"></path>
+                        <path d="M7,15 C7,15 7.52,9 7.89,4.58 C8.10883757,1.98380399 10.2846135,-0.00920676163 12.89,0 L19.13,0 C21.7353865,-0.00920676163 23.9111624,1.98380399 24.13,4.58 C24.48,9 25,15 25,15" id="Stroke-6"></path>
+                        <path d="M7.64,9.34 L9.09,9.14 C13.6744581,8.50028944 18.3255419,8.50028944 22.91,9.14 L24.36,9.34" id="Stroke-7"></path>
+                        <path d="M31,15 C31,15 31.52,9 31.89,4.58 C32.1088376,1.98380399 34.2846135,-0.00920676163 36.89,0 L43.13,0 C45.7353865,-0.00920676163 47.9111624,1.98380399 48.13,4.58 C48.48,9 49,15 49,15" id="Stroke-8"></path>
+                        <path d="M31.64,9.34 L33.09,9.14 C37.6744581,8.50028944 42.3255419,8.50028944 46.91,9.14 L48.36,9.34" id="Stroke-9"></path>
+                        <path d="M55,15 C55,15 55.52,9 55.89,4.58 C56.1088376,1.98380399 58.2846135,-0.00920676163 60.89,0 L67.13,0 C69.7353865,-0.00920676163 71.9111624,1.98380399 72.13,4.58 C72.48,9 73,15 73,15" id="Stroke-10"></path>
+                        <path d="M55.64,9.34 L57.09,9.14 C61.6744581,8.50028944 66.3255419,8.50028944 70.91,9.14 L72.36,9.34" id="Stroke-11"></path>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="43.59" y="9" width="24" height="34.86"></rect>
+            <circle id="Oval" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="55.59" cy="21.95" r="5.5"></circle>
+            <circle id="Oval" fill="#000000" cx="21.41" cy="34.88" r="1.89"></circle>
+            <circle id="Oval" fill="#000000" cx="27.41" cy="34.88" r="1.89"></circle>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="12.41" y="9" width="24" height="34.86"></rect>
+            <circle id="Oval" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="24.41" cy="21.95" r="5.5"></circle>
+            <circle id="Oval" fill="#000000" cx="52.59" cy="34.88" r="1.89"></circle>
+            <circle id="Oval" fill="#000000" cx="58.59" cy="34.88" r="1.89"></circle>
+            <path d="M5.75,18.85 L0,14.95" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M5.75,31.95 L0,35.86" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M5.99,25.4 L0,25.4" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M74.25,18.85 L80,14.95" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M74.25,31.95 L80,35.86" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M74.01,25.4 L80,25.4" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M31.41,0 L31.41,9" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17.41,0 L17.41,9" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M62.42,0 L62.42,9" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M48.41,0 L48.41,9" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

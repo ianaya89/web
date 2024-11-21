@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialMediaPostFooter renders SocialMediaPostFooter 1`] = `
+<div
+  class="w-full border-t border-grey-l3 text-p1 py-2 mt-1"
+>
+  <div
+    class="w-full flex text-menu"
+  >
+    <social-media-post-stats-stub
+      post="[object Object]"
+      socialtype="facebook"
+    />
+     
+    <span
+      class="social-type"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MonthlyPageViews renders MonthlyPageViews 1`] = `
+<div>
+  <h4>
+    TRANSLATE:app.brand.profile.audience.page_views.chart.title
+  </h4>
+   
+  <div
+    class="w-full mt-4"
+  >
+    <line-chart-stub
+      enablemousetracking="true"
+      height="400"
+      labelformatter="vm => function () {
+  return \`
+            <div class=\\"text-h4\\">\${vm.$filters.date(this.point.date, 'MMM YYYY')}</div>
+            <div class=\\"flex w-full\\">
+              <div class=\\"w-1/2\\">
+                <div class=\\"pt-3\\">
+                  <div class=\\"text-grey text-p5 uppercase tracking-wide\\">
+                    \${vm.$t('app.brand.profile.audience.page_views.chart.total')}
+                  </div>
+                  <div class=\\"text-h7 uppercase font-medium leading-tight\\">
+                    \${vm.$filters.number(this.y)}
+                  </div>
+                </div>
+              </div>
+              <div class=\\"w-1/2\\">
+                <div class=\\"pt-3\\">
+                  <div class=\\"text-grey text-p5 uppercase tracking-wide\\">
+                    \${vm.$t('app.brand.profile.audience.page_views.chart.unique')}
+                  </div>
+                  <div class=\\"text-h7 uppercase font-medium leading-tight\\">
+                    \${vm.$filters.number(this.point.unique)}
+                  </div>
+                </div>
+              </div>
+            </div>
+            \`;
+}"
+      series="[object Object]"
+      tooltip="true"
+    />
+  </div>
+</div>
+`;

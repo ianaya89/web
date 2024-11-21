@@ -1,0 +1,9 @@
+{
+  "data": {
+    "recaptcha": {
+      "status": "success",
+      "errors": [],
+      "__typename": "RecaptchaResult"
+    }
+  }
+}

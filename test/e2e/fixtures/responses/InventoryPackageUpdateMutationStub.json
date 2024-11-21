@@ -1,0 +1,16 @@
+{
+  "data": {
+    "updatePackage": {
+      "id": "96",
+      "price": 1010302.64,
+      "children": [
+        {
+          "id": "92",
+          "__typename": "Inventory"
+        }
+      ],
+      "excludedIndustries": [],
+      "__typename": "Package"
+    }
+  }
+}

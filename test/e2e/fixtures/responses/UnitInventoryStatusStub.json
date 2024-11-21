@@ -1,0 +1,260 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "inventoryStatus": {
+          "percentage": 25,
+          "selectedCategories": [
+            {
+              "id": "2",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "20",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "39",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "49",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "59",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "95",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "100",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "111",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "132",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "134",
+              "__typename": "MarketplaceItemCategory"
+            }
+          ],
+          "allCheckedCategories": [
+            {
+              "id": "2",
+              "path": "player-kit / shirt",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "7",
+              "path": "player-kit / shorts",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "10",
+              "path": "player-kit / socks",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "13",
+              "path": "player-kit / tracksuit",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "16",
+              "path": "player-kit / winter-jacket",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "20",
+              "path": "stadium / naming-rights",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "23",
+              "path": "stadium / static-boards",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "27",
+              "path": "stadium / mini-static-boards",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "31",
+              "path": "stadium / led-boards",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "34",
+              "path": "stadium / mini-led-boards",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "37",
+              "path": "stadium / giant-screen",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "39",
+              "path": "stadium / 3d-carpet",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "41",
+              "path": "stadium / competition",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "43",
+              "path": "stadium / match-day-sponsor",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "47",
+              "path": "stadium / backdrops",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "49",
+              "path": "stadium / messages-over-pa-system",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "51",
+              "path": "stadium / sector-branding",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "54",
+              "path": "hospitality / lounge",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "59",
+              "path": "hospitality / skybox",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "64",
+              "path": "hospitality / promotion",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "66",
+              "path": "hospitality / hospitality-tickets",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "68",
+              "path": "hospitality / hospitality-branding",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "70",
+              "path": "hospitality / screens",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "73",
+              "path": "media / website-link",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "77",
+              "path": "media / social-media",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "95",
+              "path": "media / sportvideo",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "97",
+              "path": "media / match-programme",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "100",
+              "path": "suppliers / technical-supplier",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "108",
+              "path": "suppliers / food-beverage",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "111",
+              "path": "suppliers / transport",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "115",
+              "path": "suppliers / accommodation",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "118",
+              "path": "campaign / player-testimonial",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "120",
+              "path": "campaign / event",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "122",
+              "path": "campaign / brand-activation",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "124",
+              "path": "campaign / youth-team-sponsor",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "126",
+              "path": "campaign / youth-tournament-sponsor",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "128",
+              "path": "campaign / newsletter",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "130",
+              "path": "campaign / print-material",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "132",
+              "path": "campaign / guess-the-right-result-win",
+              "__typename": "MarketplaceItemCategory"
+            },
+            {
+              "id": "134",
+              "path": "campaign / discount-for-fans",
+              "__typename": "MarketplaceItemCategory"
+            }
+          ],
+          "__typename": "InventoryStatus"
+        },
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

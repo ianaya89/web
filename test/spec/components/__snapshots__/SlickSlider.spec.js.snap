@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SlickSlider renders slider 1`] = `
+<div
+  class="slick-slider relative w-full h-full"
+>
+  <transition-stub
+    appear="true"
+    name="fade-down"
+  >
+    <div
+      class="nav-arrows px-8 py-8 absolute z-10"
+    >
+      <span
+        class="item-left lni-arrow-left disabled"
+      />
+       
+      <span
+        class="item-right lni-arrow-right"
+      />
+    </div>
+  </transition-stub>
+   
+  <div
+    class="items-container"
+  >
+    <div
+      class="moving-items-container w-1/2 sm:w-full"
+    >
+      <div
+        class="slick-item active"
+      >
+        <div
+          class="images"
+        >
+          <img
+            alt="Name"
+            class="original-image w-auto"
+            src="some image"
+          />
+           
+          <img
+            alt="Name"
+            class="grayscale-mask w-auto"
+            src="some image"
+          />
+        </div>
+         
+        <div
+          class="item-text leading-normal"
+        >
+          <p
+            class="font-bold"
+          >
+            
+            Name
+          
+          </p>
+           Position
+          
+          <a
+            href="Link"
+            rel="noopener"
+            tabindex="0"
+            target="_blank"
+          >
+            <i
+              class="fab fa-linkedin-in pl-1 text-p4 text-red"
+            />
+          </a>
+        </div>
+      </div>
+      <div
+        class="slick-item"
+      >
+        <div
+          class="images"
+        >
+          <img
+            alt="Name"
+            class="original-image w-auto"
+            src="some image"
+          />
+           
+          <img
+            alt="Name"
+            class="grayscale-mask w-auto"
+            src="some image"
+          />
+        </div>
+         
+        <div
+          class="item-text leading-normal"
+        >
+          <p
+            class="font-bold"
+          >
+            
+            Name
+          
+          </p>
+           Position
+          
+          <a
+            href="Link"
+            rel="noopener"
+            tabindex="0"
+            target="_blank"
+          >
+            <i
+              class="fab fa-linkedin-in pl-1 text-p4 text-red"
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

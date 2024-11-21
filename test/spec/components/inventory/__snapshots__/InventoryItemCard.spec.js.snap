@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryItemCard renders InventoryItemCard 1`] = `
+<div
+  class="w-full flex flex-col h-full z-10"
+>
+  <div
+    class="flex-1"
+  >
+    <div
+      class="w-full flex pb-2"
+    >
+      <app-label-stub
+        color="label-yellow"
+        small="true"
+      >
+        <span>
+          TRANSLATE:general.expired
+        </span>
+      </app-label-stub>
+       
+      <dropdown-stub
+        activator="true"
+        class="-mr-1 ml-auto"
+        deactivator="true"
+        itemsclasses="top-gap p-4"
+      >
+         
+        <ul>
+          <li
+            class="cursor-pointer"
+          >
+            
+            TRANSLATE:general.edit
+          
+          </li>
+           
+          <li
+            class="cursor-pointer"
+            data-cy="item-duplicate"
+          >
+            
+            TRANSLATE:general.duplicate
+          
+          </li>
+           
+          <li
+            class="cursor-pointer"
+          >
+            
+            TRANSLATE:general.delete
+          
+          </li>
+        </ul>
+      </dropdown-stub>
+    </div>
+     
+    <div
+      class="w-full flex justify-center"
+    >
+      <inventory-icon-stub
+        category="[object Object]"
+        class="w-1/2 h-16"
+      />
+    </div>
+     
+    <h5
+      class="mt-2 pt-2 leading-tight border-t border-grey-l2"
+    >
+      
+      override
+    
+    </h5>
+     
+    <p
+      class="text-grey text-p3 py-2 -mt-2 leading-tight"
+    >
+      
+      TRANSLATE:app.marketplace.categories.b
+    
+    </p>
+  </div>
+   
+  <div
+    class="flex items-end"
+  >
+    <app-button-stub
+      btnclass="primary-inverted-outlined"
+      class="w-full mt-auto"
+      data-cy="edit"
+      title="TRANSLATE:general.edit"
+    />
+  </div>
+   
+  <confirmation-modal-stub
+    bodytext="TRANSLATE:app.inventory.items.delete_modal.text"
+    confirmbtntext="TRANSLATE:app.inventory.items.delete_modal.btn"
+    headertext="TRANSLATE:app.inventory.items.delete_modal.title"
+  />
+</div>
+`;

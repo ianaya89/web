@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown check open/hide dropdown 1`] = `
+<div
+  class="relative w-5 h-6"
+>
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-times text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;
+
+exports[`Dropdown check open/hide dropdown 2`] = `
+<div
+  class="relative w-5 h-6"
+>
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-times text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;
+
+exports[`Dropdown check open/hide dropdown 3`] = `
+<div
+  class="relative w-5 h-6"
+>
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-times text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;
+
+exports[`Dropdown check open/hide dropdown 4`] = `
+<div
+  class="relative w-5 h-6"
+>
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-times text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;
+
+exports[`Dropdown renders default 1`] = `
+<div
+  class="relative w-5 h-6"
+>
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+    >
+      <span
+        class="fas fa-chevron-down text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="cursor-pointer absolute top-0 left-0 right-0 bottom-0 text-center"
+      style="display: none;"
+    >
+      <span
+        class="fas fa-times text-red"
+      />
+    </div>
+  </transition-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;

@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchItem renders SearchItem 1`] = `
+<div
+  class="w-full md:w-1/3 px-2 py-4"
+>
+  <div
+    class="search-item flex h-full flex-col shadow-hover relative"
+  >
+    <div
+      class="search-item-content flex flex-col pt-4 px-6 flex-1"
+    >
+      <inventory-item-info-stub
+        class="mb-2 cursor-pointer"
+        classes="h-10 w-10"
+        info=""
+        src=""
+        title="test"
+      />
+       
+      <div
+        class="w-full flex justify-center my-2"
+      >
+        <inventory-icon-stub
+          category="a / b / c"
+          class="w-20 h-20"
+        />
+      </div>
+       
+      <div
+        class="mt-2 flex flex-wrap flex-1"
+      >
+        <div>
+          <h6
+            class="text-grey text-h7"
+          >
+            
+            TRANSLATE:app.marketplace.categories.undefined
+            
+            <small>
+              
+              (TRANSLATE:app.marketplace.categories.undefined)
+            
+            </small>
+          </h6>
+           
+          <h3
+            class="leading-tight"
+          >
+            
+            Name
+          
+          </h3>
+        </div>
+         
+        <div
+          class="w-full self-end"
+        >
+          <app-button-stub
+            btnclass="link"
+            class="text-left"
+            title="TRANSLATE:app.compare.add_to_comparison"
+          />
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="search-item-content w-full flex px-6 py-4 relative border-t border-grey-l4 min-h-20 self-end"
+    >
+      <div
+        class="search-item-info"
+      >
+        <div
+          class="pr-1 my-auto w-full"
+        >
+          <h4>
+            500 €
+          </h4>
+        </div>
+      </div>
+       
+      <div
+        class="search-item-show flex items-center"
+      >
+        <app-button-stub
+          btnclass="primary"
+          class="w-full"
+          title="TRANSLATE:app.marketplace.show_item.title"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="absolute w-full h-48 bg-grey-l5 bottom-0"
+    />
+  </div>
+</div>
+`;

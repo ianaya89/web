@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination renders default pagination 1`] = `
+<v-pagination-stub
+  class="pagination"
+  length="4"
+  nexticon="fas fa-chevron-right"
+  previcon="fas fa-chevron-left"
+  totalvisible="6"
+  value="0"
+/>
+`;

@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge check change badge value 1`] = `
+<div
+  class="rounded-full bg-red text-white w-6 h-6 text-center text-p4 flex items-center border-white border-solid border-2"
+>
+  <transition-stub
+    mode="out-in"
+    name="fade"
+  >
+    <span
+      class="pt-px flex-1 font-bold leading-none"
+    >
+      
+      30
+    
+    </span>
+  </transition-stub>
+</div>
+`;
+
+exports[`Badge renders big badge value 1`] = `
+<div
+  class="rounded-full bg-red text-white w-6 h-6 text-center text-p4 flex items-center border-white border-solid border-2"
+>
+  <transition-stub
+    mode="out-in"
+    name="fade"
+  >
+    <span
+      class="pt-px flex-1 font-bold leading-none"
+    >
+      
+      30
+    
+    </span>
+  </transition-stub>
+</div>
+`;
+
+exports[`Badge renders big badge value 2`] = `
+<div
+  class="rounded-full bg-red text-white w-6 h-6 text-center text-p4 flex items-center border-white border-solid border-2"
+>
+  <transition-stub
+    mode="out-in"
+    name="fade"
+  >
+    <span
+      class="pt-px flex-1 font-bold leading-none"
+    >
+      
+      30
+    
+    </span>
+  </transition-stub>
+</div>
+`;
+
+exports[`Badge renders empty badge 1`] = `
+<div
+  class="rounded-full bg-red text-white w-6 h-6 text-center text-p4 flex items-center border-white border-solid border-2"
+>
+  <transition-stub
+    mode="out-in"
+    name="fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;

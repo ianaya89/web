@@ -1,0 +1,303 @@
+{
+  "data": {
+    "marketplaceSearch": {
+      "data": [
+        {
+          "id": "70",
+          "nameOverride": "error",
+          "price": 9956790.83,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "76",
+            "name": "Navigation",
+            "path": "media / website-link / navigation",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "3",
+            "entity": {
+              "id": "2",
+              "name": "2. Bundesliga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/8?token=KcixKqFW5Gc2bhUEG7M5xSNEbq93TUJA&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "37",
+          "nameOverride": null,
+          "price": 9811132.57,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "29",
+            "name": "Pitch level 2nd row",
+            "path": "stadium / mini-static-boards / pitch-level-2nd-row",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "11",
+            "entity": {
+              "id": "3",
+              "name": "FC Trnava",
+              "logo": {
+                "url": "http://sponsor.test/uploads/18?token=K6FMXEk8qghFcSxR8XLsnK0pxtE7F4Lo&conversion=thumb",
+                "__typename": "Image"
+              },
+              "city": {
+                "id": "2",
+                "latitude": 48.374736,
+                "longitude": 17.503429,
+                "__typename": "City"
+              },
+              "__typename": "Team"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "96",
+          "nameOverride": "facilis",
+          "price": 9773992.88,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "71",
+            "name": "VIP club",
+            "path": "hospitality / screens / vip-club",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "5",
+            "entity": {
+              "id": "3",
+              "name": "Fortuna Liga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/9?token=fi0IESTerwCT3H2Bmf9TosiPQkcGZzqM&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "98",
+          "nameOverride": "modi",
+          "price": 9772624.27,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "58",
+            "name": "Behind right goal tribune",
+            "path": "hospitality / lounge / behind-right-goal-tribune",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "5",
+            "entity": {
+              "id": "3",
+              "name": "Fortuna Liga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/9?token=fi0IESTerwCT3H2Bmf9TosiPQkcGZzqM&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "94",
+          "nameOverride": null,
+          "price": 9598214.29,
+          "itemType": "package",
+          "children": [
+            {
+              "id": "96",
+              "category": {
+                "id": "71",
+                "name": "VIP club",
+                "__typename": "MarketplaceItemCategory"
+              },
+              "__typename": "MarketplaceItem"
+            },
+            {
+              "id": "97",
+              "category": {
+                "id": "55",
+                "name": "Main tribune",
+                "__typename": "MarketplaceItemCategory"
+              },
+              "__typename": "MarketplaceItem"
+            },
+            {
+              "id": "98",
+              "category": {
+                "id": "58",
+                "name": "Behind right goal tribune",
+                "__typename": "MarketplaceItemCategory"
+              },
+              "__typename": "MarketplaceItem"
+            }
+          ],
+          "category": {
+            "id": "138",
+            "name": "Silver",
+            "path": "silver",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "5",
+            "entity": {
+              "id": "3",
+              "name": "Fortuna Liga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/9?token=fi0IESTerwCT3H2Bmf9TosiPQkcGZzqM&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "76",
+          "nameOverride": null,
+          "price": 9579208.78,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "69",
+            "name": "Branding",
+            "path": "hospitality / hospitality-branding / branding",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "3",
+            "entity": {
+              "id": "2",
+              "name": "2. Bundesliga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/8?token=KcixKqFW5Gc2bhUEG7M5xSNEbq93TUJA&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "75",
+          "nameOverride": null,
+          "price": 9550831.41,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "82",
+            "name": "Substitutions",
+            "path": "media / social-media / substitutions",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "3",
+            "entity": {
+              "id": "2",
+              "name": "2. Bundesliga",
+              "logo": {
+                "url": "http://sponsor.test/uploads/8?token=KcixKqFW5Gc2bhUEG7M5xSNEbq93TUJA&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "League"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "18",
+          "nameOverride": null,
+          "price": 9476605.29,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "24",
+            "name": "Pitch level 1st row",
+            "path": "stadium / static-boards / pitch-level-1st-row",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "9",
+            "entity": {
+              "id": "2",
+              "name": "FC National",
+              "logo": {
+                "url": "http://sponsor.test/uploads/14?token=Km5G9XGYgF4LZaaWCC5GzNh5OG180TgK&conversion=thumb",
+                "__typename": "Image"
+              },
+              "city": {
+                "id": "1",
+                "latitude": 48.135924,
+                "longitude": 16.975835,
+                "__typename": "City"
+              },
+              "__typename": "Team"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "32",
+          "nameOverride": "dolorem",
+          "price": 9472591.69,
+          "itemType": "inventory",
+          "children": [],
+          "category": {
+            "id": "102",
+            "name": "Shorts",
+            "path": "suppliers / technical-supplier / shorts",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "unit": {
+            "id": "9",
+            "entity": {
+              "id": "2",
+              "name": "FC National",
+              "logo": {
+                "url": "http://sponsor.test/uploads/14?token=Km5G9XGYgF4LZaaWCC5GzNh5OG180TgK&conversion=thumb",
+                "__typename": "Image"
+              },
+              "city": {
+                "id": "1",
+                "latitude": 48.135924,
+                "longitude": 16.975835,
+                "__typename": "City"
+              },
+              "__typename": "Team"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "MarketplaceItem"
+        }
+      ],
+      "paginatorInfo": {
+        "lastPage": 7,
+        "total": 55,
+        "__typename": "PaginatorInfo"
+      },
+      "__typename": "MarketplaceItemPaginator"
+    }
+  }
+}

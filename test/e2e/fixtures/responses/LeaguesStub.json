@@ -1,0 +1,1436 @@
+{
+  "data": {
+    "leagues": [
+      {
+        "id": "1",
+        "name": "Bundesliga",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "2",
+        "name": "2. Bundesliga",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "3",
+        "name": "3. Liga",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "4",
+        "name": "Austrian Bundesliga",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "5",
+        "name": "Czech First League",
+        "country": {
+          "id": "62",
+          "name": "Czech Republic",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "6",
+        "name": "LaLiga Santander",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "7",
+        "name": "OTP Bank League",
+        "country": {
+          "id": "71",
+          "name": "Hungary",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "8",
+        "name": "Nemzeti Bajnoks\u00e1g II",
+        "country": {
+          "id": "71",
+          "name": "Hungary",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "9",
+        "name": "Swiss Super League",
+        "country": {
+          "id": "98",
+          "name": "Switzerland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "10",
+        "name": "Serie A",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "11",
+        "name": "Ekstraklasa",
+        "country": {
+          "id": "87",
+          "name": "Poland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "12",
+        "name": "Fortuna Liga",
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "13",
+        "name": "II. Liga",
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "14",
+        "name": "Demo league",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "15",
+        "name": "Slovakia league",
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "16",
+        "name": "Fortuna Liga (SK)",
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "17",
+        "name": "LaLiga SmartBank",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "18",
+        "name": "Hrvatski Telekom Prva Liga",
+        "country": {
+          "id": "60",
+          "name": "Croatia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "19",
+        "name": "Czech Second League",
+        "country": {
+          "id": "62",
+          "name": "Czech Republic",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "22",
+        "name": "Regionalliga S\u00fcdwest",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "25",
+        "name": "Scottish Premiership",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "26",
+        "name": "Segunda Divisi\u00f3n B",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "27",
+        "name": "Serie B",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "28",
+        "name": "Regionalliga West",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "29",
+        "name": "Regionalliga Nordost",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "30",
+        "name": "Superliga",
+        "country": {
+          "id": "234",
+          "name": "Argentina",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "31",
+        "name": "Premier League",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "32",
+        "name": "Women Bundesliga",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "33",
+        "name": "Ligue 1 Uber Eats",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "34",
+        "name": "Arabian Gulf League",
+        "country": {
+          "id": "48",
+          "name": "United Arab Emirates",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "35",
+        "name": "Jupiler Pro League",
+        "country": {
+          "id": "57",
+          "name": "Belgium",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "36",
+        "name": "Erste Liga",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "37",
+        "name": "REGIONALLIGA MITTE",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "38",
+        "name": "Prva liga Telekom Slovenije",
+        "country": {
+          "id": "94",
+          "name": "Slovenia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "40",
+        "name": "Proximus League",
+        "country": {
+          "id": "57",
+          "name": "Belgium",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "41",
+        "name": "Liga 1 Betano",
+        "country": {
+          "id": "89",
+          "name": "Romania",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "42",
+        "name": "SuperLiga Serbia",
+        "country": {
+          "id": "92",
+          "name": "Serbia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "43",
+        "name": "English Football League Championship",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "44",
+        "name": "Eredivisie",
+        "country": {
+          "id": "85",
+          "name": "Netherlands",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "45",
+        "name": "Welsh Premier League",
+        "country": {
+          "id": "300",
+          "name": "Wales",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "46",
+        "name": "1 Liga",
+        "country": {
+          "id": "87",
+          "name": "Poland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "47",
+        "name": "SUPERLIGAEN",
+        "country": {
+          "id": "63",
+          "name": "Denmark",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "48",
+        "name": "BGL Ligue",
+        "country": {
+          "id": "79",
+          "name": "Luxembourg",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "49",
+        "name": "Ligat ha'Al",
+        "country": {
+          "id": "18",
+          "name": "Israel",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "50",
+        "name": "A Lyga",
+        "country": {
+          "id": "78",
+          "name": "Lithuania",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "51",
+        "name": "Regionalliga Nord",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "52",
+        "name": "Regionalliga Bayern",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "53",
+        "name": "NordicBet LIGA",
+        "country": {
+          "id": "63",
+          "name": "Denmark",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "54",
+        "name": "2 Liga",
+        "country": {
+          "id": "87",
+          "name": "Poland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "55",
+        "name": "Serie C",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "56",
+        "name": "Primera B Nacional",
+        "country": {
+          "id": "234",
+          "name": "Argentina",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "57",
+        "name": "VEIKKAUSLIIGA",
+        "country": {
+          "id": "66",
+          "name": "Finland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "58",
+        "name": "\u00d6FB-Frauen Bundesliga",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "59",
+        "name": "YKK\u00d6NEN",
+        "country": {
+          "id": "66",
+          "name": "Finland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "60",
+        "name": "Oman Football Association",
+        "country": {
+          "id": "33",
+          "name": "Oman",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "61",
+        "name": "UEFA Women's Champions League",
+        "country": {
+          "id": "98",
+          "name": "Switzerland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "62",
+        "name": "League of Ireland Premier Division",
+        "country": {
+          "id": "73",
+          "name": "Ireland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "63",
+        "name": "Saudi Professional League",
+        "country": {
+          "id": "38",
+          "name": "Saudi Arabia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "64",
+        "name": "Premium Liiga",
+        "country": {
+          "id": "64",
+          "name": "Estonia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "65",
+        "name": "Football Association Women's Super League",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "66",
+        "name": "2. Frauen-Bundesliga",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "67",
+        "name": "Liga NOS",
+        "country": {
+          "id": "88",
+          "name": "Portugal",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "68",
+        "name": "Russian Premier League",
+        "country": {
+          "id": "90",
+          "name": "Russia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "69",
+        "name": "Super League One",
+        "country": {
+          "id": "70",
+          "name": "Greece",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "70",
+        "name": "AFC Champions League",
+        "country": {
+          "id": "302",
+          "name": "Asia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "71",
+        "name": "Ukrainian Premier Liga",
+        "country": {
+          "id": "99",
+          "name": "Ukraine",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "72",
+        "name": "Liga MX Apertura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "73",
+        "name": "Liga MX Clausura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "74",
+        "name": "Allsvenskan",
+        "country": {
+          "id": "97",
+          "name": "Sweden",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "75",
+        "name": "Segunda Divisi\u00f3n B",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "76",
+        "name": "English Football League One",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "77",
+        "name": "English Football League Two",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "78",
+        "name": "Primera Iberdrola",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "79",
+        "name": "Eerste Divisie",
+        "country": {
+          "id": "85",
+          "name": "Netherlands",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "80",
+        "name": "Scottish Championship",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "81",
+        "name": "Scottish League One",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "82",
+        "name": "Scottish League Two",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "83",
+        "name": "Virsliga",
+        "country": {
+          "id": "76",
+          "name": "Latvia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "84",
+        "name": "UAE First Division League",
+        "country": {
+          "id": "48",
+          "name": "United Arab Emirates",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "85",
+        "name": "Reto Iberdrola",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "86",
+        "name": "Slovenian Second League",
+        "country": {
+          "id": "94",
+          "name": "Slovenia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "87",
+        "name": "2. Slovenska Nogometna Liga",
+        "country": {
+          "id": "94",
+          "name": "Slovenia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "88",
+        "name": "2.Division",
+        "country": {
+          "id": "63",
+          "name": "Denmark",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "89",
+        "name": "Campeonato Uruguayo",
+        "country": {
+          "id": "246",
+          "name": "Uruguay",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "90",
+        "name": "Liga 1 Clausura",
+        "country": {
+          "id": "244",
+          "name": "Peru",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "91",
+        "name": "Liga 1 Apertura",
+        "country": {
+          "id": "244",
+          "name": "Peru",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "92",
+        "name": "Eliteserien",
+        "country": {
+          "id": "86",
+          "name": "Norway",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "93",
+        "name": "Russian First Division",
+        "country": {
+          "id": "90",
+          "name": "Russia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "94",
+        "name": "Serie A Calcio Femminile",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "95",
+        "name": "Serie B Calcio Femminile",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "96",
+        "name": "Liga \u00c1guila I",
+        "country": {
+          "id": "238",
+          "name": "Colombia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "97",
+        "name": "Liga \u00c1guila II",
+        "country": {
+          "id": "238",
+          "name": "Colombia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "98",
+        "name": "EFL Digital",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "99",
+        "name": "Scottish Women's Premier League",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "100",
+        "name": "Scottish Women's Premier League 1",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "101",
+        "name": "SWPL2",
+        "country": {
+          "id": "285",
+          "name": "Scotland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "102",
+        "name": "Ligue 2 BKT",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "103",
+        "name": "Challenge League",
+        "country": {
+          "id": "98",
+          "name": "Switzerland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "104",
+        "name": "Promotion League",
+        "country": {
+          "id": "98",
+          "name": "Switzerland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "105",
+        "name": "Liga Pro",
+        "country": {
+          "id": "88",
+          "name": "Portugal",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "106",
+        "name": "Major League Soccer",
+        "country": {
+          "id": "228",
+          "name": "United States",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "107",
+        "name": "National Women's Soccer League",
+        "country": {
+          "id": "228",
+          "name": "United States",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "109",
+        "name": "LEC",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "110",
+        "name": "Arkema D1",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "111",
+        "name": "Austria Bundesliga FIFA 2019",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "112",
+        "name": "LPLOL",
+        "country": {
+          "id": "88",
+          "name": "Portugal",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "113",
+        "name": "eFootball.Pro",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "114",
+        "name": "Ascenso MX Apertura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "115",
+        "name": "Ascenso MX Clausura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "116",
+        "name": "OBOS-LIGAEN",
+        "country": {
+          "id": "86",
+          "name": "Norway",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "117",
+        "name": "Division 2 F\u00e9minine",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "118",
+        "name": "Division 1 F\u00e9minine",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "119",
+        "name": "Apertura Primera Divisi\u00f3n de Venezuela",
+        "country": {
+          "id": "247",
+          "name": "Venezuela",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "120",
+        "name": "Clausura Primera Divisi\u00f3n de Venezuela",
+        "country": {
+          "id": "247",
+          "name": "Venezuela",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "121",
+        "name": "Segunda Divisi\u00f3n de Venezuela",
+        "country": {
+          "id": "247",
+          "name": "Venezuela",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "122",
+        "name": "Campeonato AFP PlanVital",
+        "country": {
+          "id": "237",
+          "name": "Chile",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "123",
+        "name": "Liga 1 Movistar",
+        "country": {
+          "id": "244",
+          "name": "Peru",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "124",
+        "name": "ESL Rocket League",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "125",
+        "name": "ESL Fifa",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "126",
+        "name": "Northern Premier League Division One East",
+        "country": {
+          "id": "286",
+          "name": "England",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "127",
+        "name": "VBL (Virtual Bundesliga Club Championship)",
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "128",
+        "name": "Damallsvenskan",
+        "country": {
+          "id": "97",
+          "name": "Sweden",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "129",
+        "name": "VEIKKAUSLIIGA - Backup",
+        "country": {
+          "id": "66",
+          "name": "Finland",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "130",
+        "name": "eLaLiga Santander",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "131",
+        "name": "eSPL",
+        "country": {
+          "id": "38",
+          "name": "Saudi Arabia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "132",
+        "name": "FIFA eWorld Cup",
+        "country": {
+          "id": "100",
+          "name": "United Kingdom",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "133",
+        "name": "S\u00fcper Lig",
+        "country": {
+          "id": "46",
+          "name": "Turkey",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "134",
+        "name": "Liga MX Femenil Apertura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "135",
+        "name": "Liga MX Femenil Clausura",
+        "country": {
+          "id": "213",
+          "name": "Mexico",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "136",
+        "name": "D2 f\u00e9minine",
+        "country": {
+          "id": "67",
+          "name": "France",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "137",
+        "name": "Super League 1",
+        "country": {
+          "id": "70",
+          "name": "Greece",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "138",
+        "name": "eSuperliga",
+        "country": {
+          "id": "63",
+          "name": "Denmark",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "139",
+        "name": "Sport Innovation Alliance",
+        "country": {
+          "id": "95",
+          "name": "Spain",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "140",
+        "name": "eLiga Portugal",
+        "country": {
+          "id": "88",
+          "name": "Portugal",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "141",
+        "name": "Super League Women",
+        "country": {
+          "id": "57",
+          "name": "Belgium",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "142",
+        "name": "Czech Republic - Honduras 29.3.2020 Miami",
+        "country": {
+          "id": "228",
+          "name": "United States",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "143",
+        "name": "eBundesliga",
+        "country": {
+          "id": "55",
+          "name": "Austria",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "144",
+        "name": "ESL Premiership",
+        "country": {
+          "id": "100",
+          "name": "United Kingdom",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "145",
+        "name": "eSerie A",
+        "country": {
+          "id": "74",
+          "name": "Italy",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "146",
+        "name": "Cyta Championship",
+        "country": {
+          "id": "61",
+          "name": "Cyprus",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "147",
+        "name": "Cypriot Second Division",
+        "country": {
+          "id": "61",
+          "name": "Cyprus",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "148",
+        "name": "Brasileir\u00e3o S\u00e9rie B",
+        "country": {
+          "id": "236",
+          "name": "Brazil",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      },
+      {
+        "id": "150",
+        "name": "Russian Second Division",
+        "country": {
+          "id": "90",
+          "name": "Russia",
+          "__typename": "Country"
+        },
+        "__typename": "League"
+      }
+    ]
+  }
+}

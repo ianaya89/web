@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Partners renders Partners 1`] = `
+<div
+  class="w-full pt-24"
+>
+  <div
+    class="w-full"
+  >
+    <h3>
+      TRANSLATE:app.profile.team.finances.sponsor.title
+    </h3>
+  </div>
+   
+  <div
+    class="w-full mt-4 flex flex-wrap"
+  />
+</div>
+`;

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="84px" viewBox="0 0 68 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="media-score" transform="translate(2.000000, 2.000000)">
+            <polygon id="Fill-1" fill="#FF553F" points="7 65.1 57 65.1 57 16 7 16"></polygon>
+            <polygon id="Stroke-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 80 64 80 64 0 0 0"></polygon>
+            <path d="M9,6 C10.1045695,6 11,6.8954305 11,8 C11,9.1045695 10.1045695,10 9,10 C7.8954305,10 7,9.1045695 7,8 C7,6.8954305 7.8954305,6 9,6 Z" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Stroke-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="7 65.1 57 65.1 57 16 7 16"></polygon>
+            <path d="M7,72 L32,72" id="Stroke-6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17,8 L32,8" id="Stroke-9" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19.79,39.4 C18.0935326,39.4000021 16.4666938,38.7253993 15.2680485,37.5248782 C14.0694031,36.324357 13.3973451,34.6964653 13.4,33 L13.3999922,22.33 L26.1800078,22.33 L26.18,33 C26.1826549,34.6964653 25.5105969,36.324357 24.3119515,37.5248782 C23.1133062,38.7253993 21.4864674,39.4000021 19.79,39.4 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M37.4,22.33 L50.18,22.33 L50.18,33 C50.18,34.6947334 49.5067698,36.3200549 48.3084123,37.5184123 C47.1100549,38.7167698 45.4847334,39.39 43.79,39.39 C40.2609004,39.39 37.4,36.5290996 37.4,33 L37.4,22.33 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" fill="#000000" cx="32" cy="26.91" r="1.15"></circle>
+            <circle id="Oval" fill="#000000" cx="32" cy="30.76" r="1.15"></circle>
+            <path d="M14,49 L39,49" id="Stroke-6-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14,56 L29,56" id="Stroke-6-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M35,56 L49,56" id="Stroke-6-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TweenContent renders tween 1`] = `
+<div
+  class="tween tween-invisible"
+>
+  <span>
+    1230 ks
+  </span>
+</div>
+`;

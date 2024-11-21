@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fan" transform="translate(2.000000, 1.000000)">
+            <rect id="Rectangle" fill="#FF553F" x="7.55" y="1" width="64.91" height="15"></rect>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="29.75 61.49 24.19 56.98 17.84 46.17 14.57 17.5"></polyline>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="22.04 81 21.87 74.32 10.36 49.81 9.31 17.5"></polyline>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="49.86 61.49 55.11 57.69 62.17 46.17 65.43 17.5"></polyline>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="57.96 81 58.13 73.62 69.64 49.81 70.69 17.5"></polyline>
+            <path d="M40,28.1 C37.12,28.1 33.67,28.62 31.73,30.75 C29.79,32.88 29.56,36.45 29.85,39.32 L30.14,42.19" id="Stroke-1" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,28.1 C42.88,28.1 46.33,28.62 48.27,30.75 C50.21,32.88 50.44,36.45 50.15,39.32 L49.86,42.19" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M30.1399968,41.83 C30.1397066,42.0679451 30.1597799,42.3054786 30.2,42.54 C30.42,43.87 31.2,48.75 31.92,52.86 C32.5387063,56.612931 35.4192664,59.5891115 39.15,60.33 C39.7113283,60.440001 40.2886717,60.440001 40.85,60.33 C44.5807336,59.5891115 47.4612937,56.612931 48.08,52.86 C48.77,48.75 49.58,43.86 49.8,42.54 C49.8402201,42.3054786 49.8602934,42.0679451 49.8600032,41.83" id="Stroke-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M45.64,57.69 C45.6405548,58.5375372 46.1912266,59.2866127 47,59.54 C48.0670766,60.0426588 49.0436047,60.7184567 49.89,61.54 C49.89,61.54 48.3,69.63 40,69.63 C31.7,69.63 29.75,61.49 29.75,61.49 C30.760299,60.6958311 31.8613435,60.0244625 33.03,59.49 C33.8269071,59.2260466 34.3636312,58.4794755 34.36,57.64" id="Stroke-11" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M29.57,42.59 C29.0813992,42.3505246 28.5004803,42.4005375 28.06,42.72 C27.6185569,43.0362918 27.390856,43.5727396 27.47,44.11 C27.61,45.11 27.78,46.31 27.93,47.34 C28.0244371,47.9805935 28.4231626,48.5358281 29,48.83 C29.5769212,49.1288829 30.2630788,49.1288829 30.84,48.83" id="Stroke-15" stroke="#000000" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M50.39,42.59 C50.8821113,42.3510009 51.4656203,42.4009063 51.91,42.72 C52.3514431,43.0362918 52.579144,43.5727396 52.5,44.11 C52.35,45.11 52.19,46.31 52.04,47.34 C51.9560604,47.9863612 51.5624221,48.5512736 50.985125,48.8538569 C50.4078279,49.1564402 49.7192991,49.1587326 49.14,48.86" id="Stroke-16" stroke="#000000" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M49.86,40.16 C47.6614375,39.1093562 45.6377332,37.7264916 43.86,36.06 C39.5674593,38.1575493 34.9213489,39.4360775 30.16,39.83" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M21.19,53.38 L15.68,60.42" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M58.26,54.55 L64.32,60.81" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="7.55" y="1" width="64.91" height="15"></rect>
+            <path d="M8.21,1 L0,1" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.49,6 L0,6" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.49,11 L0,11" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.49,16 L0,16" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80,1 L70.69,1" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80,6 L73.51,6" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80,11 L73.51,11" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80,16 L73.51,16" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

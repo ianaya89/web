@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Growth renders Growth not colored text 1`] = `
+<div
+  class="flex items-center"
+>
+  <span
+    class="fas fa-arrow-alt-circle-down text-red"
+  />
+   
+  <span
+    class="ml-1 pt-1"
+  >
+    <span
+      class="flex"
+    />
+  </span>
+</div>
+`;
+
+exports[`Growth renders Growth with value: -30 1`] = `
+<div
+  class="flex items-center"
+>
+  <span
+    class="fas fa-arrow-alt-circle-down text-red"
+  />
+   
+  <span
+    class="ml-1 pt-1 text-red"
+  >
+    <span
+      class="flex"
+    />
+  </span>
+</div>
+`;
+
+exports[`Growth renders Growth with value: 30 1`] = `
+<div
+  class="flex items-center"
+>
+  <span
+    class="fas fa-arrow-alt-circle-up text-green"
+  />
+   
+  <span
+    class="ml-1 pt-1 text-green"
+  >
+    <span
+      class="flex"
+    />
+  </span>
+</div>
+`;

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "league": {
+      "id": "1",
+      "precalcs": [
+        {
+          "season": {
+            "id": "4",
+            "name": "2018/19",
+            "__typename": "Season"
+          },
+          "date": "2019-06-30 00:00:00",
+          "data": {
+            "matchVisitors": {
+              "avgStadiumAttendance": 11682,
+              "avgMatchdayAttendance": 23884,
+              "avgStadiumCapacity": 1641,
+              "avgStadiumUtilization": 56547,
+              "matchesCount": 813,
+              "cumulativeAttendance": 51740,
+              "__typename": "MatchVisitor"
+            },
+            "__typename": "LeaguePrecalcFields"
+          },
+          "__typename": "LeaguePrecalcs"
+        }
+      ],
+      "__typename": "League"
+    }
+  }
+}

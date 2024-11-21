@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppInput check password visible option 1`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-input v-text-field theme--light no-required mt-6"
+  >
+    <div
+      class="v-input__control"
+    >
+      <div
+        class="v-input__slot"
+      >
+        <div
+          class="v-text-field__slot"
+        >
+          <label
+            aria-hidden="true"
+            class="v-label theme--light"
+            style="left: 0px; position: absolute;"
+          >
+            Label
+          </label>
+          <input
+            appendedicon="lni-eye"
+            appendedicon2="lni-cross-circle"
+            aria-label="Label"
+            classes="mt-6"
+            passwordswitch="true"
+            sololabel="Label"
+            tooltiptext="Tooltip"
+            type="password"
+          />
+        </div>
+        <div
+          class="v-input__append-inner"
+        >
+          <div
+            class="v-input__icon v-input__icon--append"
+          >
+            <i
+              aria-hidden="true"
+              class="v-icon v-icon--link lni lni-eye theme--light"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="v-text-field__details"
+      >
+        <div
+          class="v-messages theme--light"
+        >
+          <div
+            class="v-messages__wrapper"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AppInput check password visible option 2`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-input v-text-field theme--light no-required mt-6"
+  >
+    <div
+      class="v-input__control"
+    >
+      <div
+        class="v-input__slot"
+      >
+        <div
+          class="v-text-field__slot"
+        >
+          <label
+            aria-hidden="true"
+            class="v-label theme--light"
+            style="left: 0px; position: absolute;"
+          >
+            Label
+          </label>
+          <input
+            appendedicon="lni-eye"
+            appendedicon2="lni-cross-circle"
+            aria-label="Label"
+            classes="mt-6"
+            passwordswitch="true"
+            sololabel="Label"
+            tooltiptext="Tooltip"
+            type="password"
+          />
+        </div>
+        <div
+          class="v-input__append-inner"
+        >
+          <div
+            class="v-input__icon v-input__icon--append"
+          >
+            <i
+              aria-hidden="true"
+              class="v-icon v-icon--link lni lni-eye theme--light"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="v-text-field__details"
+      >
+        <div
+          class="v-messages theme--light"
+        >
+          <div
+            class="v-messages__wrapper"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AppInput check password visible option 3`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-input v-text-field theme--light no-required mt-6"
+  >
+    <div
+      class="v-input__control"
+    >
+      <div
+        class="v-input__slot"
+      >
+        <div
+          class="v-text-field__slot"
+        >
+          <label
+            aria-hidden="true"
+            class="v-label theme--light"
+            style="left: 0px; position: absolute;"
+          >
+            Label
+          </label>
+          <input
+            appendedicon="lni-eye"
+            appendedicon2="lni-cross-circle"
+            aria-label="Label"
+            classes="mt-6"
+            passwordswitch="true"
+            sololabel="Label"
+            tooltiptext="Tooltip"
+            type="password"
+          />
+        </div>
+        <div
+          class="v-input__append-inner"
+        >
+          <div
+            class="v-input__icon v-input__icon--append"
+          >
+            <i
+              aria-hidden="true"
+              class="v-icon v-icon--link lni lni-eye theme--light"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="v-text-field__details"
+      >
+        <div
+          class="v-messages theme--light"
+        >
+          <div
+            class="v-messages__wrapper"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AppInput renders default input 1`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <v-text-field-stub
+    class=" 0 1"
+    classes="mt-6"
+    label="Label"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+    type="text"
+  />
+</div>
+`;
+
+exports[`AppInput renders email sticky label input 1`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <v-text-field-stub
+    class=" 0 1"
+    classes="mt-6"
+    label="Email"
+    rules=""
+    single-line="true"
+    sololabel="Label"
+    stickylabel="true"
+    tooltiptext="Tooltip"
+    type="email"
+  />
+</div>
+`;
+
+exports[`AppInput renders input with placeholder outline and hint 1`] = `
+<div
+  appendiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+  prependiconclickcallback="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <!---->
+   
+  <v-text-field-stub
+    class=" 0 1"
+    classes="mt-6"
+    hint="Please write your first name"
+    label="First name"
+    outline="true"
+    persistenthint="true"
+    placeholder="Your name"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+    type="text"
+  />
+</div>
+`;

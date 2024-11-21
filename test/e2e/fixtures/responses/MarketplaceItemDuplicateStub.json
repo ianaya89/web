@@ -1,0 +1,10 @@
+{
+  "data": {
+    "duplicateMarketplaceItems": [
+      {
+        "id": "118",
+        "__typename": "MarketplaceItem"
+      }
+    ]
+  }
+}

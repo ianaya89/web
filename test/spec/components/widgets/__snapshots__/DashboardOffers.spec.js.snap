@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DashboardOffers renders DashboardOffers 1`] = `
+<div
+  class="w-full"
+>
+  <div
+    class="w-full"
+  >
+    <div
+      class="w-full flex px-2"
+    >
+      <div
+        class="mr-auto"
+      >
+        <label-chart-stub
+          animation="true"
+          info="COUNT-TRANSLATE:app.team.dashboard.new_offer"
+          label="0"
+          labelclass="text-h3"
+          piecolors="#21CE99,#D4D4D4"
+        />
+      </div>
+       
+      <div
+        class="ml-auto my-auto"
+      >
+        <app-button-stub
+          btnclass="link"
+          title="TRANSLATE:app.team.dashboard.see_new_offers"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="w-full bg-white shadow-xl px-4 pt-8 pb-4"
+    >
+      <step-pager-stub />
+    </div>
+  </div>
+</div>
+`;

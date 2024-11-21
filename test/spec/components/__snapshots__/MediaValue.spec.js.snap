@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaValue renders MediaValue and iconSign is correct 1`] = `
+<div
+  class="media-value w-full flex px-4 pt-3 pb-2 border-b border-grey-l3 cursor-pointer"
+>
+  <div
+    class="flex mr-4"
+  >
+    <div
+      class="inline-block bg-transparent p-px h-10 w-10"
+    >
+      <div
+        class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4"
+        style="background-image: url(thumb-fallback.svg);"
+      >
+        <div
+          class="bottom-0 right-0 absolute z-10 icon-sign -m-1 fab fa-twitter-square"
+        >
+          <span
+            class="fab fa-twitter-square"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+   
+  <div
+    class="w-4/5 flex"
+  >
+    <div
+      class="w-full my-auto"
+    >
+      <p
+        class="font-sans font-medium leading-tight"
+      >
+        
+        
+      
+      </p>
+       
+      <p
+        class="text-grey font-sans"
+      >
+        
+        TRANSLATE:app.profile.team.fans.media.followers: 456
+      
+      </p>
+    </div>
+  </div>
+</div>
+`;

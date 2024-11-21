@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PublicHeader renders PublicHeader 1`] = `
+<header
+  class="header--public flex w-full h-24 justify-between"
+>
+  <div
+    class="flex"
+  >
+    <ul
+      class="flex"
+    >
+      <li>
+        <a
+          class=""
+        >
+          
+          TRANSLATE:public.header.teams
+        
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+        >
+          
+          TRANSLATE:public.header.brands
+        
+        </a>
+      </li>
+      <li>
+        <a
+          class="text-red"
+        >
+          
+          TRANSLATE:public.header.news
+        
+        </a>
+      </li>
+    </ul>
+  </div>
+   
+  <div
+    class="flex"
+  >
+    <ul
+      class="flex justify-end"
+    >
+      <li>
+        <a
+          class="my-auto text-white"
+        >
+          
+          TRANSLATE:public.header.login
+        
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>
+`;

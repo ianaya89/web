@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stadium-sector" transform="translate(2.000000, 12.000000)">
+            <rect id="Rectangle" fill="#FF553F" x="40" y="18.57" width="13.07" height="15.61"></rect>
+            <path d="M40,18.25 C62.08,18.25 80,23.52 80,30.01 C80,34.49 71.5,38.38 59,40.37 C52.7129118,41.3328636 46.3603454,41.8042909 40,41.78 C33.6396546,41.8042909 27.2870882,41.3328636 21,40.37 C8.5,38.38 0,34.49 0,30 C0,23.52 17.92,18.25 40,18.25 Z" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80,30 L74,48.33 C72.28,55.32 58.77,61 40,61 C21.23,61 7.72,54.79 6,48.33 L0,30" id="Stroke-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-1" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="52.68 60.02 52.68 49.71 27.97 49.71 27.97 60.02"></polyline>
+            <path d="M36.21,49.71 L36.21,60.93" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M44.44,49.71 L44.44,59.87" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,34.18 L40,18.25" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="70.76 8.16 60.62 8.16 61.29 0 72.03 0"></polyline>
+            <path d="M72.73,0 L65.47,39" id="Stroke-17" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M54.71,19.81 L53,34.82" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="9.24 8.16 19.38 8.16 18.71 0 7.97 0"></polyline>
+            <path d="M14.53,39 L7.27,0" id="Stroke-17-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M25.29,19.81 L27,34.82" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10.19,37.34 C19.9969053,35.2982719 29.9829904,34.2397 40,34.18 C50.0170096,34.2397 60.0030947,35.2982719 69.81,37.34" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

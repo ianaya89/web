@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StadiumVisitors renders stadium visitors 1`] = `
+<div
+  class="w-full mt-16 mb-32"
+>
+  <div
+    class="w-full flex"
+  >
+    <div
+      class="flex"
+    >
+      <h5
+        class="mr-auto"
+      >
+        
+        TRANSLATE:app.profile.team.stadium.perMatchVisitors
+      
+      </h5>
+       
+      <app-tooltip-stub
+        class="font-normal text-left"
+        color="dark"
+        position="right"
+        thresholdoffset="100"
+      >
+         
+        <p
+          class="w-64 font-sans"
+        >
+          
+          TRANSLATE:app.profile.team.stadium.totalVisitorsHomeMatches
+        
+        </p>
+      </app-tooltip-stub>
+    </div>
+  </div>
+   
+  <div
+    class="w-full"
+  >
+    <timeseries-chart-stub
+      enablemousetracking="true"
+      fillcolor="0,rgba(255,85,63,0.3),1,rgba(255,85,63,0)"
+      height="400"
+      labelformatter="vm => function () {
+      return \`
+            <div class=\\"chart__title\\">\${vm.$filters.date(this.x)}</div>
+            <div class=\\"chart__val mb-2\\">
+              \${vm.$t('general.visitors')}: \${vm.$filters.number(this.y)}
+            </div>
+            <hr class=\\"h-px w-full bg-grey-l3 mb-4\\">
+            <div class=\\"w-full flex\\">
+              <div class=\\"w-2/5 flex flex-col items-center text-grey-l1\\">
+                <div style=\\"background-image: url(\${vm.$get(this.point, 'participants.home.team.logo.url')})\\" class=\\"w-10 h-10 bg-center bg-contain bg-no-repeat\\"></div>
+                <span class=\\"break-words whitespace-normal max-w-full\\">\${vm.$get(this.point, 'participants.home.team.name')}</span>
+              </div>
+              <div class=\\"w-1/5 flex flex-1 items-center justify-center text-h7 font-bold\\">
+                \${vm.$get(this.point, 'participants.home.score')}
+                :
+                \${vm.$get(this.point, 'participants.away.score')}
+              </div>
+              <div class=\\"w-2/5 flex flex-col items-center text-grey-l1\\">
+                <div style=\\"background-image: url(\${vm.$get(this.point, 'participants.away.team.logo.url')})\\" class=\\"w-10 h-10 bg-center bg-contain bg-no-repeat\\"></div>
+                <span class=\\"break-words whitespace-normal max-w-full\\">\${vm.$get(this.point, 'participants.away.team.name')}</span>
+              </div>
+            </div>
+            \`;
+    }"
+      plotlines="true"
+      series="[object Object]"
+      seriescolor="#ff553f"
+      seriestype="area"
+      tooltip="true"
+    />
+  </div>
+</div>
+`;

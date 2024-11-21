@@ -1,0 +1,252 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "campaignsPaginator": {
+          "data": [
+            {
+              "id": "215",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "214",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "213",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "212",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "211",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "210",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "209",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "208",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "207",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            },
+            {
+              "id": "206",
+              "name": "asd",
+              "message": "message",
+              "openRate": 0,
+              "sendAt": "2020-12-20 20:30:00",
+              "processedAt": null,
+              "inventoryItems": [
+                {
+                  "id": "1",
+                  "__typename": "Inventory"
+                }
+              ],
+              "packageItems": [],
+              "recipients": [
+                {
+                  "id": "1",
+                  "company": "Russel and Sons",
+                  "__typename": "Contact"
+                }
+              ],
+              "__typename": "Campaign"
+            }
+          ],
+          "paginatorInfo": {
+            "lastPage": 2,
+            "total": 15,
+            "__typename": "PaginatorInfo"
+          },
+          "__typename": "CampaignsPaginator"
+        },
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

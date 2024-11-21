@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialMediaPost renders SocialMediaPost 1`] = `
+<div
+  class="social-media-post"
+>
+  <div
+    class="w-full py-3 px-2 flex"
+  >
+    <avatar-stub
+      avatarclasses=""
+      classes="w-10 h-10"
+      rounded="true"
+      src=""
+      tooltipcolor="light"
+      tooltipposition="top"
+    />
+     
+    <div
+      class="ml-2 my-auto"
+    >
+      <span
+        class="text-h7 font-medium"
+      >
+        
+        -
+      
+      </span>
+    </div>
+  </div>
+   
+  <img
+    alt="Social media post cover image"
+    class="w-full"
+    src=""
+  />
+   
+  <div
+    class="w-full px-3"
+  >
+    <span
+      class="font-serif"
+    >
+      
+      -
+    
+    </span>
+     
+    <social-media-post-footer-stub
+      post="[object Object]"
+      socialtype="facebook"
+    />
+  </div>
+   
+  <social-media-post-modal-stub
+    socialpost="[object Object]"
+    socialtype="facebook"
+  />
+</div>
+`;

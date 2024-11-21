@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserAvailableUnit renders UserAvailableUnit 1`] = `
+<div
+  class="cursor-pointer border-b border-grey-l4 px-6 py-2 hover:bg-grey-l4 relative"
+>
+  <!---->
+   
+  <div
+    class="w-full flex"
+  >
+    <div
+      class="w-1/5 flex"
+    >
+      <avatar-stub
+        avatarclasses=""
+        class="my-auto"
+        classes="h-12 w-12"
+        rounded="true"
+        src=""
+        tooltipcolor="light"
+        tooltipposition="top"
+      />
+    </div>
+     
+    <div
+      class="w-4/5 pl-2"
+    >
+      <p
+        class="font-sans font-medium leading-tight text-p2 pt-2 leading-tight"
+      >
+        
+        Test
+      
+      </p>
+       
+      <p
+        class="text-grey text-p3"
+      >
+        
+        Test two
+      
+      </p>
+    </div>
+  </div>
+</div>
+`;

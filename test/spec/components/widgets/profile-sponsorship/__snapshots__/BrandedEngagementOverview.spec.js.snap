@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BrandedEngagementOverview renders BrandedEngagementOverview 1`] = `
+<div
+  class="w-full my-20"
+>
+  <div>
+    <h3>
+      TRANSLATE:app.profile.team.fans.media_exposure.title
+    </h3>
+  </div>
+   
+  <div
+    class="w-full flex mt-4 -mx-4"
+  >
+    <div
+      class="mr-auto flex px-4"
+    >
+      <h4
+        class="my-auto"
+      >
+        
+        TRANSLATE:app.profile.team.fans.media_exposure.sources
+      
+      </h4>
+    </div>
+     
+    <div
+      class="ml-auto px-4"
+    >
+      <app-select-stub
+        class="max-w-sm ml-auto px-4"
+        errormessages=""
+        hidedetails="true"
+        items="[object Object],[object Object]"
+        outline="true"
+        rules=""
+        solo="true"
+        sololabel="Label"
+        tooltiptext="Tooltip"
+        value="[object Object]"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="w-full flex mt-8 -mx-4"
+  >
+    <div
+      class="w-3/5 px-4"
+    >
+      <timeseries-chart-stub
+        enablemousetracking="true"
+        fillcolor="0,rgba(255,85,63,0.3),1,rgba(255,85,63,0)"
+        height="400"
+        labelformatter="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+        plotlines="true"
+        series="[object Object]"
+        seriescolor="#ff553f"
+        seriestype="area"
+        tooltip="true"
+      />
+    </div>
+     
+    <div
+      class="w-2/5 px-4"
+    >
+      <sortable-table-stub
+        data=""
+        headers="[object Object],[object Object],[object Object],[object Object]"
+        rowsperpage="-1"
+        sortby="valuation"
+        sortdescending="true"
+      />
+    </div>
+  </div>
+</div>
+`;

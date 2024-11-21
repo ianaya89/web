@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryUploaded renders InventoryUploaded 1`] = `
+<div
+  class="w-full"
+>
+  <div
+    class="w-full flex px-2"
+  >
+    <div
+      class="mr-auto"
+    >
+      <label-chart-stub
+        animation="true"
+        chartvalue="0"
+        info="TRANSLATE:app.team.dashboard.inventory_uploaded"
+        label="0%"
+        labelclass="text-h3"
+        piecolors="#21CE99,#D4D4D4"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="w-full bg-white shadow-xl px-4 py-8"
+  >
+    <div
+      class="icon-scroll"
+    />
+     
+    <app-button-stub
+      btnclass="primary-lg"
+      class="w-full text-left"
+      showarrow="true"
+      title="TRANSLATE:app.team.dashboard.upload_inventory"
+    />
+  </div>
+</div>
+`;

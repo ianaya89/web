@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppButton button with icon 1`] = `
+<button
+  class="relative focus:outline-none button--primary"
+>
+  <!---->
+   
+  <span>
+    <span
+      class="pl-2 pr-1 -mt-2 lni-download"
+    />
+     
+    <span
+      class="max-w-xxs mr-3"
+    >
+      Huraaa
+    </span>
+     
+    <!---->
+  </span>
+   
+  <!---->
+</button>
+`;
+
+exports[`AppButton renders default button 1`] = `
+<button
+  class="relative focus:outline-none button--primary"
+>
+  <!---->
+   
+  <span>
+    <!---->
+     
+    <span
+      class="max-w-xxs"
+    >
+      title
+    </span>
+     
+    <!---->
+  </span>
+   
+  <!---->
+</button>
+`;

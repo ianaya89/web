@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Multiselect renders default multiselect 1`] = `
+<div
+  class="multiselect"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <v-select-stub
+    class="multiselect  0"
+    error-messages=""
+    flat="true"
+    items=""
+    multiple="true"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    value=""
+  />
+</div>
+`;
+
+exports[`Multiselect renders multiselect with items 1`] = `
+<div
+  class="multiselect"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <v-select-stub
+    class="multiselect  0"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    multiple="true"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    value=""
+  />
+</div>
+`;
+
+exports[`Multiselect set value 1`] = `
+<div
+  class="multiselect"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <v-select-stub
+    class="multiselect  0"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    multiple="true"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    value=""
+  />
+</div>
+`;
+
+exports[`Multiselect set value 2`] = `
+<div
+  class="multiselect"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <v-select-stub
+    class="multiselect  0"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    multiple="true"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    value=""
+  />
+</div>
+`;

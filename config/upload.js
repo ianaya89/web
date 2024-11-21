@@ -1,0 +1,8 @@
+export const IMAGE_EXTENSIONS = ['jpg', 'jpeg', 'png', 'bmp', 'gif']
+export const VIDEO_EXTENSIONS = ['mov', 'wmv', 'avi', 'mpeg', 'mp4']
+export const AUDIO_EXTENSIONS = []
+export const ARCHIVE_EXTENSIONS = ['zip', 'rar']
+export const DOC_EXTENSIONS = ['doc', 'docx']
+export const PDF_EXTENSIONS = ['pdf']
+export const EXCEL_EXTENSIONS = ['xls', 'xlsx']
+export const PRESENTATION_EXTENSIONS = ['ppt', 'pptx']

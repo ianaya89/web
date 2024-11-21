@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo renders default logo 1`] = `
+<a
+  class="logo--so"
+  data-cy="logo-link"
+>
+  <img
+    alt="SPONSOR.ONLINE"
+    class="w-32"
+    src="\\"so-logo-dark.svg\\""
+  />
+</a>
+`;
+
+exports[`Logo renders default logo 2`] = `
+<a
+  class="logo--so"
+  data-cy="logo-link"
+>
+  <img
+    alt="SPONSOR.ONLINE"
+    class="w-32"
+    src="\\"so-logo-dark.svg\\""
+  />
+</a>
+`;
+
+exports[`Logo renders default logo 3`] = `
+<a
+  class="logo--so"
+  data-cy="logo-link"
+>
+  <img
+    alt="SPONSOR.ONLINE"
+    class="w-32"
+    src="\\"so-logo-dark.svg\\""
+  />
+</a>
+`;

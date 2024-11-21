@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Trophies renders Trophies 1`] = `
+<div>
+  <div>
+    <div
+      class="flex items-center mb-6 sm:mb-12"
+    >
+      <div
+        class="w-1/5 text-left text-grey text-p2 uppercase tracking-wide"
+      >
+        <svg-icon
+          class="w-full h-10"
+          name="inventory/trophy"
+        />
+      </div>
+       
+      <div
+        class="w-4/5 text-left pl-2"
+      >
+        <h6
+          class="font-medium leading-none"
+        >
+          
+          test
+        
+        </h6>
+         
+        <div
+          class="font-serif text-grey"
+        >
+          <span
+            class="trophy__occurrence"
+          >
+            
+            season name
+          
+          </span>
+          <span
+            class="trophy__occurrence"
+          >
+            
+            season name
+          
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="flex items-center mb-6 sm:mb-12"
+    >
+      <div
+        class="w-1/5 text-left text-grey text-p2 uppercase tracking-wide"
+      >
+        <svg-icon
+          class="w-full h-10"
+          name="inventory/trophy"
+        />
+      </div>
+       
+      <div
+        class="w-4/5 text-left pl-2"
+      >
+        <h6
+          class="font-medium leading-none"
+        >
+          
+          test 2
+        
+        </h6>
+         
+        <div
+          class="font-serif text-grey"
+        >
+          <span
+            class="trophy__occurrence"
+          >
+            
+            season name
+          
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

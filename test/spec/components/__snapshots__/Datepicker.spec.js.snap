@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Datepicker bad type of picker 1`] = `
+<div
+  class="datepicker"
+>
+  <v-menu-stub
+    attach=""
+    closedelay="0"
+    closeonclick="true"
+    contentclass=""
+    fullwidth="true"
+    lazy="true"
+    maxheight="auto"
+    maxwidth="auto"
+    minwidth="290px"
+    nudgebottom="0"
+    nudgeleft="0"
+    nudgeright="0"
+    nudgetop="0"
+    nudgewidth="0"
+    opendelay="0"
+    openonclick="true"
+    origin="top left"
+    transition="scale-transition"
+  >
+     
+    <v-date-picker-stub
+      color="red"
+      eventcolor="warning"
+      firstdayofweek="0"
+      locale="en-us"
+      nexticon="lni-chevron-right"
+      previcon="lni-chevron-left"
+      rules=""
+      showcurrent="true"
+      sololabel="Label"
+      type="date"
+      width="290"
+    />
+  </v-menu-stub>
+</div>
+`;
+
+exports[`Datepicker disabled picker 1`] = `
+<div
+  class="datepicker"
+>
+  <v-menu-stub
+    attach=""
+    closedelay="0"
+    closeonclick="true"
+    contentclass=""
+    fullwidth="true"
+    lazy="true"
+    maxheight="auto"
+    maxwidth="auto"
+    minwidth="290px"
+    nudgebottom="0"
+    nudgeleft="0"
+    nudgeright="0"
+    nudgetop="0"
+    nudgewidth="0"
+    opendelay="0"
+    openonclick="true"
+    origin="top left"
+    transition="scale-transition"
+  >
+     
+    <v-date-picker-stub
+      color="red"
+      disabled="true"
+      eventcolor="warning"
+      firstdayofweek="0"
+      locale="en-us"
+      nexticon="lni-chevron-right"
+      previcon="lni-chevron-left"
+      rules=""
+      showcurrent="true"
+      sololabel="Label"
+      type="date"
+      width="290"
+    />
+  </v-menu-stub>
+</div>
+`;
+
+exports[`Datepicker renders default picker 1`] = `
+<div
+  class="datepicker"
+>
+  <v-menu-stub
+    attach=""
+    closedelay="0"
+    closeonclick="true"
+    contentclass=""
+    fullwidth="true"
+    lazy="true"
+    maxheight="auto"
+    maxwidth="auto"
+    minwidth="290px"
+    nudgebottom="0"
+    nudgeleft="0"
+    nudgeright="0"
+    nudgetop="0"
+    nudgewidth="0"
+    opendelay="0"
+    openonclick="true"
+    origin="top left"
+    transition="scale-transition"
+  >
+     
+    <v-date-picker-stub
+      color="red"
+      eventcolor="warning"
+      firstdayofweek="0"
+      locale="en-us"
+      nexticon="lni-chevron-right"
+      previcon="lni-chevron-left"
+      rules=""
+      showcurrent="true"
+      sololabel="Label"
+      type="date"
+      width="290"
+    />
+  </v-menu-stub>
+</div>
+`;

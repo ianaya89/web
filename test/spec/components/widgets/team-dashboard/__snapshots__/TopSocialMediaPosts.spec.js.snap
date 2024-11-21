@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopSocialMediaPosts renders TopSocialMediaPosts 1`] = `
+<div
+  class="w-full bg-white shadow-xl p-4"
+>
+  <div
+    class="w-full flex"
+  >
+    <div
+      class="mr-auto"
+    >
+      <label-chart-stub
+        animation="true"
+        info="TRANSLATE:app.team.dashboard.social_media_posts"
+        label="0"
+        labelclass="text-h3"
+        piecolors="#21CE99,#D4D4D4"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="w-full"
+  >
+    <h6
+      class="uppercase mt-4 pl-1 text-h7"
+    >
+      
+      TRANSLATE:app.team.dashboard.top_social_media_posts
+    
+    </h6>
+     
+    <div>
+      <p
+        class="text-grey mt-4 text-center"
+      >
+        
+        TRANSLATE:errors.no_results
+      
+      </p>
+    </div>
+  </div>
+</div>
+`;

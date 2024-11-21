@@ -1,0 +1,27 @@
+{
+  "data": {
+    "blog": {
+      "tags": [
+        {
+          "id": "1",
+          "name": "exercitationem",
+          "occurrences": 8,
+          "__typename": "BlogTag"
+        },
+        {
+          "id": "3",
+          "name": "dicta",
+          "occurrences": 7,
+          "__typename": "BlogTag"
+        },
+        {
+          "id": "2",
+          "name": "animi",
+          "occurrences": 6,
+          "__typename": "BlogTag"
+        }
+      ],
+      "__typename": "Blog"
+    }
+  }
+}

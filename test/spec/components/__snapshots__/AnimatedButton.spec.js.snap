@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedButton button with icon 1`] = `
+<button
+  class="btn-primary-lg relative min-w-64 focus:outline-none"
+>
+  <transition-stub
+    appear="true"
+    name="grow-to-right"
+  >
+    <div
+      class="btn-primary-lg-content"
+    >
+      <span>
+        <span
+          class="pl-2 pr-1 -mt-2 lni-download"
+        />
+         
+        <span
+          class="max-w-xxs pt-px leading-tight mr-3"
+        >
+          Huraaa
+        </span>
+         
+        <!---->
+      </span>
+       
+      <!---->
+    </div>
+  </transition-stub>
+</button>
+`;
+
+exports[`AnimatedButton renders default button 1`] = `
+<button
+  class="btn-primary-lg relative min-w-64 focus:outline-none"
+>
+  <transition-stub
+    appear="true"
+    name="grow-to-right"
+  >
+    <div
+      class="btn-primary-lg-content"
+    >
+      <span>
+        <!---->
+         
+        <span
+          class="max-w-xxs pt-px leading-tight"
+        >
+          title
+        </span>
+         
+        <!---->
+      </span>
+       
+      <!---->
+    </div>
+  </transition-stub>
+</button>
+`;

@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryPackageDetail renders default InventoryPackageDetail 1`] = `
+<div
+  class="w-full flex flex-wrap"
+>
+  <div
+    class="w-full md:w-3/4 pt-12 md:pt-32 pb-12 md:pb-24 md:pl-32 px-8 md:px-0"
+  >
+    <div
+      class="md:pr-16 pb-8"
+    >
+      <!---->
+    </div>
+     
+    <div>
+      <div
+        class="w-full flex flex-wrap py-4 md:-mx-4"
+      >
+        <div
+          class="w-full md:w-1/3 md:px-4"
+        >
+          <text-area-stub
+            counter="2000"
+            data-cy="description"
+            errormessages=""
+            name="name"
+            outline="true"
+            required="true"
+            rows="14"
+            rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+            sololabel="TRANSLATE:app.inventory.items.form.description.label"
+          />
+        </div>
+         
+        <div
+          class="w-full md:w-2/3 md:px-4"
+        >
+          <div
+            class="w-full flex flex-wrap md:-mx-4"
+          >
+            <div
+              class="w-full md:w-1/2 md:px-4"
+            >
+              <div>
+                <app-input-stub
+                  appendedicon="lni-euro"
+                  classes="w-full"
+                  data-cy="price"
+                  iscurrency="true"
+                  outline="true"
+                  required="true"
+                  rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+                  sololabel="TRANSLATE:app.inventory.items.form.price.label"
+                  tooltiptext="Tooltip"
+                  type="text"
+                />
+              </div>
+            </div>
+             
+            <div
+              class="w-full md:w-1/2 md:px-4"
+            >
+              <div
+                class="relative"
+              >
+                <datepicker-stub
+                  autoclose="true"
+                  class="left-0 top-0 z-10 w-full"
+                  color="red"
+                  data-cy="visible-from"
+                  firstdayofweek="0"
+                  locale="en-us"
+                  nexticon="lni-chevron-right"
+                  outline="true"
+                  previcon="lni-chevron-left"
+                  required="true"
+                  rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+                  sololabel="TRANSLATE:app.inventory.items.form.visible_from.label"
+                  type="date"
+                />
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="w-full flex flex-wrap md:-mx-4"
+          >
+            <div
+              class="w-full md:w-1/2 md:px-4"
+            >
+              <app-select-stub
+                data-cy="slot-type"
+                errormessages=""
+                items="[object Object],[object Object]"
+                outline="true"
+                required="true"
+                rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+                solo="true"
+                sololabel="TRANSLATE:app.inventory.items.form.slot_type.label"
+                tooltiptext="Tooltip"
+                value="date"
+              />
+            </div>
+             
+            <div
+              class="w-full md:w-1/2 md:px-4"
+            >
+              <multiselect-stub
+                data-cy="excluded-industries"
+                errormessages=""
+                items=""
+                outline="true"
+                rules=""
+                sololabel="TRANSLATE:app.inventory.items.form.excluded_industries.label"
+                value=""
+              />
+            </div>
+          </div>
+           
+          <div
+            class="mt-10"
+          />
+           
+          <div
+            class="-mt-4 border-b border-grey-l3"
+          >
+            <app-button-stub
+              btnclass="link"
+              data-cy="add-next-slot"
+              title="+ TRANSLATE:general.add_another"
+            />
+          </div>
+           
+          <h4
+            class="mt-12"
+          >
+            
+            TRANSLATE:app.inventory.packages.create.included_inventory
+          
+          </h4>
+           
+          <div
+            class="w-full flex flex-wrap pt-6 -mx-1"
+          >
+            <div
+              class="w-32 px-1"
+            >
+              <div
+                class="w-full border border-grey-l3 border-dashed p-4 cursor-pointer"
+                data-cy="add-first-item"
+              >
+                <img
+                  alt="add_first_item image"
+                  class="h-10 mt-4 mb-2 w-full"
+                  src="\\"add_first_item.svg\\""
+                />
+                 
+                <p
+                  class="text-grey text-center text-p3 leading-tight"
+                >
+                  
+                  TRANSLATE:app.inventory.packages.create.add_your_first_item
+                
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+  <div
+    class="w-full md:w-1/4 md:fixed md:right-0 bg-white py-8 md:py-32 pr-8 pl-8 h-full overflow-y-auto"
+  >
+    <h4>
+      TRANSLATE:app.inventory.packages.create.select_inventory
+    </h4>
+     
+    <inventory-items-list-stub
+      categories=""
+      class="mt-4"
+      data-cy="available-inventory"
+      items=""
+      searchattribute="category.path,nameOverride"
+    />
+  </div>
+</div>
+`;

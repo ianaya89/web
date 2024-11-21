@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogNewsletter renders BlogNewsletter 1`] = `
+<div
+  class="blog__newsletter py-4 mt-8"
+>
+  <p
+    class="text-p2 uppercase font-medium text-grey pb-4"
+  >
+    
+    TRANSLATE:blog.newsletter.title
+  
+  </p>
+   
+  <div
+    class="border font-serif border-grey-l4 px-4 pt-8 pb-4"
+  >
+    <p
+      class="mb-8 text-center text-grey"
+    >
+      
+      TRANSLATE:blog.newsletter.message
+    
+    </p>
+     
+    <form
+      class="v-form flex"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input flex-1 v-text-field v-text-field--enclosed v-text-field--outline theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Your email
+              </label>
+              <input
+                aria-label="Your email"
+                type="email"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <button
+        class="v-btn v-btn--depressed theme--light"
+        type="button"
+      >
+        <div
+          class="v-btn__content"
+        >
+          <i
+            class="lni-envelope text-h3"
+          />
+        </div>
+      </button>
+    </form>
+  </div>
+</div>
+`;

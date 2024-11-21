@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar renders default empty sidebar 1`] = `
+<div
+  class="sidebar-nav-column hidden xl:flex bg-white"
+>
+  <nav
+    class="fixed"
+    style="max-height: 100vh;"
+  />
+   
+  <div
+    class="sidebar__footer text-grey-l1 px-8 py-4 flex flex-col items-start justify-center fixed bottom-0"
+    style="width: 12.5rem;"
+  />
+</div>
+`;
+
+exports[`Sidebar renders sidebar with links 1`] = `
+<div
+  class="sidebar-nav-column hidden xl:flex bg-white"
+>
+  <nav
+    class="fixed"
+    style="max-height: 100vh;"
+  >
+    <a
+      class="menu-item text-h7 xl:text-menu mb-6 xl:mb-3"
+      style="width: 12.5rem;"
+    />
+    <a
+      class="menu-item text-h7 xl:text-menu mb-6 xl:mb-3"
+      style="width: 12.5rem;"
+    />
+  </nav>
+   
+  <div
+    class="sidebar__footer text-grey-l1 px-8 py-4 flex flex-col items-start justify-center fixed bottom-0"
+    style="width: 12.5rem;"
+  />
+</div>
+`;

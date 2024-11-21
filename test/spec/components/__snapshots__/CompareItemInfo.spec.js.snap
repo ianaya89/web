@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompareItemInfo renders CompareItemInfo and remove it 1`] = `
+<div
+  class="compare-item"
+>
+  <inventory-item-info-stub
+    classes="h-10 w-10"
+    info="Small info"
+    src="someAvatarSource"
+    title="Title"
+  />
+   
+  <div
+    class="flex pl-4"
+  >
+    <span
+      class="compare-item-remover text-p4 lni-close"
+    />
+  </div>
+</div>
+`;
+
+exports[`CompareItemInfo renders CompareItemInfo value 3 1`] = `
+<div
+  class="compare-item"
+>
+  <inventory-item-info-stub
+    classes="h-10 w-10"
+    info="Small info"
+    src="someAvatarSource"
+    title="Title"
+  />
+   
+  <!---->
+</div>
+`;

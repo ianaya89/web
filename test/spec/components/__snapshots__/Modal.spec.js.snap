@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal renders default modal 1`] = `
+<portal
+  to="modals-outlet"
+>
+   
+  <transition-stub
+    name="fade-fast"
+  >
+    <div
+      class="modal-backdrop items-start sm:items-center"
+      data-cy=""
+      style="display: none;"
+    >
+      <div
+        aria-describedby="modalDescription"
+        aria-labelledby="modalTitle"
+        class="modal w-full flex flex-col items-start min-h-screen sm:min-h-auto sm:max-w-md sm:mx-12"
+        role="dialog"
+        style="display: none;"
+      >
+        <div
+          class="w-full flex-grow"
+        >
+          <header
+            class="modal-header"
+            id="modalTitle"
+          >
+            
+              This is the default title!
+              
+            <button
+              class="btn-close"
+              type="button"
+            />
+          </header>
+           
+          <section
+            class="modal-body text-h7 sm:text-menu"
+            id="modalDescription"
+          />
+        </div>
+         
+        <footer
+          class="modal-footer flex flex-initial items-end"
+        />
+      </div>
+    </div>
+  </transition-stub>
+</portal>
+`;

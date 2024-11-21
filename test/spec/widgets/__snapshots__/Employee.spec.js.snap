@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee renders employee with email 1`] = `
+<div
+  class="employee-card flex bg-white py-6 px-4 shadow-xl"
+>
+  <div
+    class="flex w-1/4 justify-center"
+  >
+    <avatar-stub
+      alt="Image alt"
+      avatarclasses=""
+      classes="w-16 h-16"
+      email="test@test.com"
+      fullname="Some name"
+      position="Founder"
+      rounded="true"
+      src="\\"thumb-fallback.svg\\""
+      tooltipcolor="light"
+      tooltipposition="top"
+    />
+  </div>
+   
+  <div
+    class="w-3/4 flex flex-col justify-between"
+  >
+    <div>
+      <h5
+        class="font-medium"
+      >
+        
+        Some name
+      
+      </h5>
+       
+      <p
+        class="text-grey-l1 -mt-1"
+      >
+        
+        Founder
+      
+      </p>
+    </div>
+     
+    <a
+      href="mailto:test@test.com"
+    >
+      test@test.com
+    </a>
+  </div>
+</div>
+`;
+
+exports[`Employee renders employee without email 1`] = `
+<div
+  class="employee-card flex bg-white py-6 px-4 shadow-xl"
+>
+  <div
+    class="flex w-1/4 justify-center"
+  >
+    <avatar-stub
+      alt="Image alt"
+      avatarclasses=""
+      classes="w-16 h-16"
+      fullname="Some name"
+      position="Founder"
+      rounded="true"
+      src="\\"thumb-fallback.svg\\""
+      tooltipcolor="light"
+      tooltipposition="top"
+    />
+  </div>
+   
+  <div
+    class="w-3/4 flex flex-col justify-between"
+  >
+    <div>
+      <h5
+        class="font-medium"
+      >
+        
+        Some name
+      
+      </h5>
+       
+      <p
+        class="text-grey-l1 -mt-1"
+      >
+        
+        Founder
+      
+      </p>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;

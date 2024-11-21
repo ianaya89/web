@@ -1,0 +1,293 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryItemDetail renders default inventory item detail 1`] = `
+<div
+  class="w-full"
+>
+  <div
+    class="w-full flex flex-wrap mt-4 md:mt-16 px-8 md:px-16 py-8 md:py-12 shadow-xl"
+  >
+    <div
+      class="w-full md:w-1/3 flex mb-4 md:mb-0"
+    >
+      <inventory-icon-stub
+        category="[object Object]"
+        class="w-24 h-24 my-auto"
+      />
+    </div>
+     
+    <div
+      class="w-full md:w-1/3 mb-4 md:mb-0"
+    >
+      <data-label-stub
+        label="TRANSLATE:app.inventory.items.form.name.label"
+        labelclasses="text-grey text-p3 uppercase tracking-wide"
+        uppercase="true"
+      >
+        <span
+          class="text-h3 normal-case"
+        >
+          <app-input-stub
+            class="-mt-2"
+            classes="w-full"
+            data-cy="name-override"
+            required="true"
+            rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+            tooltiptext="Tooltip"
+            type="text"
+            value="TRANSLATE:app.marketplace.categories.-"
+          />
+        </span>
+      </data-label-stub>
+       
+      <data-label-stub
+        class="mt-2"
+        label="TRANSLATE:app.inventory.items.form.placement.label"
+        labelclasses="text-grey text-p3 uppercase tracking-wide"
+        uppercase="true"
+      >
+        <span
+          class="normal-case"
+        >
+          
+          TRANSLATE:app.marketplace.categories.-
+        
+        </span>
+      </data-label-stub>
+    </div>
+     
+    <div
+      class="w-full md:w-1/3"
+    >
+      <data-label-stub
+        label="TRANSLATE:app.inventory.items.form.type.label"
+        labelclasses="text-grey text-p3 uppercase tracking-wide"
+        uppercase="true"
+      >
+        <span
+          class="normal-case"
+        >
+          
+          TRANSLATE:app.marketplace.categories.-
+        
+        </span>
+      </data-label-stub>
+    </div>
+  </div>
+   
+  <div
+    class="w-full flex flex-wrap py-12 md:-mx-4"
+  >
+    <div
+      class="w-full md:w-1/2 md:px-4"
+    >
+      <div
+        class="w-full flex flex-wrap -mx-4"
+      >
+        <div
+          class="w-full px-4"
+        >
+          <div
+            class="w-1/2"
+          >
+            <app-select-stub
+              data-cy="slot-type"
+              errormessages=""
+              items="[object Object],[object Object]"
+              outline="true"
+              required="true"
+              rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+              solo="true"
+              sololabel="TRANSLATE:app.inventory.items.form.slot_type.label"
+              tooltiptext="Tooltip"
+              value="date"
+            />
+          </div>
+        </div>
+          
+        <app-button-stub
+          btnclass="link"
+          class="px-4"
+          data-cy="add-next-slot"
+          title="+ TRANSLATE:general.add_another"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="w-full md:w-1/2 md:px-4 mt-10 md:mt-0"
+    >
+      <h6>
+        
+        TRANSLATE:app.inventory.items.form.upload.images
+        <span
+          class="required-sign"
+        />
+         
+        <!---->
+      </h6>
+       
+      <div
+        class="w-full flex"
+      >
+        <div
+          class="w-1/2 pr-1"
+        >
+          <single-upload-stub
+            btntext="TRANSLATE:app.inventory.items.form.upload.button"
+            class="w-full border border-dashed border-grey-l3 p-4 h-48"
+            data-cy="image-upload-1"
+            extensions="jpg,jpeg,gif,png"
+            infotext="TRANSLATE:app.inventory.items.form.upload.info"
+            paramname="image"
+            showreupload="true"
+            size="5"
+            statusplaceholderclasses="bg-grey-l5"
+            uploadclasses=""
+            uploadurl="/upload/image"
+          />
+        </div>
+         
+        <div
+          class="w-1/2 pl-1"
+        >
+          <single-upload-stub
+            btntext="TRANSLATE:app.inventory.items.form.upload.button"
+            class="w-full border border-dashed border-grey-l3 p-4 h-48"
+            data-cy="image-upload-2"
+            extensions="jpg,jpeg,gif,png"
+            infotext="TRANSLATE:app.inventory.items.form.upload.info"
+            paramname="image"
+            showreupload="true"
+            size="5"
+            statusplaceholderclasses="bg-grey-l5"
+            uploadclasses=""
+            uploadurl="/upload/image"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+   
+  <div
+    class="w-full flex flex-wrap pt-10 border-t border-grey-l3 md:-mx-4"
+  >
+    <div
+      class="w-full md:w-1/2 md:pl-4 md:pr-12"
+    >
+      <text-area-stub
+        counter="2000"
+        data-cy="description"
+        errormessages=""
+        name="name"
+        outline="true"
+        required="true"
+        rows="10"
+        rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+        sololabel="TRANSLATE:app.inventory.items.form.description.label"
+      />
+    </div>
+     
+    <div
+      class="w-full md:w-1/2 md:px-4"
+    >
+      <div
+        class="w-full flex flex-wrap"
+      >
+        <div
+          class="w-full md:w-1/2"
+        >
+          <div
+            class="w-full"
+          >
+            <app-input-stub
+              appendedicon="fas fa-euro-sign"
+              classes="w-full"
+              data-cy="price"
+              iscurrency="true"
+              outline="true"
+              required="true"
+              rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+              sololabel="TRANSLATE:app.inventory.items.form.price.label"
+              tooltiptext="Tooltip"
+              type="text"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="w-full md:w-1/2 md:pl-4"
+        >
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="w-full flex flex-wrap"
+      >
+        <div
+          class="w-full md:w-1/2"
+        >
+          <multiselect-stub
+            data-cy="excluded-industries"
+            errormessages=""
+            items=""
+            outline="true"
+            rules=""
+            sololabel="TRANSLATE:app.inventory.items.form.excluded_industries.label"
+            value=""
+          />
+           
+          <div
+            class="relative"
+          >
+            <datepicker-stub
+              autoclose="true"
+              class="w-full"
+              color="red"
+              data-cy="visible-from"
+              firstdayofweek="0"
+              locale="en-us"
+              nexticon="lni-chevron-right"
+              outline="true"
+              previcon="lni-chevron-left"
+              required="true"
+              rules="function mockConstructor() {
+        return fn.apply(this, arguments);
+      }"
+              sololabel="TRANSLATE:app.inventory.items.form.visible_from.label"
+              type="date"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="w-full md:w-1/2 md:pl-4"
+        >
+          <div
+            class="mb-1"
+          >
+            <switcher-stub
+              color="red"
+              data-cy="sold-separately"
+              label="TRANSLATE:app.inventory.items.form.separately.label"
+              rules=""
+              value="true"
+            />
+             
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

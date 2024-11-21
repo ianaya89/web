@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders avatar specific size 1`] = `
+<div
+  class="inline-block bg-transparent p-px h-10 w-10"
+>
+  <div
+    class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+    style="background-image: url(thumb-fallback.svg);"
+  >
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`Avatar renders avatar with icon sign 1`] = `
+<div
+  class="inline-block bg-transparent p-px h-16 w-16"
+>
+  <div
+    class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+    style="background-image: url(thumb-fallback.svg);"
+  >
+    <div
+      class="bottom-0 right-0 absolute z-10 icon-sign -m-1 fab fa-facebook-f"
+    >
+      <span
+        class="fab fa-facebook-f"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Avatar renders avatar with specific image 1`] = `
+<div
+  class="inline-block bg-transparent p-px h-16 w-16"
+>
+  <div
+    class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+    style="background-image: url(http://someurl.com/image.png);"
+  >
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`Avatar renders default avatar placeholder 1`] = `
+<div
+  class="inline-block bg-transparent p-px h-16 w-16"
+>
+  <div
+    class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+    style="background-image: url(thumb-fallback.svg);"
+  >
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`Avatar renders not rounded avatar 1`] = `
+<div
+  class="inline-block bg-transparent p-px h-16 w-16"
+>
+  <div
+    class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4"
+    style="background-image: url(thumb-fallback.svg);"
+  >
+    <!---->
+  </div>
+</div>
+`;

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "marketplaceItem": {
+      "id": "96",
+      "nameOverride": null,
+      "expiredAt": "2019-08-23 00:00:00",
+      "description": "Some basic description",
+      "dimensions": null,
+      "images": [],
+      "visibleFrom": "2019-08-06 00:00:00",
+      "price": 1010302.64,
+      "slots": [
+        {
+          "id": "360",
+          "slot": "2019-08-19",
+          "quantity": 3,
+          "expiredAt": "2019-08-23 00:00:00",
+          "__typename": "MarketplaceItemSlot"
+        }
+      ],
+      "specialPricing": [],
+      "slotType": "date",
+      "isBroadcasted": null,
+      "isSoldSeparately": true,
+      "itemType": "package",
+      "children": [
+        {
+          "id": "94",
+          "dimensions": "1000",
+          "description": "Some basic description",
+          "nameOverride": null,
+          "category": {
+            "id": "3",
+            "name": "Front",
+            "path": "player-kit / shirt / front",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "95",
+          "dimensions": "1000",
+          "description": "Some basic description",
+          "nameOverride": null,
+          "category": {
+            "id": "3",
+            "name": "Front",
+            "path": "player-kit / shirt / front",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "93",
+          "dimensions": "1000",
+          "description": "Some basic description",
+          "nameOverride": null,
+          "category": {
+            "id": "3",
+            "name": "Front",
+            "path": "player-kit / shirt / front",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "__typename": "MarketplaceItem"
+        },
+        {
+          "id": "92",
+          "dimensions": "1000",
+          "description": "Some basic description",
+          "nameOverride": null,
+          "category": {
+            "id": "3",
+            "name": "Front",
+            "path": "player-kit / shirt / front",
+            "__typename": "MarketplaceItemCategory"
+          },
+          "__typename": "MarketplaceItem"
+        }
+      ],
+      "excludedIndustries": [],
+      "category": {
+        "id": "139",
+        "name": "Bronze",
+        "path": "bronze",
+        "suggestedSlotType": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      "unit": {
+        "id": "1",
+        "entity": {
+          "id": "1",
+          "name": "Bundesliga",
+          "logo": {
+            "url": "http://backendr.test/uploads/7?token=hdSiQT4gHTQroHw6LYlOV0cmcmabdLJJ&conversion=thumb",
+            "__typename": "Image"
+          },
+          "country": {
+            "id": "68",
+            "name": "Germany",
+            "__typename": "Country"
+          },
+          "__typename": "League"
+        },
+        "__typename": "OrganizationUnit"
+      },
+      "__typename": "MarketplaceItem"
+    }
+  }
+}

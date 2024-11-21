@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrivateMenu renders default PrivateMenu 1`] = `
+<div
+  class="w-full"
+>
+  <app-header-stub
+    class="hidden xl:flex"
+  >
+    <li
+      class="lang-items"
+    >
+      <span>
+        
+        EN
+      
+      </span>
+       
+      <dropdown-stub
+        class="cursor-default"
+        itemsclasses="top-0 left-0 min-w-16"
+      >
+        <ul
+          class="lang--dropdown flex flex-col flex-wrap"
+        />
+      </dropdown-stub>
+    </li>
+      
+    <app-header-link-stub
+      href="[object Object]"
+    >
+      
+      TRANSLATE:app.header.news
+    
+    </app-header-link-stub>
+     
+    <transition-stub
+      name="slide-fade"
+    >
+      <!---->
+    </transition-stub>
+     
+    <transition-stub
+      name="slide-fade"
+    >
+      <!---->
+    </transition-stub>
+     
+    <notifications-stub />
+     
+    <user-actions-stub />
+  </app-header-stub>
+   
+  <app-header-mobile-stub
+    class="flex xl:hidden"
+  >
+    <li
+      class="lang-items-mobile"
+    >
+      <span>
+        
+        EN
+      
+      </span>
+       
+      <dropdown-stub
+        class="cursor-default"
+        itemsclasses="top-0 left-0 min-w-16"
+      >
+        <ul
+          class="lang--dropdown flex flex-col flex-wrap"
+        />
+      </dropdown-stub>
+    </li>
+     
+    <app-header-link-stub
+      href="[object Object]"
+    >
+      
+      TRANSLATE:app.header.news
+    
+    </app-header-link-stub>
+     
+    <transition-stub
+      name="slide-fade"
+    >
+      <!---->
+    </transition-stub>
+     
+    <transition-stub
+      name="slide-fade"
+    >
+      <!---->
+    </transition-stub>
+     
+    <notifications-stub />
+     
+    <div
+      class="flex flex-col ml-4 text-h3 sm:text-h7 my-auto"
+    >
+      <transition-stub
+        mode="out-in"
+        name="fade"
+      >
+        <div>
+          <span
+            class="lni-menu text-h3 my-auto cursor-pointer select-none block mx-auto"
+          />
+        </div>
+      </transition-stub>
+       
+      <span
+        class="uppercase select-none block text-p2 mx-auto"
+      >
+        TRANSLATE:general.menu
+      </span>
+    </div>
+  </app-header-mobile-stub>
+   
+  <transition-stub
+    name="slide-fade"
+  >
+    <!---->
+  </transition-stub>
+</div>
+`;

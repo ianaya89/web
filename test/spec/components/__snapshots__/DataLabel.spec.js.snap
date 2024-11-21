@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataLabel renders dash when value is undefined 1`] = `
+<div>
+  <div
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    <span
+      class="leading-tight"
+    >
+      Custom label
+    </span>
+     
+    <!---->
+     
+    <!---->
+  </div>
+   
+  <div
+    class="text-h5 font-medium leading-tight uppercase"
+  >
+    Some value in slot
+  </div>
+</div>
+`;
+
+exports[`DataLabel renders default 1`] = `
+<div>
+  <div
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    <span
+      class="leading-tight"
+    >
+      
+    </span>
+     
+    <!---->
+     
+    <!---->
+  </div>
+   
+  <div
+    class="text-h5 font-medium leading-tight uppercase"
+  >
+    -
+  </div>
+</div>
+`;

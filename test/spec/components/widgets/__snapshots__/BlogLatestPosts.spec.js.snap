@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogLatestPosts renders BlogLatestPosts 1`] = `
+<div
+  class="blog__latest-posts"
+>
+  <p
+    class="text-p2 uppercase font-medium text-grey mb-6"
+  >
+    
+    TRANSLATE:blog.headings.sections.news
+  
+  </p>
+   
+  <div
+    class="flex flex-wrap"
+  >
+    <div
+      class="widget__blog-post has-transition w-ful pb-12 large"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="8"
+        />
+      </content-placeholders>
+    </div>
+     
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+    <div
+      class="widget__blog-post has-transition w-full md:w-1/2 pb-8 medium"
+    >
+      <content-placeholders>
+        <content-placeholders-heading
+          img="true"
+        />
+         
+        <content-placeholders-text
+          lines="3"
+        />
+      </content-placeholders>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileStrength renders ProfileStrength 1`] = `
+<div
+  class="w-full"
+>
+  <div
+    class="w-full flex px-2"
+  >
+    <div
+      class="mr-auto"
+    >
+      <label-chart-stub
+        animation="true"
+        chartvalue="0"
+        info="TRANSLATE:app.brand.dashboard.profile_strength"
+        label="0%"
+        labelclass="text-h3"
+        piecolors="#21CE99,#D4D4D4"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="w-full bg-white shadow-xl px-4 py-8"
+  >
+    <step-pager-stub
+      items=""
+    />
+     
+    <div
+      class="font-medium mt-6"
+    >
+      <app-button-stub
+        btnclass="link"
+        title="title"
+      >
+        
+        TRANSLATE:app.brand.dashboard.request_help
+      
+      </app-button-stub>
+       
+      <span
+        class="text-grey font-serif"
+      >
+        TRANSLATE:app.brand.dashboard.request_help_sentence
+      </span>
+    </div>
+  </div>
+</div>
+`;

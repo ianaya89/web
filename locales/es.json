@@ -1,0 +1,2640 @@
+{
+  "form": {
+    "required": "Complete esta entrada.",
+    "item_already_selected": "El valor ya ha sido seleccionado."
+  },
+  "general": {
+    "tc_": "Vacío",
+    "agree_to": "Acepto",
+    "of_platform": "de SPONSOR.ONLINE",
+    "platform": "SPONSOR.ONLINE",
+    "rights": "Todos los derechos reservados",
+    "read_time": "mín lectura",
+    "expand_all": "Expandir todo",
+    "lets_start": "Empecemos",
+    "tc_season": "Temporada | Temporadas",
+    "season": "Temporada",
+    "match_day": "Día de partido",
+    "add": "Añadir",
+    "asc": "Asc",
+    "none": "Ninguno",
+    "desc": "Desc",
+    "set_up": "Configurar",
+    "view": "Ver",
+    "text": "Texto",
+    "video": "Vídeo",
+    "uploaded": "Añadido",
+    "others": "otros",
+    "package": "paquete",
+    "next": "siguiente",
+    "more": "más",
+    "reach": "Alcance",
+    "engagement": "Interacciones",
+    "valuation": "Valoración",
+    "duplicate": "Duplicar",
+    "advanced_search": "Búsqueda avanzada",
+    "show_all": "Mostrar todo",
+    "hide_all": "Ocultar todo",
+    "collapse_all": "Plegar todo",
+    "select_all": "Seleccionar todo",
+    "unselect_all": "Anular la selección de todo",
+    "add_another": "Añadir otro",
+    "save_add_another": "Guardar y añadir otro",
+    "terms": "Condiciones del servicio",
+    "privacy": "Política de privacidad",
+    "get_started": "Empezar",
+    "lets_get_started": "Empecemos",
+    "find_out_more": "Más información",
+    "proposal": "Propuesta",
+    "step": "Paso",
+    "hide": "Ocultar",
+    "office": "oficina",
+    "settings": "Configuración",
+    "contact_person": "Contacto",
+    "see_items": "Ver elementos",
+    "items": "Elementos | Elemento | Elementos",
+    "ordered_by": "ordenado por",
+    "brand": "Marca",
+    "team": "Equipo",
+    "users": "Usuarios",
+    "country": "País",
+    "categories": "Categorías",
+    "inventoryTypes": "Tipos de inventario",
+    "budget": "Presupuesto",
+    "accounts": "Cuenta | Cuentas",
+    "yes": "Sí",
+    "reply": "Responder",
+    "m2": "m2",
+    "or": "o",
+    "contents": "Contenido",
+    "supported_formats": "Formatos compatibles",
+    "no": "No",
+    "send": "Enviar",
+    "back": "Atrás",
+    "edit": "Editar",
+    "from": "Desde",
+    "create_new": "Crear nuevo",
+    "show": "Mostrar",
+    "close": "Cerrar",
+    "tc_date": "Fecha | Fechas",
+    "date": "Fecha",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "share": "Compartir",
+    "delete": "Eliminar",
+    "dates": "Fechas",
+    "amount": "Cantidad",
+    "pieces_short": "piezas",
+    "default": "Predeterminado",
+    "yesterday": "Ayer",
+    "last_season": "Temporada pasada",
+    "current_season": "Temporada actual",
+    "last_year": "Año pasado",
+    "last_quarter": "Último trimestre",
+    "last_month": "Mes pasado",
+    "last_3_months": "Últimos 3 meses",
+    "month_shortcut": "mes",
+    "year_shortcut": "año",
+    "last_week": "Semana pasada",
+    "show_more": "Mostrar más",
+    "show_less": "Mostrar menos",
+    "image": "Imagen",
+    "save": "Guardar",
+    "save_close": "Guardar y cerrar",
+    "update": "Actualizar",
+    "updating": "Actualizando",
+    "plus": "más",
+    "total": "Total",
+    "custom": "Personalizado",
+    "hashtags": "Hashtags",
+    "mentions": "Menciones",
+    "tags": "Etiquetas",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "twitter": "Twitter",
+    "tiktok": "TikTok",
+    "weibo": "Weibo",
+    "google-plus": "Google+",
+    "web-page": "Página web",
+    "months": {
+      "0": "Enero",
+      "1": "Febrero",
+      "2": "Marzo",
+      "3": "Abril",
+      "4": "Mayo",
+      "5": "Junio",
+      "6": "Julio",
+      "7": "Agosto",
+      "8": "Septiembre",
+      "9": "Octubre",
+      "10": "Noviembre",
+      "11": "Diciembre"
+    },
+    "and": "y",
+    "menu": "Menú",
+    "-": "Vacío",
+    "null": "Vacío",
+    "all": "Todo",
+    "authorize": "Autorizar",
+    "league": "Liga",
+    "visitors": "Espectadores",
+    "reason": "Razón:",
+    "in_view": "En vista",
+    "quantity": "Cantidad",
+    "reupload": "Volver a subir",
+    "loading": "Cargando",
+    "in_package": "En paquete",
+    "city": "ciudad",
+    "packages": "Paquetes | Paquete | Paquetes",
+    "import": "Importar",
+    "expired": "Caducado",
+    "your_plan": "Tu plan",
+    "read-more": "leer más",
+    "football": "fútbol",
+    "loading_data": "Loading data..."
+  },
+  "terms": {
+    "sections": {
+      "general": "Disposiciones generales",
+      "subscriptions": "Suscripciones",
+      "sponsorship": "Comisión y oferta de patrocinio",
+      "undertakings": "Otras iniciativas",
+      "provisions": "Disposiciones finales"
+    }
+  },
+  "privacy": {
+    "sections": {
+      "intro": "Introducción",
+      "personal_data": "¿Quién controla los datos personales procesados?",
+      "personal_data_kind": "¿Qué tipo de datos personales se están recopilando?",
+      "personal_data_allowed": "¿Por qué se nos permite procesar datos personales?",
+      "personal_data_purpose": "¿Para qué fines procesamos los datos personales?",
+      "personal_data_share": "¿Con quién se comparten los datos personales que procesamos?",
+      "personal_data_keep": "¿Durante cuánto tiempo conservamos los datos personales?",
+      "personal_data_security": "¿Cómo garantizamos la seguridad de los datos personales procesados?",
+      "personal_data_rights": "¿Qué derechos tienen las personas cuyos datos personales procesamos?",
+      "contact_us": "¿Cómo contactar con nosotros?",
+      "up_to_date": "¿Cómo mantenemos nuestras políticas actualizadas?"
+    }
+  },
+  "notifications": {
+    "page_visited": "ha visitado tu perfil",
+    "message_received": "Te envió un mensaje",
+    "offer_received": "Te envió una oferta",
+    "targeting_matched": "Ítem agregado al marketplace acorde a su criterio de segmentación"
+  },
+  "landing": {
+    "brand": {
+      "title": "La plataforma de patrocinio de fútbol",
+      "subtitle": "Cambios innovadores del mercado de patrocinio entre marcas y equipos de fútbol profesional.",
+      "title_signup": "Regístrate gratis",
+      "how_it_works": {
+        "title": "Cómo funciona",
+        "sign_up": {
+          "title": "Regístrate",
+          "body": "Simplemente regístrate y crea tu propio perfil confidencial en solo unos minutos. Nuestro equipo de atención al cliente estará encantado de ayudarte a programar una llamada contigo."
+        },
+        "search": {
+          "title": "Compara el Mercado",
+          "body": "Busca por países, equipos, datos demográficos de audiencia, estadísticas en los medios de comunicación social, datos financieros, información del jugador, índice de presupuesto, patrocinadores actuales, ofertas de patrocinio en vivo y mucho más."
+        },
+        "communication": {
+          "title": "Comunicate directamente con los equipos",
+          "body": "La herramienta de mensajería SPONSOR.ONLINE te permite abrir un diálogo directamente con los equipos y mantener un registro de todas las comunicaciones."
+        },
+        "deals": {
+          "title": "Cierra Ofertas Y Registra Inventario",
+          "body": "Cierra acuerdos de patrocinio en tiempo récord aquí, en la plataforma de SPONSOR.ONLINE."
+        }
+      },
+      "under_hood": {
+        "body": "Echa un vistazo a por qué SPONSOR.ONLINE está cambiando la dinámica del patrocinio para marcas y equipos.",
+        "search": "Buscar",
+        "comparison": "Comparación",
+        "deal_proposal": "Acuerdo"
+      },
+      "save_money": {
+        "subtitle1": "Te respaldamos",
+        "p1": "Estás buscando un patrocinio o inversión en publicidad con un equipo de fútbol profesional. SPONSOR.ONLINE cuenta con más de 140 equipos profesionales de fútbol que actualmente tienen su inventario de patrocinio disponible.",
+        "p2": "Nuestra herramienta de comparación de patrocinios dedica el tiempo necesario para cotejar cada detalle de las ofertas de patrocinio recibidas. Con unos pocos clicks, te puedes familiarizar con los datos reales que subyacen detrás de cada equipo. Responda a las preguntas que quieres y necesitas saber, como por ejemplo, la base de seguidores del equipo que mejor se adapta a tus marcas, qué equipo tiene la presencia en línea más importante y qué equipo es tu mejor opción para activar el patrocinio de marca."
+      }
+    },
+    "team": {
+      "title": "La plataforma de patrocinio de fútbol",
+      "subtitle": "Contactos innovadores entre las principales marcas y los equipos de fútbol profesionales.",
+      "title_signup": "Añade tu equipo",
+      "pricing": {
+        "title": "Contacta con marcas de renombre mundial"
+      },
+      "advisors": {
+        "title": "Equipo",
+        "body": "Obtén más información sobre el equipo único de personas que están detrás de SPONSOR.ONLINE"
+      },
+      "stories": {
+        "title": "Comparar El Mercado. Plataforma Transparente Y De Confianza. Trato Directo.",
+        "success": "Casos de éxito",
+        "body": "Obtén más información sobre el equipo único de personas que están detrás de SPONSOR.ONLINE"
+      },
+      "deals": {
+        "title": "¿Listo para encontrar tu próximo contrato de patrocinio?",
+        "body": "Haz click a continuación y, en unos minutos, encuentra a las marcas que quieren vincularse a tu equipo, tu región y a tus seguidores.",
+        "clubs": {
+          "title": "Más de 140",
+          "body": "Equipos europeos"
+        },
+        "brands": {
+          "title": "Más de 45",
+          "body": "Marcas internacionales"
+        },
+        "reg_brands": {
+          "title": "Más de 200",
+          "body": "Marcas regionales"
+        }
+      },
+      "save_money": {
+        "chart_alt": "Guardar la miniatura de la imagen del gráfico",
+        "title": "Ahorra tiempo y dinero",
+        "subtitle1": "Te respaldamos",
+        "subtitle2": "Elimina las conjeturas y obtén los datos rápidamente",
+        "p1": "Estás buscando un patrocinio o inversión en publicidad con un equipo de fútbol profesional. SPONSOR.ONLINE cuenta con más de 140 equipos profesionales de fútbol que actualmente tienen su inventario de patrocinio disponible.",
+        "p2": "Nuestra herramienta de comparación de patrocinios dedica el tiempo necesario para cotejar cada detalle de las ofertas de patrocinio recibidas. Con unos pocos clicks, te puedes familiarizar con los datos reales que subyacen detrás de cada equipo. Responda a las preguntas que quieres y necesitas saber, como por ejemplo, la base de seguidores del equipo que mejor se adapta a tus marcas, qué equipo tiene la presencia en línea más importante y qué equipo es tu mejor opción para activar el patrocinio de marca.",
+        "agency_fees": {
+          "title": "11%",
+          "body": "Aumento de los ingresos por patrocinio para equipos de fútbol europeos en 2018"
+        },
+        "revenue": {
+          "title": "26B USD",
+          "body": "Ingresos no alcanzados debido al inventario no vendido y a un desactualizado manejo de activos en 2021"
+        },
+        "annual_sponsorship": {
+          "title": "66B USD",
+          "body": "Gasto anual de patrocinio en 2021"
+        },
+        "costs": {
+          "label": "Costes",
+          "agencies": {
+            "sponsor": "SPONSOR.ONLINE",
+            "agencies": "Agencias"
+          }
+        }
+      },
+      "how_it_works": {
+        "title": "Cómo funciona",
+        "sign_up": {
+          "title": "Regístrate",
+          "body": "Si eres un equipo de fútbol profesional que busca un patrocinio deportivo de vanguardia, regístrate en SPONSOR.ONLINE."
+        },
+        "upload": {
+          "title": "Cargar tu inventario",
+          "body": "Añade tu inventario de patrocinio a tu perfil, configura los paquetes de patrocinio y deja que las mejores marcas sepan lo que tu equipo les puede ofrecer."
+        },
+        "connections": {
+          "title": "Conexiones cruciales",
+          "body": "Negocia con marcas y cierra acuerdos rápidamente con el sistema de mensajería SPONSOR.ONLINE."
+        },
+        "deals": {
+          "title": "Cierra Ofertas Y Registra Inventario",
+          "body": "Cierra acuerdos de patrocinio en tiempo récord aquí, en la plataforma de SPONSOR.ONLINE."
+        }
+      },
+      "under_hood": {
+        "title": "Echa un vistazo bajo el capó",
+        "body": "Echa un vistazo a cómo SPONSOR.ONLINE está cambiando las normas del patrocinio para equipos y marcas.",
+        "dashboard": "Panel de control",
+        "inventory": "Inventario",
+        "presentation": "Presentación"
+      }
+    },
+    "value_of_inventories": "Panorama del Patrocinio de Fútbol"
+  },
+  "advisors": {
+    "christian": {
+      "position": "Christian es un exitoso ex jugador de fútbol y ganador de la Copa Mundial de la FIFA 98 con la Selección Nacional de Francia. Actualmente es un inversor activo en SPONSOR.ONLINE quien comparte la creencia de que la tecnología digital hará que la decisión de patrocinio sea más fácil y más transparente en el futuro."
+    },
+    "kay": {
+      "position": "Socio en SASS Media GmbH"
+    },
+    "tyson": {
+      "position": "Fundador de Sports Rights Consulting"
+    },
+    "max": {
+      "position": "Cofundador y director general SPONSOR.ONLINE AG"
+    },
+    "kerstin": {
+      "title": "Kerstin Lutz, Consejera asesora SPONSOR.ONLINE",
+      "position": "Directora Gerente de Gestión de Alianzas, TEAM Marketing"
+    }
+  },
+  "pricing": {
+    "for_brands": {
+      "title": "COMPARA EL MERCADO Y CONÉCTATE CON EQUIPOS PROFESIONALES",
+      "cta": "¿Estás listo para cambiar el juego del patrocinio?",
+      "cta_button": "Empecemos"
+    },
+    "for_teams": {
+      "title": "Contacta con marcas de renombre mundial",
+      "cta": "¿Listo para encontrar tu próximo contrato de patrocinio?",
+      "cta_button": "Empecemos"
+    },
+    "special_discount": "DESCUENTO ESPECIAL EN COMISIONES válido hasta el 31/10/2019",
+    "annually": "Ahorra 2 meses y trabajo contable con la factura anual. <br> <br> ¿Necesitas dividir el pago? Disfruta del contrato por todo el año con tarifas mensuales.",
+    "commission": "Nuestra comisión por acuerdos de patrocinio y ofertas de compra de medios es totalmente transparente y se reduce por tiempo limitado.",
+    "deal_commission": "Comisión por acuerdo",
+    "user_accounts": "Cuentas de usuario",
+    "data_update_freq": "Frecuencia de actualización de datos",
+    "data_update_freq_info": "Describa con qué frecuencia las actualizaciones de datos se reflejan en la aplicación.",
+    "features": "Características",
+    "analytics": "Analítica",
+    "support": "Soporte"
+  },
+  "languages": {
+    "sk": "Eslovaco"
+  },
+  "countries": {
+    "sk": "Eslovaquia"
+  },
+  "error_page": {
+    "back": "Volver a la página de inicio",
+    "text": "Algo salió mal",
+    "supported_formats": "Compatible",
+    "supported_format": "Compatible",
+    "prod_message": "Algo salió mal. Nuestros ingenieros están tratando de solucionarlo.",
+    "or": "o"
+  },
+  "errors": {
+    "recaptcha": {
+      "missing-input-secret": "Ponte en contacto con nosotros para solucionar el problema. Falta el parámetro secreto.",
+      "invalid-input-secret": "Ponte en contacto con nosotros para solucionar el problema. El parámetro secreto no es válido o está incorrectamente formado.",
+      "missing-input-response": "Actualiza la página y vuelve a intentarlo. Si el problema continúa, ponte en contacto con nosotros.",
+      "invalid-input-response": "Actualice la página y vuelva a intentarlo. Si el problema continúa, póngase en contacto con nosotros.",
+      "bad-request": "Actualice la página y vuelva a intentarlo. Si el problema continúa, póngase en contacto con nosotros.",
+      "timeout-or-duplicate": "Actualice la página y vuelva a intentarlo. Si el problema continúa, póngase en contacto con nosotros."
+    },
+    "general": "La acción no se pudo realizar. Vuelva a intentarlo más tarde.",
+    "no_results": "No hay resultados disponibles...",
+    "section-not-allowed": "No tiene permiso para visitar esa sección.",
+    "no-tags": "No hay etiquetas disponibles...",
+    "no-posts": "No hay publicaciones disponibles...",
+    "no-items-in-proposal": "Su propuesta está vacía...",
+    "no-search-result": "Sin resultados de búsqueda...",
+    "general-authentication-error": "Se ha producido un error durante la autenticación",
+    "forgot-error": "Se ha producido un error durante el envío del correo electrónico de restablecimiento de la contraseña. ¿El correo electrónico que ha especificado es correcto?",
+    "already-authenticated": "Ya está autenticado. Redirigiéndole.",
+    "not-allowed-route": "El último enlace no está permitido para ti.",
+    "no-items-in-inventory": "Crea tu primer elemento de inventario",
+    "no-packages-in-inventory": "Crea tu primer paquete",
+    "register": {
+      "no_chosen_plan": "Por favor, seleccione un plan"
+    }
+  },
+  "success": {
+    "general": "Recurso actualizado correctamente",
+    "sent": "Se ha enviado la solicitud",
+    "offer-sent": "Oferta enviada"
+  },
+  "widgets": {
+    "tips": {
+      "empty_body": "...",
+      "title": "Consejos para maximizar tus beneficios",
+      "label": "Consejo"
+    }
+  },
+  "public": {
+    "header": {
+      "teams": "Equipos",
+      "brands": "Marcas",
+      "pricing": "Precios",
+      "news": "Noticias",
+      "login": "Iniciar sesión",
+      "signup": "Empezar",
+      "go_to_dashboard": "Ir al panel de control",
+      "features": "Características",
+      "terms_sections": "Secciones",
+      "privacy_legacy_sections": "Secciones",
+      "about-us": "Sobre nosotros",
+      "contact-us": "Contáctenos"
+    },
+    "footer": {
+      "copyright": "Todos los derechos reservados."
+    },
+    "bill": {
+      "bill_annually": "Facturar anualmente"
+    },
+    "scroll": "Desplazarse hacia abajo"
+  },
+  "app": {
+    "profile_header": {
+      "edit_photos": "Actualizar Fotos"
+    },
+    "update_unit_photos_modal": {
+      "heading": "Actualizar Fotos"
+    },
+    "edit_modal": {
+      "header": {
+        "title": "Actuaizar información"
+      },
+      "confirm_btn": {
+        "text": "Guardar"
+      },
+      "form": {
+        "field": "Campo",
+        "validation": {
+          "required": "Este campo es obligatorio"
+        }
+      }
+    },
+    "validation_error": "Se produjeron algunos errores de validación. Por favor, corrígelos e inténtalo de nuevo.",
+    "subscription_result": {
+      "success": "El pago ha sido realizado con éxito. ¡Gracias!",
+      "cancel": "El pago ha sido cancelado.",
+      "return_to_subscriptions": "Volver a suscripciones."
+    },
+    "trial_notification": {
+      "title": "¡Bienvenido a Sponsor.Online!",
+      "text": "Para descubrir todas las características de Sponsor.Online, se le ha proporcionado una prueba de 14 días del Plan Básico.",
+      "days_left": "días restantes de prueba",
+      "upgrade_now": "Actualizar Ahora"
+    },
+    "confirmation_modal": {
+      "header": {
+        "title": "¿Estás seguro?"
+      },
+      "body": {
+        "text": "¿De verdad quiere ejecutar la última acción?"
+      },
+      "confirm_btn": {
+        "text": "Hágalo"
+      }
+    },
+    "header": {
+      "faq": "Cómo funciona y preguntas frecuentes",
+      "news": "Noticias",
+      "user_dropdown": {
+        "log_out": "Cerrar sesión",
+        "settings": "Configuración de cuenta",
+        "active_account": "Cuenta activa",
+        "available_accounts": "Cuentas disponibles"
+      }
+    },
+    "contact_us": {
+      "title": "Nuestra Presencia",
+      "modal_title": "Contáctenos"
+    },
+    "marketplace": {
+      "itemType": {
+        "package": "Paquete",
+        "iventory": "Inventario"
+      },
+      "search": {
+        "show_list": "Mostrar lista",
+        "clear": "Borrar filtros"
+      },
+      "show_item": {
+        "title": "Mostrar elemento",
+        "add_to_proposal": "Añadir a la propuesta",
+        "in_proposal": "En propuesta",
+        "visit_team_profile": "Visite el perfil del equipo",
+        "form": {
+          "amount": {
+            "validation": {
+              "required": "Es obligatorio especificar la cantidad",
+              "min": "La cantidad mínima es de 1",
+              "max": "La cantidad máxima es de {amount}"
+            }
+          },
+          "slots": {
+            "validation": {
+              "required": "Es obligatorio seleccionar las franjas de tiempo"
+            }
+          }
+        }
+      },
+      "categories": {
+        "-": "-",
+        "player-kit": "Kit de jugador",
+        "training-outfit": "Ropa de entrenamiento",
+        "player-testimonial": "Testimonio de jugador",
+        "mvp": "MVP",
+        "brand-activation": "Activación de marca",
+        "youth-team-sponsor": "Patrocinador de equipo juvenil",
+        "mini-led-boards": "Tableros LED mini",
+        "mini-static-boards": "Tableros estáticos mini",
+        "match-programme": "Programa de partidos",
+        "sector-branding": "Branding de sector",
+        "3d-carpet": "Alfombra 3D",
+        "tracksuit": "Chándal",
+        "track-suit": "Chándal",
+        "departures": "Partidas",
+        "newsletter": "Boletín de noticias",
+        "basic": "Básico",
+        "event": "Evento",
+        "kick-off": "Inicio del partido",
+        "view-event": "View Event",
+        "print-material": "Material impreso",
+        "contract-extension": "Extensión de contrato",
+        "live-action-widget": "Widget de acción en vivo",
+        "arrivals": "Llegadas",
+        "backdrops": "Contextos",
+        "tickets": "Tickets",
+        "hospitality-tickets": "Tickets de hospitality",
+        "hospitality-branding": "Branding de hospitality",
+        "halftime-score": "Puntuación de medio tiempo",
+        "messages-over-pa-system": "Mensajes a través del sistema de PA",
+        "player-of-the-month": "Jugador del mes",
+        "messages": "Mensajes",
+        "branding": "Branding",
+        "restaurants": "Restaurantes",
+        "main": "Principal",
+        "static-boards": "Tableros estáticos",
+        "1st-tier": "Primer nivel",
+        "sportvideo": "Vídeo deportivo",
+        "activation": "Activación",
+        "preview": "Previa",
+        "promotion": "Promoción",
+        "navigation": "Navegación",
+        "led-boards": "Tableros LED",
+        "next-to-the-goal": "Junto a la portería",
+        "match-day-sponsor": "Patrocinador del día del partido",
+        "highlights": "Aspectos destacados",
+        "competitions": "Concursos",
+        "guess": "Adivine el resultado ganador",
+        "guess-the-right-result-win": "Adivine el resultado ganador",
+        "lounge": "Sala de descanso",
+        "bus": "Autobuses",
+        "skybox": "Skybox",
+        "leaflets": "Folletos",
+        "stadium": "Estadio",
+        "hospitality": "Hospitality",
+        "vip-hospitality-by": "VIP Hospitality by",
+        "accommodation": "Alojamiento",
+        "media": "Medios de comunicación",
+        "suppliers": "Proveedores",
+        "snacks": "Snacks",
+        "campaign": "Campaña",
+        "back": "Espalda",
+        "front": "Frontal",
+        "halftime": "Medio tiempo",
+        "balls": "Pelotas",
+        "goals": "Goles",
+        "discount": "Descuento",
+        "issue": "Programa",
+        "sleeve": "Manga",
+        "shirts": "Camisetas",
+        "shirt": "Camiseta",
+        "winter-jacket": "Abrigo de invierno",
+        "shorts": "Pantalones",
+        "socks": "Medias",
+        "cars": "Coches",
+        "birthdays": "Cumpleaños",
+        "technical-supplier": "Proveedor técnico",
+        "food-beverage": "Bebida/comida",
+        "social-media": "Redes sociales",
+        "website-link": "Enlace de página web",
+        "giant-screen": "Pantalla gigante",
+        "naming-rights": "Derechos de denominación",
+        "youth-tournament-sponsor": "Patrocinador del torneo juvenil",
+        "discount-for-fans": "Descuento para los seguidores",
+        "transport": "Transporte",
+        "screens": "Pantallas",
+        "footer": "Pie de página",
+        "testimonial-video": "Vídeo testimonial",
+        "youth-sponsor": "Patrocinador juvenil",
+        "final-score": "Resultado final",
+        "pitch-level-1st-row": "Nivel de campo, primera fila",
+        "pitch-level-2nd-row": "Nivel de campo, segunda fila",
+        "before": "Previa",
+        "competition": "Competencia",
+        "hotels": "Hoteles",
+        "airlines": "Líneas aéreas",
+        "sector": "Sector",
+        "substitutions": "Sustituciones",
+        "line-ups": "Alineaciones",
+        "main-tribune": "Tribuna principal",
+        "opposite-tribune": "Tribuna opuesta",
+        "behind-left-goal-tribune": "Detrás de la portería izquierda",
+        "behind-right-goal-tribune": "Detrás de la portería derecha",
+        "drinks": "Bebidas",
+        "after": "Post-partido",
+        "gloves": "Guantes",
+        "other": "Otros",
+        "academy": "Academia",
+        "header": "Encabezado",
+        "vip-club": "Club VIP",
+        "testimonial": "Testimonio",
+        "training": "Entrenamiento",
+        "collectables": "Collectables",
+        "nfts": "NFT",
+        "package": {
+          "-": "-",
+          "bronze": "Bronce",
+          "silver": "Plata",
+          "gold": "Oro",
+          "platinum": "Platino",
+          "custom": "Personalizado",
+          "title": "Paquete"
+        }
+      },
+      "find_team": "Buscar un equipo",
+      "items": "Elementos",
+      "create_item_first_4_category": "Primero cree un elemento para esta categoría en el inventario.",
+      "fans": "Seguidores",
+      "teams": "Equipos",
+      "cpt_index": "Índice CPT",
+      "featured": "Destacados",
+      "nearby": "Cercanos",
+      "newest": "Más recientes",
+      "show_team": "Mostrar",
+      "show_on_map": "Mostrar en el mapa",
+      "show_bundle": "Mostrar",
+      "excellent_reach": "Excelente alcance",
+      "maybe_worth": "combinación adecuada para ti",
+      "sorters": {
+        "price": {
+          "asc": "Precio, asc",
+          "desc": "Precio, desc"
+        },
+        "reach": {
+          "asc": "Alcance, asc",
+          "desc": "Alcance, desc"
+        }
+      },
+      "filters": {
+        "entities": {
+          "title": "Entity",
+          "items": [
+            {
+              "text": "Liga",
+              "value": "1"
+            },
+            {
+              "text": "Equipo",
+              "value": "2"
+            }
+          ]
+        },
+        "total_reach": {
+          "title": "Alcance total",
+          "items": [
+            {
+              "text": "Ninguno",
+              "value": "Vacío"
+            },
+            {
+              "text": "más de 1000",
+              "value": "1000"
+            },
+            {
+              "text": "más de 5000",
+              "value": "5000"
+            },
+            {
+              "text": "más de 10 000",
+              "value": "10 000"
+            },
+            {
+              "text": "más de 20 000",
+              "value": "20 000"
+            },
+            {
+              "text": "más de 50 000",
+              "value": "50 000"
+            },
+            {
+              "text": "> 100 000",
+              "value": "100 000"
+            }
+          ]
+        },
+        "budget": {
+          "title": "Presupuesto",
+          "items": [
+            {
+              "text": "Ninguno",
+              "value": "Vacío"
+            },
+            {
+              "text": "hasta 10 000",
+              "value": "10 000"
+            },
+            {
+              "text": "hasta 50 000",
+              "value": "50 000"
+            },
+            {
+              "text": "hasta 100 000",
+              "value": "100 000"
+            },
+            {
+              "text": "hasta 250 000",
+              "value": "250 000"
+            },
+            {
+              "text": "hasta 500 000",
+              "value": "500 000"
+            }
+          ]
+        },
+        "total_fans": {
+          "title": "Alcance potencial",
+          "items": [
+            {
+              "text": "Ninguno",
+              "value": "Vacío"
+            },
+            {
+              "text": "más de 1000",
+              "value": "1000"
+            },
+            {
+              "text": "más de 5000",
+              "value": "5000"
+            },
+            {
+              "text": "más de 10 000",
+              "value": "10 000"
+            },
+            {
+              "text": "más de 20 000",
+              "value": "20 000"
+            },
+            {
+              "text": "más de 50 000",
+              "value": "50 000"
+            },
+            {
+              "text": "más de 100 000",
+              "value": "100 000"
+            }
+          ]
+        }
+      },
+      "proposal": {
+        "description_placeholder": "Escribe una breve descripción de la oferta que te gustaría proponer."
+      }
+    },
+    "inventory": {
+      "led_board": {
+        "quantity_info": "Tiempo total de presentación. Por ejemplo, 10 tableros LED x 10 minutos = 100 minutos."
+      },
+      "messages_pa": {
+        "quantity_info": "Tiempo total de presentación"
+      },
+      "screen_giant": {
+        "quantity_info": "Tiempo total de presentación"
+      },
+      "home_away": {
+        "images_info": "Cargar imagen para el inicio y la variación de distancia."
+      },
+      "screen": {
+        "quantity_info": "Tiempo total de presentación"
+      },
+      "interested": "Contactar conmigo acerca del inventario disponible",
+      "your": "Tu inventario",
+      "inventory_uploaded": "del inventario cargado",
+      "upload_your_inventory": "Añadir un nuevo elemento al inventario",
+      "select_inventory_item": "Seleccionar un elemento de inventario",
+      "sell_in_packages": "Vender elementos en ofertas de paquetes",
+      "delete": {
+        "messages": {
+          "success": "El elemento de inventario se eliminó correctamente",
+          "error": "El elemento de inventario no se eliminó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        }
+      },
+      "create": {
+        "messages": {
+          "success": "El elemento de inventario se añadió correctamente a tu perfil",
+          "error": "El elemento de inventario no se cargó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        }
+      },
+      "update": {
+        "messages": {
+          "success": "El elemento de inventario se actualizó correctamente.",
+          "error": "El elemento de inventario no se actualizó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        }
+      },
+      "items": {
+        "title": "Elementos",
+        "availability": "Disponibilidad",
+        "specifications": "Especificaciones",
+        "init_modal": {
+          "title": "Vacío"
+        },
+        "delete_modal": {
+          "title": "¿Eliminar elemento?",
+          "text": "¿Realmente quiere eliminar el elemento: {item}?",
+          "btn": "Eliminar"
+        },
+        "form": {
+          "name": {
+            "label": "Nombre"
+          },
+          "description": {
+            "label": "Descripción"
+          },
+          "broadcasting": {
+            "label": "Transmisión de partidos"
+          },
+          "placement": {
+            "label": "Colocación"
+          },
+          "slots": {
+            "label": "Disponibilidad"
+          },
+          "slot_type": {
+            "label": "Tipo de franja"
+          },
+          "type": {
+            "label": "Tipo"
+          },
+          "quantity": {
+            "label": "Cantidad"
+          },
+          "visible_from": {
+            "label": "Oferta visible desde"
+          },
+          "separately": {
+            "label": "Vender por separado del paquete de patrocinio"
+          },
+          "part_of_package": {
+            "label": "Parte del paquete"
+          },
+          "price": {
+            "label": "Precio"
+          },
+          "dimensions": {
+            "label": "Dimensiones"
+          },
+          "price_to": {
+            "label": "Price to"
+          },
+          "excluded_industries": {
+            "label": "Sectores excluidos"
+          },
+          "upload": {
+            "images": "Imágenes",
+            "info": "Arrastrar y soltar imagen",
+            "button": "Cargar imagen"
+          },
+          "special_pricing": {
+            "title": "Establecer cotización especial",
+            "price_decrease": "Disminución de precio",
+            "price_increase": "Incremento de precio",
+            "industry": "Sector",
+            "confirm_special_pricing": "Confirmar cotización especial",
+            "add_special_pricing": "Agregar cotización especial",
+            "edit_special_pricing": "Editar cotización especial",
+            "coefficient": "Coeficiente",
+            "type": "Tipo",
+            "condition_type": "Tipo de condición",
+            "type_sessions": "Cantidad de sesiones",
+            "type_quantity": "Cantidad",
+            "type_industry": "Sector",
+            "type_exact_time": "Tiempo exacto",
+            "condition_type_more": "Más del valor proporcionado",
+            "condition_type_less": "Menos del valor proporcionado",
+            "condition_type_more_short": "Más de",
+            "condition_type_less_short": "Menos de",
+            "condition_value_unit": "Unidad de valor",
+            "condition_value_unit_days": "Días",
+            "condition_value_unit_seasons": "Temporadas"
+          }
+        },
+        "create": {
+          "title": "Añadir elemento de inventario",
+          "action": "Guardar"
+        },
+        "edit": {
+          "title": "Editar elemento de inventario",
+          "action": "Guardar"
+        }
+      },
+      "add_to_proposal": "Añadir a la propuesta",
+      "package_contains": "El paquete contiene",
+      "team_also_offers": "Equipo también ofrece",
+      "add_together_with": "Tomar junto con",
+      "packages": {
+        "title": "Paquetes",
+        "active": {
+          "title": "Paquetes activos",
+          "info": "Los paquetes son una de las características más populares de SPONSOR.ONLINE. Ayudan a los equipos a cubrir grandes conjuntos de inventarios publicitarios y permiten a los patrocinadores cubrir las necesidades de sus campañas. ",
+          "inspired_by": "Nuestros paquetes se inspiran en grandes marcas deportivas"
+        },
+        "init_modal": {
+          "title": "Vacío"
+        },
+        "delete_modal": {
+          "title": "¿Eliminar paquete?",
+          "text": "¿Realmente quiere eliminar el paquete: {package}?",
+          "btn": "Eliminar"
+        },
+        "create": {
+          "title": "Agregar paquete",
+          "action": "Guardar",
+          "name": "Nombre del paquete",
+          "select_inventory": "Añadir elemento/s",
+          "included_inventory": "Elementos incluidos",
+          "add_your_first_item": "Añade tu primer elemento",
+          "messages": {
+            "success": "El paquete de inventario se añadió a tu perfil correctamente",
+            "error": "El paquete de inventario no se cargó. Vuelva a intentarlo o póngase en contacto con nosotros.",
+            "no_inventories": "Por favor seleccione elementos del inventario"
+          }
+        },
+        "update": {
+          "messages": {
+            "success": "El paquete de inventario se actualizó correctamente",
+            "error": "El paquete de inventario no se actualizó. Vuelva a intentarlo o póngase en contacto con nosotros."
+          },
+          "title": "Editar paquete"
+        },
+        "predefined": "Paquetes predefinidos"
+      },
+      "campaigns": {
+        "title": "Campañas",
+        "name": "Nombre de la campaña",
+        "sent": "Enviado",
+        "open_rate": "Tarifa abierta",
+        "items": "Elementos",
+        "contacts": "Contactos",
+        "actions": "Acciones",
+        "offer": "ofertas | oferta | ofertas",
+        "currentView": "Mostrando {first}-{last} campañas del total de {total}",
+        "duplicate": {
+          "messages": {
+            "success": "Campaña duplicada guardada",
+            "error": "No se pudo duplicar la campaña"
+          }
+        },
+        "create": {
+          "title": "Crear campaña",
+          "back": "Atrás",
+          "details_step_title": "Introduzca los detalles de la campaña",
+          "select_inventory_step_title": "Seleccionar elementos de inventario",
+          "select_recipients_step_title": "Seleccionar destinatarios",
+          "create_send": "Crear y enviar",
+          "send_date": {
+            "label": "Fecha de envío",
+            "required": "Es obligatorio especificar la fecha de envío"
+          },
+          "send_time": {
+            "label": "Hora de envío",
+            "required": "Es obligatorio especificar la hora de envío"
+          },
+          "name": {
+            "label": "Nombre de la campaña",
+            "required": "El nombre de la campaña es obligatorio"
+          },
+          "description": {
+            "label": "Mensaje para los destinatarios",
+            "required": "La descripción es obligatoria"
+          },
+          "available_inventory": "Inventario disponible",
+          "available_contacts": "Contactos disponibles",
+          "messages": {
+            "success": "Nueva campaña guardada",
+            "error": "No se pudo añadir la nueva campaña"
+          },
+          "new_contact": {
+            "add_contact": "Añadir contacto",
+            "messages": {
+              "success": "Nuevo contacto guardado",
+              "error": "No se pudo añadir el nuevo contacto"
+            },
+            "name": {
+              "label": "Nombre",
+              "required": "Es obligatorio especificar el nombre del nuevo contacto"
+            },
+            "company": {
+              "label": "Empresa",
+              "required": "Es obligatorio especificar el nombre de la empresa del nuevo contacto"
+            },
+            "email": {
+              "label": "Dirección de correo electrónico",
+              "required": "Es obligatorio especificar la dirección de correo electrónico del nuevo contacto",
+              "valid": "La dirección de correo electrónico del nuevo contacto debe ser válida"
+            }
+          },
+          "recipients": {
+            "required": "Por favor seleccione algunos destinatarios"
+          },
+          "items": {
+            "required": "Por favor seleccione un elemento del inventario"
+          },
+          "import": {
+            "title": "Importar desde Excel",
+            "import_success": "Contactos importados",
+            "import_error": "Error al importar contactos",
+            "label": "Archivo Excel",
+            "errors_help": "Algunas filas en el documento son inválidas o están duplicadas. Ver errores a continuación.",
+            "row": "Fila",
+            "errors": "Errores",
+            "download_example_file": "Descargar archivo de ejemplo"
+          }
+        }
+      },
+      "duplicate": {
+        "messages": {
+          "success": "Artículo de inventario duplicado con éxito",
+          "error": "El elemento de inventario no estaba duplicado. Por favor intente nuevamente o contáctenos."
+        }
+      }
+    },
+    "register": {
+      "title": "Tu próximo acuerdo de patrocinio está cerca",
+      "info": "Tu información está protegida y se trata de manera privada y estrictamente confidencial.",
+      "how_it_works": "Mira cómo funciona",
+      "submit": "Enviar",
+      "terms": {
+        "validation": {
+          "required": "Tiene que aceptar nuestras condiciones de uso y los términos legales y de privacidad"
+        }
+      },
+      "firstName": {
+        "label": "Nombre",
+        "validation": {
+          "required": "Es obligatorio especificar el nombre"
+        }
+      },
+      "lastName": {
+        "label": "Apellido",
+        "validation": {
+          "required": "Es obligatorio especificar el apellido"
+        }
+      },
+      "email": {
+        "label": "Dirección de correo electrónico",
+        "validation": {
+          "required": "Es obligatorio especificar la dirección de correo electrónico",
+          "valid": "La dirección de correo electrónico debe ser válida"
+        }
+      },
+      "continent": {
+        "label": "Continente",
+        "validation": {
+          "required": "Se requiere el nombre del continente"
+        }
+      },
+      "country": {
+        "label": "País",
+        "validation": {
+          "required": "Se requiere el nombre del país"
+        }
+      },
+      "type": {
+        "label": "Tipo de organización",
+        "validation": {
+          "required": "Se requiere tipo de Organización"
+        }
+      },
+      "club": {
+        "label": "Club",
+        "validation": {
+          "required": "Es obligatorio especificar el nombre del club"
+        }
+      },
+      "organizationName": {
+        "label": "Nombre de equipo/marca",
+        "validation": {
+          "required": "Se requiere el nombre del equipo / marca"
+        }
+      },
+      "job": {
+        "label": "Nombre del cargo",
+        "validation": {
+          "required": "Es obligatorio especificar el nombre del cargo"
+        }
+      },
+      "phone": {
+        "label": "Número de teléfono",
+        "hint": "El formato debe ser + XXX XXX XXX XXX",
+        "validation": {
+          "required": "Es obligatorio especificar el número de teléfono",
+          "valid": "El número de teléfono debe ser válido"
+        }
+      },
+      "credit_card": {
+        "label": "Tarjeta de crédito o débito"
+      },
+      "recaptcha": {
+        "validation": "La verificación de ReCAPTCHA falló. Por favor, inténtalo de nuevo más tarde."
+      },
+      "messages": {
+        "success": "Gracias por registrarse, en breve recibirá un correo electrónico con más instrucciones. En SPONSOR.ONLINE nos tomamos muy en serio la privacidad y la seguridad.",
+        "brand": {
+          "success": "Gracias por registrarte. Ahora puedes iniciar sesión."
+        },
+        "validation_errors": "Se produjeron algunos errores de validación. Por favor, corrígelos e inténtalo de nuevo.",
+        "confirm_email": "Gracias por registrarse. Por favor verifique su dirección de correo electrónico. Nos tomamos muy en serio la privacidad y la seguridad en SPONSOR.ONLINE",
+        "confirm_email_payment": "Gracias por registrarte. Por favor verifica tu dirección de correo electrónico y confirma tu método de pago. Nos tomamos muy en serio la privacidad y la seguridad en SPONSOR.ONLINE.",
+        "verification_success": "La verificación de la cuenta se completó con éxito, ahora puede iniciar sesión en SPONSOR.ONLINE"
+      },
+      "to_previous_step": "Regresar al paso anterior",
+      "authorize_payment": "Autoriza tu forma de pago",
+      "brand": {
+        "2-step": {
+          "title": "A solo unos pasos de los acuerdos",
+          "info": "Vacío"
+        },
+        "info": "Busca oportunidades de patrocinio de más de 300 equipos de fútbol profesional. Compara el mercado y trata directamente con los representantes de los equipos. Regístrate ahora gratis, no se requiere tarjeta de crédito."
+      },
+      "team": {
+        "info": "Registra a tu equipo de forma gratuita, agrega tu inventario de patrocinio a tu perfil, configura tus paquetes de patrocinio y permite que las marcas líderes sepan lo que tu equipo tiene para ofrecer."
+      },
+      "payment-details": {
+        "title": "Para verificar tu cuenta necesitamos validar tu tarjeta de pago",
+        "info": "* Si tu tarjeta de pago está bajo <a class=\"underline\" target=\"_blank\" rel=\"noopener\" href=\"https://eba.europa.eu/regulation-and-policy/payment-services-and-electronic-money/regulatory-technical-standards-on-strong-customer-authentication-and-secure-communication-under-psd2\"> regulación SCA </a> puede seguir la autenticación adicional de cliente.",
+        "plan": "Selecciona tu plan"
+      },
+      "continue": "Continuar",
+      "logo": {
+        "info": "Logo de la empresa",
+        "button": "Subir"
+      },
+      "titlePhoto": {
+        "info": "Foto de portada de la empresa",
+        "button": "Subir"
+      },
+      "preferred_countries": {
+        "info": "Países preferidos"
+      },
+      "preferred_languages": {
+        "info": "Idiomas preferidos"
+      },
+      "password": {
+        "label": "Contraseña",
+        "validation": {
+          "strength": "La contraseña no es lo suficientemente segura",
+          "required": "Se requiere la contraseña"
+        }
+      },
+      "password_again": {
+        "label": "Ingrese nuevamente la contraseña",
+        "validation": {
+          "required": "Se requiere la contraseña",
+          "confirmed": "Las contraseñas deben ser iguales"
+        }
+      },
+      "city": {
+        "label": "Ciudad",
+        "validation": {
+          "required": "Se requiere el nombre de la ciudad"
+        }
+      }
+    },
+    "reset": {
+      "title": "Cree su contraseña",
+      "info": "Antes de continuar, termine de crear su cuenta configurando una nueva contraseña",
+      "password": {
+        "label": "Contraseña",
+        "validation": {
+          "strength": "La contraseña no es lo suficientemente segura",
+          "required": "Es obligatorio especificar la contraseña"
+        }
+      },
+      "password_again": {
+        "label": "Contraseña de nuevo",
+        "validation": {
+          "required": "Es obligatorio especificar la contraseña",
+          "confirmed": "Las contraseñas deben ser iguales"
+        }
+      },
+      "strength": {
+        "title": "Seguridad de la contraseña",
+        "hint": "La contraseña debe contener al menos una letra mayúscula y otra minúscula, un número y tener al menos ocho caracteres."
+      },
+      "messages": {
+        "success": "La contraseña se restableció correctamente. Puede iniciar sesión con su nueva contraseña.",
+        "error": "La acción no se pudo realizar. Vuelva a intentarlo más tarde."
+      },
+      "submit": "Continuar"
+    },
+    "forgot": {
+      "title": "¿Ha olvidado la contraseña?",
+      "info": "Introduce la dirección de correo electrónico o el número de teléfono que utilizaste al acceder. Te enviaremos una contraseña temporal.",
+      "submit": "Enviar contraseña",
+      "email": {
+        "label": "Dirección de correo electrónico o teléfono",
+        "validation": {
+          "required": "Es obligatorio especificar la dirección de correo electrónico o el teléfono",
+          "valid": "La dirección de correo electrónico o el teléfono deben ser válidos"
+        }
+      },
+      "messages": {
+        "success": "Enviamos instrucciones para restablecer su contraseña en la dirección de correo electrónico que especificó.",
+        "error": "La acción no se pudo realizar. Vuelva a intentarlo más tarde."
+      },
+      "to_login_link": "Volver a iniciar sesión"
+    },
+    "login": {
+      "title": "Bienvenido",
+      "info_text": "Al iniciar sesión acepta",
+      "forgot_info": "¿Ha olvidado su contraseña? No pasa nada, puede conseguir una nueva aquí.",
+      "forgot_link": "Restablecer mi contraseña",
+      "side_card": {
+        "title": "¿Todavía no tienes una cuenta?",
+        "content": "Solo te llevará unos minutos convertirse en parte del futuro del patrocinio futbolístico.",
+        "link_text": "Regístrate gratis",
+        "no_credit_required": "No se requiere tarjeta de crédito"
+      },
+      "register_link": "¿Necesita una cuenta?",
+      "email": {
+        "label": "Dirección de correo electrónico como nombre de usuario",
+        "validation": {
+          "required": "Es obligatorio especificar la dirección de correo electrónico",
+          "valid": "La dirección de correo electrónico debe ser válida"
+        }
+      },
+      "password": {
+        "label": "Contraseña",
+        "validation": {
+          "required": "Es obligatorio especificar la contraseña"
+        }
+      },
+      "submit": "Regístrame"
+    },
+    "brand": {
+      "notAvailable": "No disponible",
+      "pageNotAvailable": {
+        "title": "Página no disponible",
+        "text": "Esta característica no está disponible en su plan de suscripción. Considere una actualización a uno de nuestros planes pagos.",
+        "button": "ACTUALIZAR AHORA"
+      },
+      "settings": {
+        "title": "Configuración",
+        "navbar": {
+          "profile": "Perfil",
+          "password": "Contraseña",
+          "notifications": "Notificaciones",
+          "subscriptions": "Suscripciones"
+        },
+        "profile": {
+          "first_name": "Nombre",
+          "last_name": "Apellido",
+          "email": "Tu correo electrónico",
+          "job": "Nombre del cargo",
+          "location": "Ubicación",
+          "phone": "Número de teléfono",
+          "your_profile_photo": "Tu foto de perfil",
+          "change_picture": "Cambiar imagen",
+          "go_to_brand_profile": "Ir al perfil de la marca",
+          "your_brand_account": "Tu cuenta de marca",
+          "messages": {
+            "success": "Perfil actualizado correctamente.",
+            "error": "No se ha actualizado tu perfil. Vuelva a intentarlo o ponte en contacto con nosotros."
+          },
+          "picture_messages": {
+            "success": "Perfil actualizado correctamente.",
+            "error": "No se ha actualizado tu perfil. Vuelva a intentarlo o ponte en contacto con nosotros."
+          }
+        },
+        "subscriptions": {
+          "deal_commission": "Comisión de la oferta",
+          "features": "Características",
+          "change": "Mejorar",
+          "current": "Tu suscripción",
+          "free": "Gratis",
+          "billed_annually": "Facturado anualmente",
+          "plans": {
+            "basic": "Básico",
+            "premium": "Premium",
+            "free": {
+              "title": "Gratuito",
+              "tooltip": "Este plan está disponible solo para marcas invitadas."
+            }
+          },
+          "list": {
+            "email": "Correo electrónico",
+            "chat": "Chat en línea",
+            "data_prefill": "Precarga de datos inicial",
+            "dedicated_manager": "Tutor personal",
+            "leagues_overview": "Resumen de ligas",
+            "players_dashboard": "Información de los jugadores de los equipos",
+            "stadium_dashboard": "Información de los estadios de los equipos",
+            "finances_dashboard": "Información de las finanzas de los equipos",
+            "sponsorship_access": "Acceso al inventario de patrocinio y compra de medios de equipos de fútbol",
+            "marketplace_comparison": "Herramientas de comparación de marketplace y filtrado",
+            "insights": "Información de las redes sociales",
+            "website_insights": "Información del sitio web",
+            "fans_demo": "Demografía de tus fans",
+            "team_fans_demo": "Demografía de los equipos",
+            "team_social_insights": "Información de las redes sociales de los equipos",
+            "team_web_insights": "Información del sitio web de los equipos",
+            "logo_exposure": "Seguimiento de la exposición del logo de la marca",
+            "logo_ROI": "Evaluación de exposición del logo de la marca (ROI)"
+          },
+          "plan_switched": "Plan cambiado con éxito"
+        },
+        "password": {
+          "current": "Contraseña actual",
+          "hint": "La contraseña debe contener al menos un número, una letra mayúscula y otra minúscula, y tener al menos ocho caracteres",
+          "new": "Nueva contraseña",
+          "new_confirmation": "Confirmar nueva contraseña",
+          "messages": {
+            "success": "Contraseña actualizada correctamente.",
+            "error": "Tu contraseña no se ha actualizado. Vuelve a intentarlo o ponte en contacto con nosotros."
+          }
+        },
+        "notifications": {
+          "system": "Notificaciones del sistema",
+          "marketing": "Correos electrónicos de marketing",
+          "new_offers": "Notificaciones por correo electrónico sobre nuevas ofertas",
+          "weekly_review": "Revisión semanal del rendimiento",
+          "monthly_newsletter": "Boletín de noticias mensual",
+          "weekly_suggestions": "Sugerencias de patrocinadores semanales",
+          "messages": {
+            "success": "Configuraciones de notificaciones actualizadas correctamente.",
+            "error": "La configuración de las notificaciones no se actualizó. Vuelva a intentarlo o póngase en contacto con nosotros."
+          }
+        }
+      },
+      "dashboard": {
+        "title": "Panel de control",
+        "new_deals": "Nuevas ofertas de patrocinio | Nueva oferta de patrocinio | Nuevas ofertas de patrocinio",
+        "open_deals": "Ofertas de patrocinio abiertas | Oferta de patrocinio abierta | Ofertas de patrocinio abiertas",
+        "see_all_deals": "Ver todas las ofertas",
+        "profile_strength": "Seguridad del perfil",
+        "request_help": "Solicitar ayuda",
+        "request_help_sentence": "de uno de nuestros asistentes para mejorar tu perfil",
+        "strengthen_your_profile": "Refuerza tu perfil"
+      },
+      "profile": {
+        "validation": {
+          "country": {
+            "required": "El campo País es obligatorio."
+          },
+          "city": {
+            "required": "El campo Ciudad es obligatorio."
+          },
+          "preferredSports": {
+            "required": "El campo Deportes Preferidos es obligatorio."
+          },
+          "industries": {
+            "required": "El campo Industrias es obligatorio."
+          },
+          "description": {
+            "required": "El campo Descripción es obligatorio."
+          }
+        },
+        "navbar": {
+          "audience": "Público",
+          "targeting": "Segmentación",
+          "social": "Alcance social"
+        },
+        "header": {
+          "city": "Ciudad",
+          "country": "País",
+          "industry": "Sector",
+          "visible": "Visible para equipos",
+          "pref_sports": "Deportes preferidos",
+          "description": "Descripción"
+        },
+        "social": {
+          "title": "Publicaciones en redes sociales",
+          "sponsored_brand": "Marca patrocinada | Marcas patrocinadas",
+          "reach_valuation": "Valoración del alcance",
+          "engagement_valuation": "Valoración de las interacciones",
+          "social_network": "Red social",
+          "followed_team": "Equipo seguido",
+          "mention_type": "Tipo de mención",
+          "order_type": "Ordenar por",
+          "order_direction": "Ordenar",
+          "order": {
+            "published_at": "Publicado en",
+            "likes": "Me gusta",
+            "shares": "Veces compartido",
+            "reach": "Alcance",
+            "engagement": "Interacciones",
+            "valuation": "Valoración",
+            "comments": "Comentarios"
+          },
+          "no_posts": "Sin publicaciones"
+        },
+        "audience": {
+          "page_views": {
+            "title": "Visualizaciones de la página",
+            "chart": {
+              "title": "Visualizaciones mensuales de la página",
+              "total": "Visualizaciones totales",
+              "unique": "Visualizaciones únicas"
+            }
+          },
+          "broadcast": {
+            "title": "Transmisiones de televisión",
+            "chart": {
+              "title": "Partidos mensuales emitidos",
+              "matches": "Partidos",
+              "stations": "Cadenas de televisión"
+            }
+          },
+          "stadium_attendance": {
+            "title": "Asistencia al estadio",
+            "sponsored_teams": "Equipos patrocinados",
+            "chart": {
+              "title": "Asistencia mensual al estadio",
+              "matches": "Partidos",
+              "attendance": "Asistencia"
+            }
+          },
+          "media_posts": {
+            "title": "Las tres mejores publicaciones en redes sociales",
+            "social_media_profiles": "Perfiles de redes sociales",
+            "period": "Período"
+          },
+          "media_audience": {
+            "title": "Público en redes sociales",
+            "growth_speed": "Velocidad de crecimiento",
+            "channels": "Canal",
+            "month": "Mes"
+          },
+          "media_reach_engagement": {
+            "title": "Alcance e interacciones en redes sociales",
+            "social_accounts": "Cuentas de redes sociales",
+            "month": "Mes",
+            "images": "Imágenes",
+            "engagement": "Interacciones",
+            "reach": "Alcance"
+          },
+          "activity_valuation": {
+            "title": "Valoración de la actividad de patrocinio",
+            "total_growth": "Crecimiento del valor total",
+            "month": "Mes",
+            "sponsored_teams": "Equipos patrocinados",
+            "chart": {
+              "value": "Valor",
+              "growth": "Crecimiento"
+            }
+          }
+        },
+        "targeting": {
+          "demographics": "Demografía básica",
+          "advanced_demographics": "Demografía avanzada",
+          "media_settings": "Configuración de las redes sociales",
+          "messages": {
+            "success": "Segmentación de marca actualizada.",
+            "error": "No se ha actualizado la segmentación de marca. Vuelva a intentarlo o póngase en contacto con nosotros."
+          },
+          "gender": {
+            "label": "Género",
+            "male": "Hombre",
+            "female": "Mujer",
+            "other": "Otros"
+          },
+          "age": {
+            "label": "Grupo de edad",
+            "group17": "< 17",
+            "group18": "18-24",
+            "group25": "25-34",
+            "group35": "35-44",
+            "group45": "45-54",
+            "group55": "55-64",
+            "group65": "> 65"
+          },
+          "education": {
+            "label": "Educación",
+            "primary": "Primaria",
+            "secondary": "Secundaria",
+            "bachelor": "Licenciatura",
+            "master": "Máster"
+          },
+          "income": {
+            "label": "Ingresos",
+            "group9": "< 10 000 €",
+            "group10": "10 000-20 000 €",
+            "group20": "20 000-50 000 €",
+            "group50": ">= 50 000 €"
+          },
+          "martial": {
+            "label": "Estado civil",
+            "married": "Casado",
+            "divorced": "Divorciado",
+            "single": "Soltero"
+          },
+          "channel": {
+            "label": "Canal",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "youtube": "Youtube",
+            "twitter": "Twitter"
+          },
+          "engagement": {
+            "label": "Valor de interacción",
+            "group9": "< 10 000 €",
+            "group10": "10 000-20 000 €",
+            "group20": "20 000-30 000 €",
+            "group30": "30 000-50 000 €",
+            "group50": ">= 50 000 €"
+          },
+          "lang_countries": {
+            "label": "Ubicación e idioma de destino",
+            "language": "Idioma",
+            "countries": "Países"
+          },
+          "categories": {
+            "label": "Categorías"
+          }
+        }
+      }
+    },
+    "proposal": {
+      "title": "Realizar una nueva propuesta",
+      "back": "Atrás",
+      "consider": "Considere también",
+      "deals_info": "Los equipos tienen que aprobar las ofertas. Esto puede llevar varias horas o incluso días. Después de enviar una propuesta de acuerdo, puede iniciar la comunicación con el equipo para cerrar el trato a tiempo.",
+      "proposal": "Propuesta",
+      "delete": "Eliminar propuesta",
+      "send": "Enviar a equipo/s",
+      "add_item_modal": {
+        "title": "El paquete se ha añadido a tu propuesta",
+        "show_proposal": "Mostrar propuesta",
+        "continue_search": "Seguir buscando",
+        "footer_packages": " | 1 paquete | {packages} paquetes y",
+        "footer_items": "0 elementos | 1 elemento | {items} elementos",
+        "footer_suffix": "están ahora en tu propuesta."
+      },
+      "delete_modal": {
+        "title": "¿Eliminar propuesta?",
+        "text": "¿Realmente desea eliminar de la propuesta?",
+        "btn": "Eliminar"
+      }
+    },
+    "compare": {
+      "title": "Comparar",
+      "back": "Atrás",
+      "empty": "No hay elementos que comparar",
+      "go_to_compare": "Ver comparación",
+      "in_comparison": "En comparación",
+      "add_to_comparison": "Añadir a la comparación",
+      "addDeal": "Añadir a la lista de acuerdos",
+      "sidebar": {
+        "title": "Elementos para comparar",
+        "add": "Añadir otro elemento",
+        "update": "Actualizar"
+      },
+      "section_keys": {
+        "general": "General",
+        "fans": "Seguidores",
+        "reach": "Alcance",
+        "socialMedia": "Redes sociales",
+        "fansDemographics": "Demografía de los seguidores",
+        "stadium": "Estadio",
+        "age": "Edad",
+        "gender": "Género",
+        "finance": "Finanzas",
+        "league": "Liga"
+      },
+      "field_values": {
+        "true": "Sí",
+        "false": "No"
+      },
+      "field_keys": {
+        "inventoryName": "Nombre del inventario",
+        "price": "Precio",
+        "availableTime": "Tiempo disponible",
+        "founded": "Fundado",
+        "location": "Ubicación",
+        "stadiumCapacity": "Estadio (capacidad)",
+        "averageAttendance": "Asistencia media",
+        "totalAttendance": "Asistencia total",
+        "uniqueWebsiteVisits": "Visitas web únicas",
+        "socialMedia": "Seguidores de redes sociales",
+        "crm": "CRM",
+        "mobileApp": "Aplicación Móvil",
+        "broadcasting": "Espectadores de TV",
+        "printOutdoor": "Interacción de social media por Similarweb",
+        "emailsSent": "Base de datos CRM",
+        "seasonTicket": "Titulares de abonos de temporada",
+        "members": "Miembros",
+        "newsletter": "Boletín de noticias",
+        "capacity": "Capacidad",
+        "visitorsPerMatch": "Espectadores por partido",
+        "visitorsTotal": "Total de espectadores",
+        "businessSeats": "Asientos Business",
+        "skyboxes": "Skyboxes",
+        "parking": "Estacionamiento",
+        "trainingPitches": "Campos de entrenamiento",
+        "wifi": "Wifi",
+        "website": "Sitio web",
+        "domestic": "Transmisión de televisión nacional",
+        "uefa": "Ingresos por competiciones internacionales",
+        "commercial": "Comercial",
+        "gate": "Puerta",
+        "others": "Otros",
+        "totalRevenue": "Ingresos totales",
+        "enterpriseValue": "Valor empresarial",
+        "squadMarketValue": "Valor de mercado del equipo",
+        "male": "Seguidores",
+        "female": "Seguidoras",
+        "unknown": "Seguidores desconocidos",
+        "group17": "<= 17",
+        "group18": "18-24",
+        "group25": "25-34",
+        "group35": "35-44",
+        "group45": "45-54",
+        "group55": "55-64",
+        "group65": "Más de 65",
+        "fansTotal": "Total de seguidores",
+        "fansFacebook": "Seguidores de Facebook",
+        "fansInstagram": "Seguidores de Instagram",
+        "fansYoutube": "Seguidores de Youtube",
+        "fansTwitter": "Seguidores de Twitter",
+        "fansWebPage": "Seguidores de la página web",
+        "engagementTotal": "Interacciones totales",
+        "engagementFacebook": "Interacciones en Facebook",
+        "engagementInstagram": "Interacciones en Instagram",
+        "engagementYoutube": "Interacciones en Youtube",
+        "engagementTwitter": "Interacciones en Twitter",
+        "engagementWebPage": "Interacción con la página web",
+        "leagueName": "Nombre de la liga",
+        "matchesCount": "Número total de partidos"
+      }
+    },
+    "deals": {
+      "current_offer": "Oferta actual",
+      "select_deal": "Seleccionar una oferta",
+      "show_current_offer": "Mostrar oferta actual",
+      "past_offer": "Oferta pasada",
+      "total": "Valor",
+      "seasons": "Temporadas",
+      "add_to_deal": "Añadir a la oferta",
+      "weight_price_tooltip": "Precio corregido por cantidad y cantidad de franjas de tiempo (fechas o temporadas).",
+      "dates": "Fechas",
+      "price": "Precio",
+      "duration": "Duración",
+      "amount": "Cantidad",
+      "dimensions": "Dimensiones",
+      "accept_deal": "Aceptar oferta",
+      "decline_deal": "Rechazar",
+      "add_item": "+ Añadir elemento/s",
+      "deal_requested": "Oferta solicitada",
+      "deal_with_brand": "Tratando con la marca",
+      "deal_with": "Tratando con",
+      "thread_area_placeholder": "Escribe tu mensaje...",
+      "brand_representative": "Representante de la marca",
+      "accept": "Aceptar",
+      "decline": "Rechazar",
+      "edit": "Editar",
+      "cancel_edit": "Cancelar modificación",
+      "cancel": "Cancelar",
+      "remove": "Eliminar",
+      "add_item_modal": {
+        "title": "Añadir nuevo elemento a la oferta"
+      },
+      "messages": {
+        "decline": {
+          "success": "La oferta se rechazó correctamente",
+          "error": "La oferta no se rechazó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "accept": {
+          "success": "La oferta se aceptó correctamente",
+          "error": "La oferta no se aceptó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "add_item_modal": {
+          "success": "El elemento se añadió correctamente a la oferta",
+          "error": "El elemento no se añadió a la oferta. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "update_item": {
+          "success": "El artículo se actualizó correctamente",
+          "error": "El elemento no se actualizó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "accept_item": {
+          "success": "El elemento se aceptó correctamente",
+          "error": "El elemento no se aceptó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "decline_item": {
+          "success": "El elemento se rechazó correctamente",
+          "error": "El elemento no se rechazó. Vuelva a intentarlo o póngase en contacto con nosotros."
+        },
+        "remove_item": {
+          "success": "El elemento se eliminó de la oferta correctamente",
+          "error": "El elemento no se eliminó de la oferta. Vuelva a intentarlo o póngase en contacto con nosotros."
+        }
+      },
+      "status": {
+        "open": "Abierto",
+        "accepted": "Aceptado",
+        "declined": "Rechazado",
+        "in_negotiation": "En negociación",
+        "waiting_for_payment": "A la espera de pago",
+        "paid": "Pagado"
+      },
+      "mobile": {
+        "views": {
+          "deals": "Todos los acuerdos",
+          "deal": "Detalle del acuerdo",
+          "messages": "Mensajes"
+        }
+      },
+      "form": {
+        "amount": {
+          "validation": {
+            "max": "Solo te quedan {amount} piezas de este artículo"
+          }
+        },
+        "errors_in_slots": "Tiene errores en algunos campos"
+      },
+      "modals": {
+        "new_slot": {
+          "title": "Añadir nuevo campo"
+        }
+      }
+    },
+    "team": {
+      "league_position_edit": {
+        "heading": "Actualizar posición en la liga",
+        "season_label": "Temporada",
+        "league_label": "Liga",
+        "position_label": "Posición",
+        "validation": {
+          "season_label": {
+            "required": "El campo Temporada es obligatorio."
+          },
+          "league_label": {
+            "required": "El campo Liga es obligatorio."
+          },
+          "position_label": {
+            "required": "El campo Posición es obligatorio."
+          }
+        }
+      },
+      "timeline_edit": {
+        "heading": "Actualizar Línea de Tiempo",
+        "season_label": "Temporada",
+        "title_label": "Título",
+        "description_label": "Descripción",
+        "validation": {
+          "title_label": {
+            "required": "El campo Título es obligatorio."
+          },
+          "description_label": {
+            "required": "El campo Descripción es obligatorio."
+          }
+        }
+      },
+      "trophy_edit": {
+        "heading": "Actualizar Trofeos",
+        "season_label": "Temporada",
+        "trophy_label": "Trofeo",
+        "stage_label": "Fase",
+        "validation": {
+          "season_label": {
+            "required": "El campo Temporada es obligatorio."
+          },
+          "trophy_label": {
+            "required": "El campo Trofeo es obligatorio."
+          },
+          "trophy_stage": {
+            "required": "El campo Fase de Trofeos es obligatorio."
+          }
+        }
+      },
+      "heroes_edit": {
+        "heading": "Actualizar Héroes",
+        "name_label": "Nombre",
+        "logo_label": "Logo",
+        "validation": {
+          "name_label": {
+            "required": "El campo Nombre es obligatorio."
+          }
+        }
+      },
+      "fans": {
+        "validation": {
+          "seasonTicket": {
+            "required": "El campo Abono de Temporada es obligatorio."
+          },
+          "members": { "required": "El campo Miembro es obligatorio." },
+          "newsletter": { "required": "El campo Boletín es obligatorio." },
+          "crm": { "required": "El campo CRM es obligatorio." },
+          "mobileApp": {
+            "required": "El campo Aplicación Móvil es obligatorio."
+          }
+        },
+        "error": "Ocurrió un error, por favor inténtalo de nuevo más tarde.",
+        "success": "Los cambios han sido guardados con éxito."
+      },
+      "dashboard": {
+        "title": "Panel de control",
+        "profile_views": "Visualizaciones de perfil por marcas",
+        "search_appearances": "Apariciones en búsquedas",
+        "new_offer": "Nuevas ofertas | Nueva oferta | Nuevas ofertas",
+        "see_new_offers": "Ver nuevas ofertas",
+        "profile_completed": "Perfil completado",
+        "inventory_uploaded": "Inventario cargado",
+        "upload_inventory": "Cargar inventario",
+        "request_help": "Solicitar ayuda",
+        "request_help_sentence": "de uno de nuestros asistentes para mejorar tu perfil",
+        "strengthen_your_profile": "Refuerza tu perfil",
+        "social_media_posts": "Publicaciones en redes sociales",
+        "top_social_media_posts": "Las mejores publicaciones en redes sociales"
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "questions": [
+          {
+            "title": "¿Puedo usar SPONSOR.ONLINE para administrar mi relación con los patrocinadores existentes?",
+            "body": "Sí, es posible. SPONSOR.ONLINE es una estupenda herramienta que te ayuda a administrar y mejorar tu relación con las marcas existentes y nuevas que patrocinan a tu equipo. Les permite ver los datos reales y el valor de mercado de patrocinar a tu equipo. Además, les mantiene informados de las futuras oportunidades de patrocinio. \n<br><br>Desde tu perfil, puedes invitar a tu base de datos de patrocinadores para que se unan a SPONSOR.ONLINE. Además, SPONSOR.ONLINE te cobrará una comisión del 0 % en el primer contrato futuro que realices con cualquiera de tus patrocinadores existentes a través de nuestra plataforma."
+          },
+          {
+            "title": "¿Cómo me puede ayudar SPONSOR.ONLINE a encontrar nuevos patrocinadores?",
+            "body": "SPONSOR.ONLINE no es como las agencias tradicionales, cuyo objetivo es ayudarte a encontrar nuevas marcas que patrocinen a tu equipo. Lo más importante es que ofrecemos todas las herramientas necesarias para presentar tu oferta de la mejor manera posible a las marcas, tanto nacionales como internacionales. Nuestra herramienta de presentación y los datos integrados ofrecen a las marcas toda la información que necesitan para encontrar el mejor complemento de patrocinio. \n<br><br>SPONSOR.ONLINE fue creado por un equipo ganador de profesionales con muchos años de experiencia a sus espaldas en el patrocinio de fútbol internacional. Contamos con conocimiento y contacto sobre quienes toman las decisiones presupuestarias en algunas de las principales marcas mundiales. Junto con esto, invertimos mucho en la incorporación de nuevos patrocinadores a través de una combinación de marketing digital y equipos de ventas sobre el terreno."
+          },
+          {
+            "title": "¿Cómo me puede ayudar SPONSOR.ONLINE a encontrar los equipos adecuados que patrocinar?",
+            "body": "El equipo de SPONSOR.ONLINE ha liderado durante muchos años el espacio de patrocinio internacional de fútbol. Conocemos las dificultades a las que se enfrentan las marcas cuando encuentran las mejores oportunidades de patrocinio y los problemas para supervisar el ROI en patrocinio. \n<br><br>Nuestra suite de análisis integrada permite que cualquier agente de patrocinio identifique rápida y fácilmente la mejor oportunidad de acuerdo con datos reales y verificados. Nuestra herramienta de comparación de patrocinios ayuda a cotejar y contrastar rápidamente las ofertas de patrocinio según los puntos de datos que más te interesan. Nuestras herramientas de búsqueda de patrocinio permiten analizar rápidamente los paquetes de patrocinio relevantes según los criterios más importantes para ti, como la región, la valoración en línea y la información demográfica de los seguidores."
+          },
+          {
+            "title": "¿Cómo puedo mantener la privacidad de mis datos?",
+            "body": "Los datos son fundamentales tanto para los equipos como para las marcas. Nuestra política de privacidad describe las prácticas recomendadas que seguimos para garantizar que los datos que recopilamos se almacenen y supervisen con cuidado. \n<br><br>Tu controlas la cantidad de información que cargas en nuestra plataforma y puedes supervisar quién la ve. ¿Deseas mantener los precios de tu patrocinio en privado hasta que participes en una negociación con una marca? No hay problema. Para preguntas concretas sobre datos, no dudes en enviar un correo electrónico a nuestro equipo a la dirección <a href=\"mailto:info@sponsoronline.eu\"> info@sponsoronline.eu </a> ."
+          },
+          {
+            "title": "¿Cuánto cuesta SPONSOR.ONLINE?",
+            "body": "SPONSOR.ONLINE te permite encontrar el tipo de paquete de suscripción que más te convenga. Si bien tenemos acceso básico gratuito a la cuenta para marcas y equipos, se puede acceder a nuestras herramientas avanzadas mediante nuestros modelos de membresía premium. </br></br> Visita la página suscripciones en Configuración para obtener más información."
+          }
+        ]
+      },
+      "how_it_works": {
+        "title": "Cómo funciona",
+        "get_started": {
+          "title": "COMIENCE CON LA AYUDA DE NUESTROS AGENTES DE PATROCINIO",
+          "body": "¿Quieres potenciar tu perfil? Nuestros agentes de patrocinio están disponibles para ayudarte a mejorar tu perfil y aumentar tus ingresos de patrocinio con las marcas más importantes del mundo.",
+          "button": "Probemos"
+        },
+        "inventory": {
+          "title": "GESTIONA TU INVENTARIO",
+          "body": "Nuestros agentes de patrocinio te ayudarán a subir inventario y te ofrecerán asesoramiento sobre cómo hacer que tus ofertas de patrocinio sean lo más atractivas posible.",
+          "button": "Editar inventario"
+        },
+        "deals": {
+          "title": "CREAR OFERTAS DE PAQUETES",
+          "body": "Haz clic a continuación para comenzar en cuestión de minutos y comparar el mercado. Conéctate con equipos en una plataforma transparente y confiable.",
+          "button": "Crear nuevo"
+        },
+        "communication": {
+          "title": "COMUNICACIÓN CON LAS MARCAS",
+          "body": "La herramienta de mensajería SPONSOR.ONLINE te permite abrir un diálogo directamente con los equipos y mantener un registro de todas las comunicaciones.",
+          "button": "Ir a la bandeja de entrada"
+        }
+      },
+      "settings": {
+        "title": "Configuración",
+        "navbar": {
+          "profile": "Perfil",
+          "password": "Contraseña",
+          "notifications": "Notificaciones",
+          "social": "Perfiles sociales",
+          "subscriptions": "Suscripciones",
+          "payments": "Pagos"
+        },
+        "profile": {
+          "first_name": "Nombre",
+          "last_name": "Apellido",
+          "email": "Tu correo electrónico",
+          "job": "Nombre del cargo",
+          "location": "Ubicación",
+          "phone": "Número de teléfono",
+          "your_profile_photo": "Tu foto de perfil",
+          "change_picture": "Cambiar imagen",
+          "go_to_team_profile": "Ir al perfil del equipo",
+          "your_team_account": "La cuenta de tu equipo",
+          "go_to_league_profile": "Ir al perfil de la liga",
+          "your_league_account": "Tu cuenta de liga"
+        },
+        "subscriptions": {
+          "deal_commission": "Comisión de la oferta",
+          "features": "Características",
+          "change": "Mejorar",
+          "current": "Tu suscripción",
+          "free": "Gratis",
+          "billed_annually": "Facturado anualmente",
+          "plans": {
+            "free": "Gratuito",
+            "basic": "Básico",
+            "premium": "Premium"
+          },
+          "list": {
+            "email": "Correo electrónico",
+            "chat": "Chat en línea",
+            "data_prefill": "Precarga de datos inicial",
+            "dedicated_manager": "Tutor personal",
+            "team_dashboard": "Información del equipo",
+            "leagues_overview": "Resumen de la liga",
+            "stadium_dashboard": "Información del estadio",
+            "players_dashboard": "Información de jugadores",
+            "sport_media_overview": "Resumen de medios deportivos",
+            "sponsorship_dashboard": "Información del patrocinio",
+            "insights": "Información de las redes sociales",
+            "website_insights": "Información del sitio web",
+            "fans_demo": "Demografía de los seguidores",
+            "media_buy_inventory": "Inventario de patrocinio y compra de medios",
+            "easy_share": "Presentación de tu equipo fácil de compartir",
+            "deals": "Sistema de mensajería para negociación de acuerdos",
+            "logo_tracking": "Seguimiento de la exposición del logotipo de la marca patrocinadora",
+            "logo_evaluation": "Evaluación de la exposición del logo de la marca patrocinadora"
+          }
+        },
+        "payments": {
+          "info": "Información de la facturación del equipo",
+          "history": "Historial de pagos",
+          "name": "Nombre de la empresa",
+          "address": "Dirección",
+          "city": "Ciudad",
+          "tax_id": "Identificación fiscal",
+          "vat_id": "Identificación de IVA",
+          "iban": "IBAN",
+          "invoice": "Factura",
+          "proforma_invoice": "Factura Proforma"
+        },
+        "password": {
+          "current": "Contraseña actual",
+          "hint": "La contraseña debe contener al menos un número, una letra mayúscula y otra minúscula, y tener al menos ocho caracteres",
+          "new": "Nueva contraseña",
+          "new_confirmation": "Confirmar nueva contraseña"
+        },
+        "social": {
+          "title": "Habilitar conexiones a redes sociales",
+          "linkedin": "Conexión con Linkedin",
+          "facebook": "Conexión con Facebook",
+          "twitter": "Conexión con Twitter",
+          "youtube": "Conexión con Google (Youtube)",
+          "google_analytics": "Google Analytics",
+          "instagram": "Instagram"
+        },
+        "notifications": {
+          "system": "Notificaciones del sistema",
+          "marketing": "Correos electrónicos de marketing",
+          "new_offers": "Notificaciones por correo electrónico sobre nuevas ofertas",
+          "weekly_review": "Revisión semanal del rendimiento",
+          "monthly_newsletter": "Boletín de noticias mensual",
+          "weekly_suggestions": "Sugerencias de patrocinadores semanales"
+        }
+      }
+    },
+    "sidebar": {
+      "team": {
+        "profile": "Perfil del equipo",
+        "dashboard": "Panel de control",
+        "inventory": "Inventario",
+        "deals": "Ofertas",
+        "settings": "Configuración",
+        "contact": "Contáctenos",
+        "privacy": "Legal y privacidad",
+        "terms": "Condiciones de uso",
+        "about": "Sobre nosotros",
+        "contact-us": "Contáctenos"
+      },
+      "brand": {
+        "profile": "Perfil",
+        "dashboard": "Panel de control",
+        "marketplace": "Mercado",
+        "deals": "Acuerdos",
+        "settings": "Configuración",
+        "contact": "Contáctenos",
+        "privacy": "Legal y privacidad",
+        "terms": "Condiciones de uso",
+        "about": "Sobre nosotros"
+      }
+    },
+    "navbar": {
+      "inventory": "Inventario",
+      "fans": "Seguidores y alcance",
+      "players": "Jugadores",
+      "stadium": "Estadio",
+      "finances": "Finanzas",
+      "partners": "Socios",
+      "league": "Liga",
+      "sponsorship": "Patrocinio"
+    },
+    "profile": {
+      "stadium": {
+        "editButton": "Editar Estadio",
+        "editForm": {
+          "heading": "Editando Estadio",
+          "capacity": "Capacidad",
+          "visitorsTotal": "Total de visitantes",
+          "skyboxes": "Palcos",
+          "visitorsPerMatch": "Visitantes por Partido",
+          "businessSeats": "Tribuna Preferencial",
+          "validation": {
+            "capacity": {
+              "required": "El campo Capacidad es obligatorio."
+            },
+            "visitorsTotal": {
+              "required": "El campo Total de Visitantes es obligatorio."
+            },
+            "skyboxes": {
+              "required": "El campo Palcos es obligatorio."
+            },
+            "visitorsPerMatch": {
+              "required": "El campo Visitantes por Partido es obligatorio."
+            },
+            "businessSeats": {
+              "required": "El campo Tribuna Preferencial es obligatorio."
+            }
+          },
+          "success": "Los cambios se han guardado con éxito.",
+          "error": "Ocurrió un error, por favor inténtalo de nuevo más tarde."
+        }
+      },
+      "settings": {
+        "your_title_photo": "Tu foto de título",
+        "your_logo": "Tu logo"
+      },
+      "team": {
+        "league_position": "Posición en la liga",
+        "feature_not_available_in_plan": "Esta función no está disponible en su plan actual. Por favor, considere una actualización a otro plan.",
+        "finances": {
+          "revenue": {
+            "title": "Ingresos",
+            "domestic": "Transmisión de televisión nacional",
+            "uefa": "Ingresos por competiciones internacionales",
+            "commercial": "Comercial",
+            "gate": "Puerta",
+            "others": "Otros",
+            "total": "Ingresos totales",
+            "enterprise": "Valor empresarial",
+            "squad_market": "Valor de mercado del equipo"
+          },
+          "sponsor": {
+            "title": "Socios patrocinadores"
+          }
+        },
+        "sponsorship": {
+          "title": "Interacciones de contenido patrocinado",
+          "official_partnership": "Asociación oficial",
+          "source": "Fuente",
+          "posts": "Publicaciones",
+          "engagement": "Interacciones",
+          "valuation": "Valoración",
+          "engagement_table_title": "Panel general de interacciones",
+          "valuation_table_title": "Valoración general",
+          "stadium": "Estadio",
+          "fans": "Seguidores",
+          "media": "Medios de comunicación",
+          "team": "Equipo",
+          "players": "Jugadores",
+          "total": "Total",
+          "picturesCount": "Imágenes",
+          "videosCount": "Vídeos",
+          "mentionsCount": "Menciones",
+          "hashtagsCount": "Hashtags",
+          "brandedContentCount": "Contenido de marca",
+          "tracked_engagement": "Interacciones registradas en publicaciones individuales de redes sociales (imagen / video / enlace / texto) que contienen el logo del patrocinador oficial"
+        },
+        "fans": {
+          "editFans": "Editar seguidores",
+          "seasonTicketCount": "Abono de temporada",
+          "membersCount": "Miembro",
+          "newsletterCount": "Boletín de noticias",
+          "websiteCount": "Sitio web",
+          "socialMediaCount": "Redes sociales",
+          "crmCount": "CRM",
+          "mobileAppCount": "Aplicación Móvil",
+          "web_social": "Web y Redes Sociales",
+          "web_social_following": "Seguimiento Web y Redes Sociales",
+          "reach_last_season": "Alcance total: temporada pasada",
+          "fans_last_season": "Seguidores",
+          "media": {
+            "title": "Redes sociales e interacción",
+            "social_accounts": "Cuentas de redes sociales",
+            "engagement": "Interacciones",
+            "followersCount": "Seguidores",
+            "followers": "Seguidores",
+            "engagement_per_channel": "suma de interacciones en redes sociales por canal en la temporada seleccionada",
+            "followers_per_channel": "suma de seguidores de redes sociales por canal en la temporada seleccionada"
+          },
+          "media_exposure": {
+            "title": "Exposición mediática",
+            "sources": "Fuentes",
+            "overview": "Descripción general de las menciones / exposiciones del club en los medios por mes",
+            "media": {
+              "source": "Fuente",
+              "engagement": "Interacciones",
+              "exposures": "Exposición",
+              "engagement_per_channel": "suma de interacciones en redes sociales por canal en la temporada seleccionada",
+              "followers_per_channel": "suma de seguidores de redes sociales por canal en la temporada seleccionada"
+            }
+          },
+          "tv_print": {
+            "title": "Público de televisión y medios impresos",
+            "tv": {
+              "title": "Exposición en cadenas de televisión",
+              "description": "Lista de estaciones de TV y número de transmisiones de partidos completos (no se cuentan noticieros deportivos)"
+            },
+            "print": {
+              "title": "Exposición en medios impresos",
+              "description": "Descripción general de los medios impresos con la periodicidad (diaria / semanal / mensual) y el formato (número de páginas)"
+            },
+            "description": "Lista de estaciones de TV y número de transmisiones de partidos completos (no se cuentan noticieros deportivos)"
+          },
+          "hashtags": {
+            "title": "Los 10 hashtags más utilizados por los seguidores",
+            "overview": "Descripción general de los hashtags de redes sociales del mes pasado / la temporada pasada"
+          },
+          "reach": {
+            "totalAttendanceCount": "Asistencia a partidos de local",
+            "emailsSentCount": "Base de datos CRM",
+            "uniqueWebsiteVisitsCount": "Visitas web únicas",
+            "socialMediaCount": "Seguidores de redes sociales",
+            "broadcastingCount": "Espectadores de TV",
+            "printOutdoorCount": "Interacción en redes sociales por Similarweb"
+          },
+          "broadcastCoverage": {
+            "title": "Cobertura de Transmisión",
+            "liveBroadcastHours": "HORARIO DE TRANSMISIÓN EN VIVO",
+            "delayedBroadcastHours": "HORARIOS DE TRANSMISIÓN RETRASADA",
+            "broadcastedHighlightsHours": "HORARIOS DE DESTACADOS TRANSMITIDOS"
+          },
+          "broadcastViewers": {
+            "title": "Espectadores de Transmisiones",
+            "liveBroadcastViewers": "ESPECTADORES DE TRANSMISIÓN EN VIVO",
+            "delayedBroadcastViewers": "ESPECTADORES DE TRANSMISIÓN RETRASADA",
+            "broadcastedHighlightsViewers": "ESPECTADORES DE DESTACADOS TRANSMITIDOS"
+          },
+          "sharedVideoPlatforms": {
+            "title": "Plataformas de Video Compartido",
+            "youtube": "YouTube",
+            "twitch": "Twitch"
+          },
+          "education": {
+            "title": "Educación",
+            "primary": "Primaria",
+            "secondary": "Secundaria",
+            "bachelor": "Licenciatura",
+            "master": "Máster"
+          },
+          "income": {
+            "title": "Ingresos",
+            "group00": "< 10 000 €",
+            "group10": "10 000-20 000 €",
+            "group20": "20 000-50 000 €",
+            "group50": "> 50 000 €"
+          },
+          "age": {
+            "title": "Edad",
+            "group17": "< 17",
+            "group18": "18-24",
+            "group25": "25-34",
+            "group35": "35-44",
+            "group45": "45-54",
+            "group55": "55-64",
+            "group65": "> 65"
+          },
+          "status": {
+            "title": "Estado",
+            "married": "Casado",
+            "divorced": "Divorciado",
+            "single": "Soltero"
+          },
+          "byCountry": {
+            "title": "Seguidores por país"
+          },
+          "byLanguage": {
+            "title": "Seguidores por idioma"
+          },
+          "demographics": {
+            "title": "Demografía",
+            "male": "Seguidores",
+            "female": "Seguidoras",
+            "other": "Otros seguidores",
+            "weighted_average": "Datos demográficos de los seguidores de la página web y redes sociales (Promedio ponderado del mes pasado / temporada pasada)"
+          }
+        },
+        "stadium": {
+          "view_on_map": "Ver en Google Maps",
+          "capacity": "Capacidad",
+          "perMatchVisitors": "Espectadores por partido",
+          "totalVisitors": "Total de espectadores",
+          "businessSeats": "Asientos Business",
+          "skyboxes": "Skyboxes",
+          "trainingPitches": "Campos de entrenamiento",
+          "parking": "Estacionamiento",
+          "wifi": "Wifi"
+        }
+      },
+      "about": {
+        "title": "Sobre nosotros",
+        "teams": {
+          "label": "Equipos",
+          "value": "Más de 140 equipos europeos"
+        },
+        "sponsors": {
+          "label": "Patrocinadores",
+          "value": "MÁS DE 45 MARCAS INTERNACIONALES <br> MÁS DE 200 MARCAS REGIONALES"
+        },
+        "vision": {
+          "label": "Nuestra visión",
+          "value": "SPONSOR.ONLINE nace con el objetivo de modernizar la industria tradicional del patrocinio deportivo. Tanto nuestros fundadores como el equipo son atletas apasionados, profesionales del fútbol y líderes con experiencia en patrocinio.<br><br> Descontentos con las limitaciones en la creación de acuerdos de patrocinio desde las agencias tradicionales, nos propusimos crear una plataforma digital más avanzada donde los equipos de fútbol profesionales pudieran reunirse con las marcas globales interesadas en su equipo y localización. Todo bajo un marketplace de calidad, transparente y sencillo."
+        },
+        "team": {
+          "title": "Conozca a nuestro equipo"
+        }
+      },
+      "header": {
+        "share_button": "Presentación",
+        "show_more": "Mostrar más",
+        "show_less": "Mostrar menos",
+        "info": {
+          "country": "País",
+          "sport": "Deporte",
+          "founded": "Fundado",
+          "stadium": "Estadio",
+          "stadium_capacity": "Capacidad del estadio",
+          "average_attendance": "Asistencia media",
+          "annual_revenue": "Ingresos anuales",
+          "league": "Liga",
+          "city": "Ciudad",
+          "quote": "Cita clave / Lema",
+          "vision": "Visión de equipo",
+          "about_us": "Sobre nosotros",
+          "employes": "Empleados a tiempo completo",
+          "partner_clubs": "Equipos asociados",
+          "shareholders": "Accionistas",
+          "academies": "Academias",
+          "youth_players": "Jugadores jóvenes",
+          "players": "Players",
+          "football_schools": "Escuelas de fútbol",
+          "teams": "Teams",
+          "coaches": "Entrenadores",
+          "heroes": "Héroes",
+          "history": "Historia",
+          "titles": "Títulos",
+          "employees": "Empleados a tiempo completo"
+        }
+      },
+      "league": {
+        "country": {
+          "stats": {
+            "clubsCount": "Equipos de fútbol en el país",
+            "maleCount": "Jugadores registrados",
+            "femaleCount": "Jugadoras registradas"
+          }
+        },
+        "stats": {
+          "league": "Liga",
+          "club": "Club",
+          "avgStadiumAttendance": "Asistencia media al estadio",
+          "avgMatchdayAttendance": "Asistencia media en un día de partido",
+          "avgStadiumCapacity": "Capacidad media del estadio",
+          "avgStadiumUtilization": "Utilización media del estadio",
+          "matchesCount": "Número total de partidos",
+          "cumulativeAttendance": "Asistencia acumulada"
+        },
+        "city": {
+          "population": "Población",
+          "area": "Distancia",
+          "district": "Distrito"
+        }
+      },
+      "social": {
+        "top_posts": {
+          "engagement": "Interacciones",
+          "reach": "Alcance"
+        }
+      },
+      "complete_tips": [
+        "¿Cuándo se estableció tu equipo?",
+        "¿Cuántos seguidores compran boletos de temporada?"
+      ],
+      "brand_complete_tips": [
+        "¿Cuándo se estableció tu marca?",
+        "¿Qué deportes prefieres?"
+      ]
+    },
+    "logout": {
+      "messages": {
+        "info": "Se ha cerrado la sesión"
+      }
+    },
+    "league": {
+      "profile": {
+        "header": {
+          "info": {
+            "vision": "Visión de la liga",
+            "about_us": "About us"
+          }
+        }
+      }
+    }
+  },
+  "blog": {
+    "headings": {
+      "main": {
+        "index": "Artículos recientes",
+        "tags": "Artículos de la categoría: ",
+        "authors": "Artículos por autor: "
+      },
+      "sections": {
+        "news": "Noticias",
+        "tags": "Categorías",
+        "top_posts": "Artículos principales",
+        "recommended": "Recomendado",
+        "share": "Compartir"
+      },
+      "social": {
+        "claim": "¿Te gusta esta publicación? ¡Compártela con sus amigos!"
+      }
+    },
+    "links": {
+      "back": "Volver a artículos"
+    },
+    "newsletter": {
+      "title": "Boletín de noticias",
+      "message": "Sea el primero en conocer las novedades, las próximas características y las ofertas adicionales"
+    },
+    "filters": {
+      "author": "Filtrado por autor",
+      "category": "Filtrado por categoría"
+    }
+  },
+  "features": {
+    "manage_inventory": {
+      "headline": "Gestione su inventario",
+      "cta": "Muestre lo que puede ofrecer"
+    }
+  },
+  "about_us": {
+    "title": "Conozca al equipo de SPONSOR.ONLINE",
+    "team_info": "Equipo de SPONSOR.ONLINE",
+    "close_deals": "Cierra los acuerdos de patrocinio más efectivos y transparentes.",
+    "subtitle_1": "SPONSOR.ONLINE nace con el objetivo de modernizar la industria tradicional del patrocinio deportivo. Tanto nuestros fundadores como el equipo son atletas apasionados, profesionales del fútbol y líderes con experiencia en patrocinio.",
+    "subtitle_2": "Descontentos con las limitaciones en la creación de acuerdos de patrocinio desde las agencias tradicionales, nos propusimos crear una plataforma digital más avanzada donde los equipos de fútbol profesionales pudieran reunirse con las marcas globales interesadas en su equipo y localización. Todo bajo un marketplace de calidad, transparente y sencillo.",
+    "advisors": "Asesores",
+    "ludo": {
+      "title": "Ludo es un inversionista exitoso en varias compañías tecnológicas relacionadas con el deporte y start-ups.",
+      "description": "Su objetivo principal es recuperar una distribución justa de la riqueza en la industria del deporte para todos los involucrados. Busca de manera continua formas de generar nuevas fuentes de ingresos para aficionados y semi-profesionales que luchan por los recursos. Su dominio principal es el fútbol y ha asesorado a varios equipos de alto rango europeos y sudamericanos, principalmente en la estrategia de lealtad de los fanáticos y la activación de la marca."
+    },
+    "christian": {
+      "title": "Christian es un exitoso ex jugador de fútbol y ganador de la Copa Mundial de la FIFA 98 con la Selección Nacional de Francia. Actualmente es un inversor activo en SPONSOR.ONLINE quien comparte la creencia de que la tecnología digital hará que la decisión de patrocinio sea más fácil y más transparente en el futuro.",
+      "description": "En la actualidad es consejero estratégico en el Olympiacos FC e inversor en empresas relacionadas con tecnología en el deporte.\n\nKarembeu es miembro del club de \"Campeones por la Paz\", un grupo de 54 famosos atletas de elite comprometidos a colaborar con la paz en el mundo a través del deporte."
+    },
+    "kerstin": {
+      "title": "Vacío",
+      "description": "Directora General de Patrocinio, TEAM Marketing impulsando las asociaciones comerciales con la UEFA y el tour-de-force de marketing detrás del fenomenal crecimiento de la UEFA Champions League durante más de 25 años."
+    },
+    "kay": {
+      "title": "Director Senior de Derechos de Medios, DFB y ex exejecutivo de SASS Media y DAZN.",
+      "description": "Como Ex Director General de DAZN y con ocho años de experiencia como Vicepresidente de la Bundesliga alemana, Kay tiene una visión exclusiva del mercado de titulares de derechos deportivos."
+    },
+    "tyson": {
+      "title": "Vacío",
+      "description": "Director Comercial, AS Monaco y ex Ejecutivo de WPP, Omnicom, UEFA y TEAM Marketing. Tyson ha trabajado y asesorado a las principales Marcas, Organizaciones de Medios y Federaciones de Deporte, en algunos de los eventos deportivos más visibles y prestigiosos que se conocen en la actualidad."
+    },
+    "andreas": {
+      "title": "",
+      "description": "Gerente General de Operaciones de los Juegos Olímpicos de Atenas 2004 y desde entonces ha ocupado puestos gerenciales o de consultoría en Licitaciones, Comités Organizadores y Eventos Deportivos importantes."
+    },
+    "max": {
+      "title": "Maximilian es uno de los funcionarios más reconocidos de la UEFA, con más de 150 partidos de experiencia.",
+      "description": "Él es un experto en marketing deportivo y orador de eventos, con participación en reuniones de la Arabian Gulf League y la Asociación Europea de Clubes. Aprendió su oficio trabajando como Gerente de Derechos de Medios (Media Rights Manager) y Venue Manager para TEAM Marketing AG, con sede en Suiza. Él también es el ex presidente de el European Business School Symposium y fundador de su Junta de Asesores. Maximilian habla con fluidez inglés, alemán y español."
+    },
+    "aifric": {
+      "title": "Una persona altamente organizada y muy motivada, Aifric combina su experiencia como abogada corporativa internacional con su pasión por la disrupción comercial y la igualdad de mercado para crear negocios donde todos los jugadores sean ganadores.",
+      "description": "Aifric es una abogada registrada y miembro del colegio de abogados irlandés, ex abogada de una importante firma que integra las Big Four, y CEO experimentada de startups. Le gusta construir plataformas de negocios digitales y negocios tradicionales, y le apasiona especialmente la creación de plataformas de tecnología deportiva que actualizan formas corporativas de hacer negocios a la nueva era digital."
+    },
+    "brand": {
+      "title": "La plataforma de patrocinio de fútbol",
+      "subtitle": "Conexiones innovadoras entre las principales marcas y equipos de fútbol profesionales.",
+      "title_signup": "Conviértase en patrocinador",
+      "how_it_works": {
+        "title": "Cómo funciona",
+        "sign_up": {
+          "title": "Regístrate",
+          "body": "Simplemente regístrate y crea tu propio perfil confidencial en solo unos minutos. Nuestro equipo de atención al cliente estará encantado de ayudarte a programar una llamada contigo."
+        },
+        "search": {
+          "title": "Compara el Mercado",
+          "body": "Busca por países, equipos, datos demográficos de audiencia, estadísticas en los medios de comunicación social, datos financieros, información del jugador, índice de presupuesto, patrocinadores actuales, ofertas de patrocinio en vivo y mucho más."
+        },
+        "communication": {
+          "title": "Comunicate directamente con los equipos",
+          "body": "La herramienta de mensajería SPONSOR.ONLINE te permite abrir un diálogo directamente con los equipos y mantener un registro de todas las comunicaciones."
+        },
+        "deals": {
+          "title": "Cierra Ofertas Y Registra Inventario",
+          "body": "Utilizando nuestra inteligencia central, ahorra tiempo y realiza acuerdos de patrocinio mejor asesorado utilizando la plataforma de confianza SPONSOR.ONLINE."
+        }
+      }
+    },
+    "team": {
+      "title": "La plataforma de patrocinio de fútbol",
+      "subtitle": "Conexiones innovadoras entre las principales marcas y equipos de fútbol profesionales.",
+      "title_signup": "Añade tu equipo",
+      "pricing": {
+        "title": "Contacta con marcas de renombre mundial"
+      },
+      "advisors": {
+        "title": "Equipo",
+        "body": "Obtén más información sobre el equipo único de personas que están detrás de SPONSOR.ONLINE"
+      },
+      "stories": {
+        "title": "Comparar El Mercado. Plataforma transparente y de Confianza. Trato Directo.",
+        "success": "Casos de éxito",
+        "body": "Obtén más información sobre el equipo único de personas que están detrás de SPONSOR.ONLINE"
+      },
+      "deals": {
+        "title": "¿Estás listo para cambiar el juego del patrocinio?",
+        "body": "Haz click a continuación y, en unos minutos, encuentra a las marcas que quieren vincularse a tu equipo, tu región y a tus seguidores.",
+        "clubs": {
+          "title": "Más de 140",
+          "body": "Equipos europeos"
+        },
+        "brands": {
+          "title": "Más de 45",
+          "body": "Marcas internacionales"
+        },
+        "reg_brands": {
+          "title": "Más de 200",
+          "body": "Marcas regionales"
+        }
+      },
+      "save_money": {
+        "chart_alt": "Guardar la miniatura de la imagen del gráfico",
+        "title": "Ahorra tiempo y dinero",
+        "subtitle1": "Te respaldamos",
+        "subtitle2": "Elimina las conjeturas y obtén los datos rápidamente",
+        "p1": "Estás buscando un patrocinio o inversión en publicidad con un equipo de fútbol profesional. SPONSOR.ONLINE cuenta con más de 140 equipos profesionales de fútbol que actualmente tienen su inventario de patrocinio disponible.",
+        "p2": "Nuestra herramienta de comparación de patrocinios dedica el tiempo necesario para cotejar cada detalle de las ofertas de patrocinio recibidas. Con unos pocos clicks, te puedes familiarizar con los datos reales que subyacen detrás de cada equipo. Responda a las preguntas que quieres y necesitas saber, como por ejemplo, la base de seguidores del equipo que mejor se adapta a tus marcas, qué equipo tiene la presencia en línea más importante y qué equipo es tu mejor opción para activar el patrocinio de marca.",
+        "agency_fees": {
+          "title": "11%",
+          "body": "Aumento de los ingresos por patrocinio para equipos de fútbol europeos en 2018"
+        },
+        "revenue": {
+          "title": "26B USD",
+          "body": "Ingresos no alcanzados debido al inventario no vendido y a un desactualizado manejo de activos en 2021"
+        },
+        "annual_sponsorship": {
+          "title": "66B USD",
+          "body": "Gasto anual de patrocinio en 2021"
+        },
+        "costs": {
+          "label": "Costos",
+          "agencies": {
+            "sponsor": "SPONSOR.ONLINE",
+            "agencies": "Agencias"
+          }
+        }
+      },
+      "how_it_works": {
+        "title": "Cómo funciona",
+        "sign_up": {
+          "title": "Regístrate",
+          "body": "Si eres un equipo de fútbol profesional que busca un patrocinio deportivo de vanguardia, regístrate en SPONSOR.ONLINE."
+        },
+        "upload": {
+          "title": "Cargar tu inventario",
+          "body": "Añade tu inventario de patrocinio a tu perfil, configura los paquetes de patrocinio y deja que las mejores marcas sepan lo que tu equipo les puede ofrecer."
+        },
+        "connections": {
+          "title": "Conexiones cruciales",
+          "body": "Negocia con marcas y cierra acuerdos rápidamente con el sistema de mensajería SPONSOR.ONLINE."
+        },
+        "deals": {
+          "title": "Cierra Ofertas Y Registra Inventario",
+          "body": "Utilizando nuestra inteligencia central, ahorra tiempo y realiza acuerdos de patrocinio mejor asesorado utilizando la plataforma de confianza SPONSOR.ONLINE."
+        }
+      },
+      "under_hood": {
+        "title": "Echa un vistazo bajo el capó",
+        "body": "Echa un vistazo a cómo SPONSOR.ONLINE está cambiando las normas del patrocinio para equipos y marcas.",
+        "dashboard": "Panel de control",
+        "inventory": "Inventario",
+        "presentation": "Presentación"
+      }
+    }
+  },
+  "contact_us": {
+    "title": "Contáctanos",
+    "subtitle_1": "¿Listo para revolucionar la escena del patrocinio de fútbol en Europa? Hablemos.",
+    "subtitle_2": "Será un placer conversar sobre los requisitos de patrocinio de tu empresa. Completa el formulario y en breve nos pondremos en contacto contigo.",
+    "team_brands_enquires": "Consultas sobre equipos/marcas",
+    "media_enquires": "Consultas sobre medios",
+    "work_with": {
+      "title": "Equipos con los que trabajamos"
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "content": [
+        {
+          "key": "christoph",
+          "name": "Christoph Winterling",
+          "image": "christoph-winterling.jpg",
+          "position": "Director Comercial y de Marketing en Bologna FC",
+          "testimonial": "La plataforma cuenta con diversos contactos internacionales. Para nuestro departamento comercial es una gran oportunidad el entrar en contacto con marcas de todo el mundo."
+        },
+        {
+          "key": "stanislav",
+          "name": "Stanislav Šugár",
+          "image": "stanislav-sugar.jpg",
+          "position": "Gerente General en Park Inn by Radisson",
+          "testimonial": "Es exactamente lo mismo que usar otras plataformas, como AirBnB o Booking.com. El acuerdo que cerramos nos trajo negocios adicionales, por lo que, en mi opinión, fue una buena idea unirnos y usar la plataforma."
+        },
+        {
+          "key": "rajesh",
+          "name": "Rajesh Kharabanda",
+          "image": "rajesh-kharabanda.jpg",
+          "position": "Presidente de Freewill Sports Private Limited",
+          "testimonial": "Asociarnos con Sponsor.Online le ha generado a nuestra empresa una gran oportunidad  para expandirse por Europa y conectarse con clubes de fútbol de todo el mundo."
+        },
+        {
+          "key": "georgios",
+          "name": "Georgios Zervos",
+          "image": "georgios-zervos.jpg",
+          "position": "Fundador de Stickito",
+          "testimonial": "El mercado digital de Sponsor.Online nos ha brindado una oportunidad única para presentar nuestros derechos de coleccionables digitales, como NFT para clubes de fútbol."
+        },
+        {
+          "key": "nadav",
+          "name": "Nadav Sofer",
+          "image": "nadav-sofer.jpg",
+          "position": "Fundador y CEO de MixZone",
+          "testimonial": "El mercado digital de Sponsor.Online es una gran oportunidad para que los clubes aumenten la visibilidad de sus patrocinadores con más exposición en varias zonas de entrevistas mediante el uso de la tecnología y las soluciones que ofrecemos en el contexto digital."
+        },
+        {
+          "key": "igor",
+          "name": "Igor Grosaft",
+          "image": "igor-grosaft.jpg",
+          "position": "Socio en Novesta",
+          "testimonial": "Nunca antes habíamos pensado en patrocinar un equipo de fútbol hasta que SPONSOR.ONLINE trajo nuevas opciones a nuestra mesa. En tres clics encontramos un socio perfecto para nuestro plan de expansión en el Reino Unido."
+        }
+      ]
+    }
+  },
+  "termsOfUse": {
+    "title": "Condiciones de Uso",
+    "effective_date": "Fecha de inicio de vigencia: 27 de noviembre de 2018",
+    "last_updated": "Última actualización: 27 de noviembre de 2018",
+    "p1": "Antes de ingresar y comenzar a utilizar la Plataforma, lea con atención los siguientes términos y condiciones de uso que aparecen en estas Condiciones de Uso. Tenga en cuenta que al ingresar y utilizar la Plataforma y los Servicios queda sujeto a las Condiciones de Uso y a las leyes y regulaciones vigentes.",
+    "p2": "Este es un acuerdo vinculante entre Sponsor.Online, por una parte, y el Usuario, por otra parte, según el cual Sponsor.Online otorga al Usuario el derecho de ingresar y utilizar la Plataforma y los Servicios sujetos a los términos y condiciones establecidos en estas Condiciones de Uso.",
+    "general_provisions": "DISPOSICIONES GENERALES",
+    "p3": "Sponsor.Online es una plataforma en línea de servicio integral ('<strong>Plataforma</strong>' creada y diseñada para proporcionar servicios de patrocinio deportivo con el objetivo de conectar clubes deportivos, atletas, ligas, asociaciones deportivas y cualquier otro tipo de entidades vinculadas al deporte ('<strong>Titular de Derechos</strong>') con empresas y marcas alrededor del mundo ('<strong>Patrocinador</strong>' o '<strong>Marca</strong>') que deseen firmar acuerdos de patrocinio deportivo u otro tipo de acuerdo similar con el Titular de Derechos, con participación financiera directa o indirecta ('<strong>Patrocinio</strong>') y con la intención de respaldar las actividades deportivas del Titular de Derechos, por una contraprestación establecida ('<strong>Acuerdo de Patrocinio</strong>' o '<strong>Contrato de Patrocinio</strong>').",
+    "p4": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Plataforma a ",
+    "p5": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Titular de Derechos a cualquier persona física o entidad legal que se registre en la Plataforma como equipo.",
+    "p6": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Patrocinador o Marca a cualquier persona física o entidad legal que se registre en la Plataforma como marca.",
+    "p7": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, también se denominará Patrocinador, Marca o Titular de Derechos a cualquier persona física o entidad legal asociada con el Patrocinador o Titular de Derechos, bajo su control o que ejerza control sobre ellos, como así las partes que ejecuten el Contrato de Patrocinio, bajo las instrucciones del Patrocinador o del Titular de Derechos",
+    "p8": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Patrocinio a todo tipo de actuación financiera directa o indirecta por parte del Patrocinador hacia el Titular de Derechos, por la compra de cualquiera de los elementos cargados por el Titular de Derechos a través de la Plataforma en el inventario de patrocinio del Titular de Derechos.",
+    "p9": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Contrato de Patrocinio o Acuerdo de Patrocinio a cada contrato, acuerdo o cualquier otro tipo de acto legal (unilateral, bilateral o multilateral), sin considerar su forma, contenido o legislación aplicable e independientemente de si se efectuó a través de la Plataforma o fuera de ella, bajo el cual el Patrocinador pagará al Titular de Derechos  por la compra de todos los elementos proporcionados por éste último a través de la Plataforma incluidos en su inventario de patrocinio.",
+    "p10": "A los fines de estas Condiciones de Uso y para evitar cualquier tipo de duda, se denominará Contrato de Patrocinio o Acuerdo de Patrocinio a cada contrato, acuerdo o cualquier otro tipo de acto legal (unilateral, bilateral o multilateral), sin considerar su forma, contenido o legislación aplicable e independientemente de la relación entre el Patrocinador y Titular de Derechos que hayan conectado a través de la Plataforma (ya sea que dicho acuerdo haya sido ejecutado a través de la Plataforma o fuera de ella), en virtud del cual el Titula de derechos recibirá o tendrá la facultad de recibir el Patrocinio, independientemente de si el Titular de Derechos realiza para el Patrocinador algún tipo de contraprestación por el Patrocinio.",
+    "p11": "Para evitar cualquier tipo de duda, y a los fines de estas Condiciones de Uso, ingresar y utilizar a la Plataforma o los Servicios significará la acción de ingresar y utilizar la Plataforma o cualquier parte de ésta, navegar dentro de su contenido, registrar usuarios y crear cuentas como Titular de Derechos o Patrocinador, cargar o descargar datos de la Plataforma, ingresar a la Plataforma mediante los Servicios a través de los cuales el Usuario puede obtener información acerca del contenido de la Plataforma o de los Servicios.",
+    "p12": "De acuerdo con los términos y condiciones establecidos en este documento, la Plataforma proporciona herramientas, tecnología y funciones que le otorgan al Titular de Derechos y a los Patrocinadores la posibilidad de comunicarse entre sí y llegar a un Acuerdo de Patrocinio, el cual deberá cumplir con sus intereses ('<strong>Servicios</strong>'. La función '<strong>Servicios</strong>' también brinda listas de perfiles de equipos y su análisis y gestión, listas de perfiles de marcas y su análisis y gestión, listas de inventarios y análisis de tableros de información, mercado en línea y mensajería. Sponsor.Online tiene la facultad de cambiar, modificar, actualizar, agregar o discontinuar los Servicios o cualquier parte de las funciones de éstos en cualquier momento sin notificación previa. ",
+    "p13": "Estas Condiciones de Uso rigen a todos los usuarios, visitas y otras personas que puedan ingresar y utilizar la Plataforma, independientemente de su intención, como así también todos los usuarios, visitas y otras personas que se registren y creen una cuenta en la Plataforma como Titular de Derechos o Marca, con el fin de ingresar a Servicios y utilizarlos ('<strong>Usuarios</strong>' o '<strong>Usted</strong>' o '<strong>Su</strong>').  Usted puede visitar la Plataforma y acceder a algunas de sus funciones sin necesidad de registrarse. No obstante, es necesario registarse como Marca o Titular de Derechos (equipo) para utilizar los Servicios y llegar a un Acuerdo de Patrocinio. Solo puede utilizar los Servicios de acuerdo con los términos y condiciones que se establecen en este documento y con las leyes y regulaciones vigentes. ",
+    "p14": "En caso de que ingresar y utilizar la Plataforma o los Servicios en representación de un Patrocinador o Titular de Derechos como agente '<strong>Agente</strong>', entonces: (a) '<strong>Usted</strong>' incluye al Agente y, de manera conjunta y solidaria, al Patrocinador y al Titular de Derechos por el cual usted suscribe y (b) usted declara y garantiza que se le ha conferido la autoridad y las autorizaciones necesarias para efectuar el Acuerdo de Confidencialidad y para aceptar estas Condiciones de Uso en nombre y representación del Patrocinador y el Titular de Derechos por el cual suscribe.",
+    "p15": "Al ingresar y utilizar la Plataforma, usted acepta de manera irrevocable e incondicional los términos y condiciones que aquí se establecen.  En caso de no estar de acuerdo con estas Condiciones de Uso o alguna de las disposiciones detalladas en este documento, no obtendrá la autorización para ingresar ni utilizar ninguna parte de la Plataforma ni los Servicios, y no podrá volver a ingresar ni utilizar la Plataforma ni los Servicios. ",
+    "p16": "La empresa Sponsor.Online Limited, con sede en: 21 D'Abernon Drive, Stoke D'Abernon, Cobham, England, KT11 3JE, Nro. de Compañía: 12980112, junto con sus filiales '<strong>Sponsor.Online</strong>', '<strong>Nosotros</strong>' o '<strong>Nuestro</strong>', es la propietaria de la Plataforma. A excepción de su contenido publicado en la Plataforma, cualquier tipo de contenido que aparece en la Plataforma es de propiedad intelectual y es material protegido por derechos de autor de Sponsor.Online o de sus proveedores contratados, y se encuentra amparado por la ley aplicable vigente. La recopilación (es decir, la recolección, disposición y armado) de todo el contenido de la Plataforma es también de propiedad exclusiva de Sponsor.Online y se encuentra amparado por la ley aplicable vigente. Excepto disposición en contrario incluida en el presente documento o que se encuentre permitido de manera expresa en la Plataforma, Usted no podrá alterar, modificar, copiar, distribuir, transmitir, exhibir, ejecutar, reproducir, reutilizar, publicar, descargar, almacenar para su uso posterior, transferir, vender, registrar ni disponer de la información o el contenido obtenido en la Plataforma, en parte o en su totalidad, incluso textos, imágenes, archivos de audio o video, de ninguna manera, sin nuestra autorización pertinente. Queda prohibida la utilización del contenido, incluso imágenes, por su parte o por parte de cualquier persona a quien usted autorice, a menos que haya obtenido la autorización correspondiente y por escrito de Sponsor.Online. La utilización no autorizada de los textos o imágenes puede considerarse como violación de las leyes y regulaciones que rigen la propiedad intelectual, los derechos de autor, las marcas registradas, la publicidad y la privacidad. Sponsor.Online no declara ni garantiza que su utilización del contenido o el material que aparece en la Plataforma no afectará los derechos de terceros.",
+    "p17": "Estas Condiciones de Uso le otorga la licencia personal, revocable, limitada, no exclusiva, exenta de regalías y no transferible para acceder y utilizar la Plataforma y los Servicios para su uso personal y exclusivo. Su utilización de la Plataforma y los Servicios y cualquiera de sus partes queda sujeto a sucumplimiento continuo de los términos y condiciones y de estas Condiciones de Uso. Usted acepta de manera expresa que Sponsor.Online no transfiere la propiedad ni la propiedad intelectual a la Plataforma ni a los Servicios.",
+    "p18": "Todo el contenido que usted nos proporcione o cargue, almacene, publique, exhiba a través de la Plataforma será de su propiedad y generado y controlado solo por usted, no por Sponsor.Online. Por el presente, usted declara y garantiza que el material que publica, carga, almacena, distribuye, envía, intercambia, comparteo publica a través de la Plataforma, inlcuso la que utiliza en Facebook, Twitter u otro medio, es de su propiedad. En relación a su contenido, usted otorga a Sponsor.Online el derecho y la licencia noexclusiva, mundial, a perpetuidad, exenta de regalías, completamente pagada y sublicenciable (a través de etapas múltiples) para copiar, distribuir, crear, exhibir, modificar, reformatear, transmitir y utilizar de cualquier manera cualquier tipo de contenido o información relacionada con la Plataforma y los Servicios para: (i) exhibir ese contenido en relación con la operaciones de los Servicios, en cualquier formato, medio o a través de cualquier tecnología conocida en la actualidad o desarrollada luego hasta el cumplimiento del plazo de cualquiera de los derechos que pudieren existir en tal contenido y cualquier tipo de información que lo acompañe; (ii) alojar, almacenar, archivar, clasificar, rastrear, crear algoritmos, modificar o transcodificar el contenido para adecuarse a formatos y estándares de medios como parte de los Servicios; (iii) utilizar, distribuir, reproducir, modificar, mezclar, fragmentar, adaptar, preparar derivados, ejecutar y exhibir de manera pública el contenido en la Plataforma, incluso en relación con acuerdos de distribución y difusión firmados con sitios de terceros, en cualquier medio o a través de cualquier canal; (iv) utilizar el contenido para publicidad, para fines comerciales o de promoción, incluso el derecho de exhibir, ejecutar, reproducir y distribuir de manera pública su contenido, en cualquier formato o medio o a través de cualquier canal.",
+    "p19": "Solo podrá acceder y utilizar los Servicios si posee una cuenta como Titular de Derechos (equipo) o Marca, creada registrándose en la Plataforma y de acuerdo con estas Condiciones de Uso y según las instrucciones e información proporcionada en la Plataforma. Si desea ingresar y utilizar los Servicios como Agente, debe registrarse en la Plataforma como Titular de Derechos o Patrocinador, sujeto a autorización. Su cuenta de Sponsor.Online le brinda acceso a los Servicios a su exclusivo criterio. Su cuenta no es transferible y no debe utilizar la cuenta de otra persona sin autorización. Al crear una cuenta, usted debe proporcionar información completa y precisa, incluso datos bancarios o información acerca de su tarjeta de crédito (si se le solicita). Usted declara y garantiza que toda información que proporcione, durante el registro o en cualquier momento posterior, es verdadera y completa y que la completará o modificará en caso de ser necesario para que esa información permanezca verdadera, precisa y conmpleta. Usted es exclusivamente responsable por toda actividad que ocurra en su cuenta y debe preservar la seguridad de la contraseña de acceso a su cuenta. Debe notificarnos de manera inmediata en caso de cualquier violación a la seguridad de su cuenta o su uso sin la debida autorización. No nos haremos responables de las pérdidas ocasionadas por el uso sin autorización de su cuenta. Al cambiar la configuración de su cuenta, en la sección de configuración de cuenta, puede controlar el perfil de su cuenta y la manera en que interactúa con los Servicios, de acuerdco on las instrucciones proporcionadas en la Plataforma. Al brindarnos su dirección de correo electrónico, usted acepta recibir noticias relacionadas con los Servicios, incluso los avisos que exige la ley. También podemos utilizar su dirección de correo electrónico para enviarle mensajes, como cambios en las funciones de los Servicios o la Plataforma y ofertas especiales. Si no desea recibir nuestros mensajes de correo electrónico, puede desuscribirse de manera voluntaria. En caso de desuscribirse a nuestro servicio de mensajes de correo electrónico, dejará de recibir noticias acerca de actualizaciones, mejoras y ofertas.",
+    "p20": "Si usted se registra en nombre de una empresa, al hacerlo usted confirma y acepta que se le ha conferido la autoridad para registrarse en nombre de esa empresa. Lo mismo aplica en caso de que se registre en nombre de otra persona.",
+    "p21": "Los servicios le otorgan al Titular de Derechos, al Patrocinador o al Agente la posibilidad de comunicarse entre sí mediante las herramientas de mensajería y otras funciones que brinda la Plataforma, con el fin de llegar a un Contrato de Patrocinio. Al registrarse, usted confirma que posee una actividad comercial válida, con la intención de utilizar los Servicios para obtener o proporcionar Patrocinio o publicitar su negocio y efectuar un Contrato de Patrocinio.",
+    "p22": "Luego de registrarse en la Plataforma y comenzar a comunicarse y entablar negocios con un Titular de Derechos, Patrocinador o Agente a través de los Servicios, usted acepta concluir la comuniocación y la negociación en la Plataforma, a menos acuerdo en contrario con Sponsor.Online.",
+    "p23": "Por el presente, usted reconoce y acepta en su totalidad que Sponsor.Online no es parte del Contrato de Patrocinio en tal modo que Sponsor.Online no será responsable de ningún tipo de incumplimiento de ese Contrato ni acción indebida que surgiere de éste. El cumplimiento de las actividades deportivas o publicitarias u otras regulaciones será de exclusiva responsabilidad con el Titular de Derechos o Patrocinador. Al utilizar los Servicios (o cualquier parte de los Servicios), usted declara y garantiza que el Contrato de Patrocinio al cual usted suscribe, junto con sus anexos, programas y otros contenidos, cumple con las leyes, regulaciones, políticas y acuerdos aplicables vigentes y que no vulnera los derechos de terceros.",
+    "p24": "Usted acepta que nosotros no garantizamos la aptitud, confiabilidad o calidad de los Titulares de derechos y Patrocinadores enumerados en la Plataforma. Asimismo, no garantizamos las capacidades, los antecedentes o el desempeño de los Titulares de derechos, por ejemplo, la capacidad de un Titular de derecho para desempeñar sus funciones o la capacidad del Patrocinador para pagar el Patrocinio.",
+    "subcriptions": "RESTRICCIONES DE SUSCRIPCIÓN",
+    "p25": "Los cargos por el ingreso y la utilización de los Servicios se detallan en la Plataforma. Si elige el paquete pago u opciones adicionales de los Servicios como se establecen en la Plataforma o en cualquier punto de estas Condiciones de Uso, usted acepta, de manera irrevocable e incondicional, pagar por los Servicios que se detallan en estas Condiciones de Uso o en la Plataforma. Asimismo, de manera irrevocable e incondicional, usted acepta que el domicilio, la dirección de correo electrónico y otros detalles que haya proporcionado en la configuración de su cuenta son datos válidos y que podemos confeccionar y enviar de manera electrónica o por facsímil nuestra factura según estos datos.",
+    "p26": "Usted reconoce y acepta en su totalidad que todos los cargos que usted pague a Sponsor.Online, de acuerdo con estas Condiciones de Uso y con la Plataforma, no serán reembolsables. Sponsor.Online se reserva el derecho, en cualquier momento y a su exclusivo criterio, de cambiar los montos de los cargos y otros términos relacionados con precios por los Servicios o funciones adicionales en la Plataforma. Todos los cambios introducidos serán publicados en la Plataforma o se le comunicarán al Usuario por mensaje de correo electrónico, correo postal, facsímil u otros medios con efecto inmediato.",
+    "p27": "Sponsor.Online le enviará una factura por mes o por año (según del paquete de servicios elegido), por adelantado y en concepto de todos los montos adeudados a Sponsor.Online. Cada factura incluirá un detalle de los cargos que se acumularán en el período siguiente '<strong>Factura</strong>'. Sponsor.Online publicará cada factura en su cuenta dentro de un plazo de una semana a partir del primer día del mes calendario aplicable ('<strong>Fecha de publicación de factura</strong>').",
+    "p28": "Al proporcionar los datos de su tarjeta de crédito o cualquier otro tipo de información de pago durante el proceso de registro o en cualquier otro momento, usted declara y garantiza que los datos de su tarjeta de crédito o medio de pago es correcto y válido, y autoriza a Sponsor.Online a cargar en esa tarjeta de crédito o medio de pago los montos adeudados según las facturas correspondientes.",
+    "p29": "Los montos de cada factura serán cargados a la tarjeta de crédito o medio de pago detallados en la cuenta del Usuario el día de publicación de la factura.",
+    "p30": "El Usuario puede hacer consultas con respecto a los cargos facturados por Sponsor.Online a través de correo electrónico dentro de un plazo no mayor a los 7 (siete) días a partir de la fecha de facturación.",
+    "sponsorship_deal": "ACUERDO DE PATROCINIO Y COMISIÓN",
+    "p31": "Sponsor.Online acepta revisar el reclamo por cargos y colaborar con el Usuario para llegar a una solución amistosa y oportuna. En caso de que el Usuario no ejerza su derecho de reclamo tal como lo indica la oración anterior, todos los cargos facturados deberán ser abonados. Una vez que los montos a pagar han sido cargados a la tarjeta de crédito o medio de pago del Usuario, ya no serán reembolsables.",
+    "p32": "El Acuerdo de Patrocinio se considerará completo y por lo tanto vinculante una vez que el Titular de Derechos confirme que el Patrocinador ha aceptado la propuesta realizada a través de su cuenta en la Plataforma, a menos que el Patrocinador cancele o retire la oferta, conforme a la Cláusula 31. El Acuerdo de Patrocinio se considerará completo y por lo tanto vinculante en tanto el Patrocinador y el Titular de Derechos acuerden (conforme a la oración anterior) el monto, las condiciones de pago y cada uno de los detalles del acuerdo de Patrocinio brindados por el Titular de Derechos al Patrocinador como contraprestación por el Patrocinio (objeto del Acuerdo de Patrocinio). Todas las negociaciones y acuerdos posteriores se considerarán modificaciones secundarias al Acuerdo de Patrocinio producto de la oferta y aceptación por parte del Patrocinador y el Titular de Derechos.  Para evitar cualquier tipo de duda y a los fines de estas Condiciones de Uso, cualquier reserva, objeción o comentario en relación a otras secciones, aparte del objeto del Acuerdo, no tendrán efecto alguno en la ejecución de éste.",
+    "p33": "El Patrocinador, al aceptar la oferta del Titular de Derechos, que sujeto a ésta, a menos que el Patrocinador retire o cancela su aceptación antes de que el Titular de Derechos la confirme. De lo contrario, el Patrocinador no podrá cancelar ni retirar su aceptación y deberá cumplir con todas las obligaciones surgidas del Acuerdo de Patrocinio.",
+    "p34": "Una vez que el Acuerdo de Patrocinio es ejecutado de acuerdo con estas Condiciones de Uso, la Plataforma habilita al Patrocinador a pagar el Patrocinio, lo que deberá llevar a cabo solo a través de la cuenta bancaria indicada en la Plataforma, establecida por Sponsor.Online y exclusivamente para este fin ('<strong>Cuenta en custodia</strong>'). Sponsor.Online mantendrá el monto del Patrocinio en la Cuenta en custodia y lo liberará al Titular de Derechos dentro de un plazo de 10 días a partir de la fecha de acreditación del monto en la Cuenta en custodia. Sponsor.Online cobrará al Titular de Derechos la Comisión correspondiente, la que se deducirá del monto del Patrocinio previo a la transferencia al Titular de Derechos. Luego de que el Patrocinio se acredita en la Cuenta en custodia, se puede devolver el monto de dinero al Patrocinador solo mediante consentimiento del Patrocinador y el Titular de Derechos.",
+    "p35": "El monto de la Comisión se indica en la Plataforma y se calcula sobre la base del monto del Patrocinio estipulado en el Acuerdo. Para calcular el monto de la Comisión del Patrocinio se considerará el valor del monto en efectivo acordado entre el Patrocinador y el Titular de Derechos en el Acuerdo de Patrocinio y las regalías derivadas del acuerdo, como los pagos realizados por el Patrocinador al Titular de Derechos en relación a pagos por imprevistos sobre la base de un criterio predeterminado, por ejemplo, ventas, descargas u otras actividades similares. La Comisión hace referencia a todos los acuerdos celebrados entre el Patrocinador y el Titular de Derechos, quienes se hubieren conectado y comunicado a través de la Plataforma. La Comisión se calculará sobre el monto total bruto del Patrocinio. Los Contratos de Patrocinio quedan sujetos al pago de una comisión luego de la última comunicación entre el Patrocinador y el Titular de Derechos. En caso de actuar como Agente, queda sujeto a los mismos términos y condiciones que el Patrocinador o Titular de Derechos.",
+    "p36": "El Patrocinador deberá pagar el Patrocinio de acuerdo con la Cláusula 32 dentro de un plazo acordado con el Titular de Derechos en el Contrato de Patrocinio. En caso de incumplimiento de pago del Patrocinio por parte del Patrocinador dentro del plazo establecido en el Contrato y su posterior rescisión por parte del Titular de Derechos, el Patrocinador queda obligado a pagar a Sponsor.Online €500,00 (quinientios Euros) en concepto de cargos administrativos, por cada Contrato de Patrocinio rescindido. En caso de que el Contrato de Patrocinio se rescindido por responsabilidad del Titular de Derechos, éste deberá abonar los cargos administrativos a Sponsor.Online. En caso de que el Contrato de Patrocinio sea rescindido por acuerdo mutuo entre el Patrocinador y el Titular de Derechos por cualquier motivo o por ningún motivo en especial, Sponsor.Online puede cobrar los cargos administrativos a ambas partes (de manera conjunta y solidaria). Las disposiciones de las Cláusulas 23 – 28 se aplicarán mutatis mutandis. La rescisión del Contrato de Patrocinio por cualquier motivo o por ningún motivo en especial (independientemente de la forma de rescisión, por ejemplo, incumplimiento, notificación de rescisión de contrato, acuerdo) no tendrá efecto sobre: (i) la Comisión ya pagada sobre el Contrato de Patrocinio rescindido y (ii) el derecho de Sponsor.Online a percibir su Comisión devenida del Contrato de Patrocinio ya celebrado.",
+    "p37": "El derecho de Sponsor.Online a percibir una comisión surge de la celebración del Acuerdo de Patrocinio de acuerdo con estas Condiciones de Uso. La comisión deberá ser pagada una vez que el monto del Patrocinio se acredite en la Cuenta en custodia. En caso de que el Patrocinio no sea pagado a través de la Cuenta en custodia, la comisión se podrá pagar una vez que el Titular de derecho reciba el monto del Patrocinio. La Cláusula 41 no será afectada.",
+    "p38": "Si el Patrocinio no es pagado dentro de un plazo de 60 (sesenta) días a partir de (i) la celebración o cumplimiento del Acuerdo de Patrocinio o (ii) de la fecha de vencimiento del Patrocinio según lo estipula el contrato, sin que el Contrato de Patrocinio haya sido rescindido, la Comisión se deberá pagar dentro de un plazo de 10 (diez) días a partir de la fecha de envío de la solicitud escrita de Sponsor.Online en la cual este último ejerce su derecho de exigir su Comisión según estas Condiciones de Uso.",
+    "p39": "Sponsor.Online puede emitir una factura, cobrar y deducir su Comisión, en parte o su totalidad, por el Patrocinio, según la Cláusula 32. Si llega el momento de pagar la Comisión pero el Patrocinio no ha sido pagado como se indica en la Cláusula 36, Sponsor.Online puede exigir la Comisión al Patrocinador y su correspondiente pago mediante las herramientas que dispone la ley aplicable vigente.",
+    "p40": "La Comisión también se puede cargar a la tarjeta de crédito del Patrocinador que figura en los archivos, a menos que el Patrocinador y Sponsor.Online acuerden por escrito otro medio de pago.",
+    "p41": "La Comisión se aplica a todos los Patrocinadores y Titulares de derecho que hayan entrado en contacto a través de la Plataforma y que hayan celebrado un Acuerdo de Patrocinio, a menos que se acuerde lo contratrio por escrito con Sponsor.Online.",
+    "p42": "Sponsor.Online se reserva el derecho, en cualquier momento y a su exclusivo criterio, de cambiar el monto y las condiciones de pago de la Comisión que se detallan aquí y en la Plataforma. Todos los cambios introducidos serán publicados en la Plataforma o se le comunicarán al Usuario por mensaje de correo electrónico, correo postal, facsímil u otros medios con efecto inmediato.",
+    "p43": "Una vez que el Patrocinador y el Titular de Derechos comiencen la comunicación entre ellos a través de la Plataforma, deben completar el Acuerdo de Patrocinio solo mediante la Plataforma y concretar el pago del Patrocinio en la Cuenta en custodia. En caso de incumplimiento de este requisito por parte del Patrocinador y/o el Titular de derecho, Sponsor.Online tiene la facultad de imponer una penalidad por valor de €10.000,00 (diez mil euros) por incumplimiento de obligaciones contractuales. Sponsor.Online puede demandar el pago de esta penalidad tanto al Patrocinador como al Titular de Derechos (de manera conjunta y solidaria). El derecho de Sponsor.Online a percibir el pago de la Comisión o recibir una compensación por daños y perjuicios no se verá afectado.",
+    "p44": "Una vez que la Comisión se cobre o se deduzca del Patrocinio, ya no es reembolsable.",
+    "p45": "En caso de que así lo requira, usted debe proporcionar a Sponsor.Online toda la información y registros relacionados con el Contrato de Patrocinio.",
+    "p46": "El Patrocinador y el Titular de Derechos autorizan por el presente, de forma irrevocable e incondicional, a (i) recibir, conservar o transferir el Patrocinio acreditado en la Cuenta en custodia, según estas Condiciones de Uso y (ii) deducir el pago de la Comisión del Patrocinio sin la necesidad de mediar un consentimiento adicional, exención, aprobación, orden, permiso o autorización, declaración, registro o notificación de ninguna persona o entidad gubernamental.",
+    "p47": "Si el Patrocinio consiste de una contraprestación en especie, el monto de la Comisión se calculará sobre la base del valor real del Patrocinio, determinado por un experto designado por Sponsor.Online.",
+    "further_undertakings": "OTRAS OBLIGACIONES",
+    "p48": "Si, por algún motivo, el Usuario no cumple con su obligación de pagar a Sponsor.Online los montos correspondientes según estas Condiciones de Uso o si Sponsor.Online carga sobre la tarjeta de crédito o medio de pago del Usuario algún monto, según estas Condiciones de Uso, y el pago no se acredita, Sponsor.Online se reserva el derecho de suspender el acceso del Usuario a la Plataforma y los Servicios. En caso de que el Usuario no cumpla con su obligación de pagar la factura correspondiente dentro de los 10 días a partir de la fecha de su vencimiento, Sponsor.Online se reserva el derecho de cancelar la cuenta del Usuario con efecto inmediato. En el caso de que Sponsor.Online cancele la cuenta del Usuario por falta de pago, todos los montos pendientes de pago a Sponsor.Online por el acceso y el uso de los Servicios serán exigibles y pagaderos de manera inmediata.  En caso de incumplimiento de pago y luego de agotar todos los medios correspondientes para exigir el pago según estas Condiciones de Uso, Sponsor.Online se reserva el derecho de exigir el pago mediante las herramientas que dispone la ley aplicable vigente para estas circunstancias.",
+    "p49": "Usted reconoce que la Plataforma puede contener enlaces a sitios Web de terceros, publicidades, servicios, ofertas especiales u otros eventos o actividades que no se encuentran bajo el control de Sponsor.Online. Sponsor.Online no asumirá la responsabilidad por la información, productos o servicios que contengan esos sitios. Si ingresa al sitio Web de un tercero desde los Servicios, lo hace bajo su exclusiva responsabilidad y por su cuenta y riesgo y comprende que estas Condiciones de Uso ni la Política de Privacidad de Sponsor.Online aplican a su uso de estos sitios.",
+    "p50": "Para más seguridad de sus datos y de la información que haya proporcionado a Sponsor.Online al acceder a la Plataforma y los Servicios, lea Nuestra Política de Privacidad.",
+    "our_privacy_policy": "NUESTRA POLITICA DE PRIVACIDAD",
+    "p51": "Por el presente, además de cualquier otro tipo de restricciones o condiciones de acceso y uso, usted reconoce, declara y garantiza que al ingresar y utilizar la Plataforma y los Servicios usted no llevará a cabo (i) ninguna actividad ilegal, no autorizada, fraudulenta ni con fines maliciosos; (ii) ninguna violación, malversación o infracción con respecto a los derechos de un tercero, incluso derechos de privacidad, de publicidad, de autor, de marca registrada o de propiedad intelectual; (iii) ninguna manifestación de odio, falsa, ofensiva con respecto a etnias o culturas, abusiva, difamatoria, obsena, racista, de contenido sexual explícito, indecente ni pornográfica ni (iv) ningún tipo de invación a los derechos de privacidad de terceros.",
+    "p52": "El Usuario no podrá (i) crear una falsa identidad con el fin de confundir a otros ni despersonalizar a otras personas o entidades; (ii) violar ninguna ley estatal, nacional ni internacional aplicable; (iii) otorgar licencias, vender, revender, transferir, asignar, distribuir ni explotar de manera comercial los Servicios o la Plataforma a ningún tercero y por ningún motivo; (iv) modificar ni realizar obras sobre la bae de la Plataforma; (v) crear enlaces de Internet a los Servicios ni '<strong>enmarcar</strong>' o '<strong>espejar</strong>' la Plataforma de ninguna manera con el fin de desarrollar un producto o servicio de competencia, generar productos o servicios con ideas funciones o gráficos similares a los de la Plataforma o los Servicios o copiar ideas, funciones o gráficos de la Plataforma o los Servicios; (vii) lanzar un producto automatizado ni encriptar rastreadores, robots, virus, indicadores ni ningún programa que produzca solicitudes múltiples al servidor por segundo o que sobrecargue el desempeño de la Plataforma; (viii) interferir ni alterar la integridad del desempeño de la Plataforma o los datos contenidos en ella ni (ix) intentar ingresar a la Plataforma sin autorización.",
+    "p53": "Sponsor.Online tiene la facultad de investigar cualquier caso del tipo de los mencionados anteriormente u otro tipo de violaciones a estas Condiciones de Uso hasta el máximo grado permitido por la ley aplicable vigente. Por el presente, usted reconoce que Sponsor.Online no tiene la obligación de controlar su acceso o utilización a la Plataforma y los Servicios, pero sí tiene el derecho de hacerlo con el fin de administrar la Plataforma y proporcionar los Servicios, para garantizar el cumplimiento de Las Condiciones de Uso para cumplir con las leyes aplicables o los fallos o solicitudes emanados de tribunales competentes, agencias administrativas o gubernamentales.",
+    "p54": "Sponsor.Online tiene el derecho, pero no la obligación, de controlar cualquier tipo de actividad o contenido relacionados con la Plataforma o los Servicios. Podemos iniciar investigaciones de violaciones o reclamos que se hayan reportado con respecto a las políticas de la Plataforma, y llevar a cabo las acciones que consideremos necesarias. Sponsor.Online se reserva el derecho, en cualquier momento y sin previo aviso, de suspender o cancelar su cuenta, o restringir, deshabilitar o prohibir su uso y acceso a la Plataforma de manera permanente si consideramos, a nuestro exclusivo criterio, que usted se ha involucrado o ha llevado a cabo actividades que violan estas Condiciones de Uso, las leyes aplicables vigentes, por otro motivo o sin motivo alguno.",
+    "p55": "No podrá registrarse con un nombre falso ni por pretextos falsos. No podrá utilizar el nombre ni la contraseña de otro participante ni manifestar conductas fraudulentas con la intención de alterar el orden y el normal funcionamiento de la Plataforma. No podrá, de manera intencional, intentar publicar información falsa o engañosa para ingresar o utilizar los Servicios.",
+    "p56": "En tanto Sponsor.Online se esfuerza para proporcionar servicios funcionales y confiables, la Plataforma, los Servicios e incluso todo tipo de información, datos o material contenido en ellos se le proporcionará a usted, en las condiciones en que se encuentrey según su disponibilidad, y puede incluir errores, omisiones u otro tipo de impresiciones. Usted asumirá el riesgo total de confiar y hacer uso de la Plataforma y los Servicios e incluso todo tipo de información, datos o material contenido en ellos. Sponsor.Online se desliga de brindar garantías con respecto a la Plataforma o los Servicios y a la información, implícita o expresa, que ellas contengan, garantías de comercialización o idoneidad para un determinado fin, garantías de no violar derechos de terceros, de calidad satisfactoria, de goce pacífico y precisión o cualquier otro tipo de garantía bajo la Ley Uniforme de Transacciones de Información Computarizada, según cada jurisdiccción. Asimismo, Sponsor.Online tampoco garantiza que la Plataforma o los Servicios funcionen libres de errores, de manera ininterrumpida, ni que la información o datos que de allí se descarguen se encuentre libre de virus o rasgos dañinos.",
+    "p57": "Por el presernte, usted se compromete a cumplir con todas las regulaciones contables e impositivas regionales, nacionales, locales, estatales, europeas o internacionales aplicable vigentes, en lo que se refiere al Acuerdo de Patrocinio y la ejecución de cualquiera de los derechos y obligaciones surgidos de este. Sin perjuicio de lo establecido en el presente que indique lo contrario, Sponsor.Online no ofrece manifestación respecto de si su pago es deducible de impuestos. Sponsor.Online no se hará responsable por ningún reclamo por parte de autoridades fiscales estatales o federales con respecto a la caracterización de su declaración impositiva de sus pagos. Se le recomienda consultar con un asesor impositivo respecto de si su pago es susceptible de pago de impuestos y en qué proporción.",
+    "p58": "Bajo ninguna circunstancia y en ningún caso, Sponsor.Online (ni sus sucesores, empresa matriz, subsidiarias, afiliadas, oficiales, directores, agentes ni desarrolladores) será responsable por (i) daños directos, indirectos, punitivos, incidentales, especiales, emergentes, ni daños surgidos de la pérdida de datos, negocios o ganancias como resultado del uso o la imposibilidad de usar la Plataforma o los Servicios; (ii) el uso indebido o no autorizado de cuenta como resultado de una acción u omisión por su parte; (iii) ninguna acción  relacionada con alguna investigación llevada a cabo por Sponsor.Online o alguna autoridad de bien público con respecto a su uso o el uso por parte de otra persona de la Plataforma o (iv) cualquier tipo de error u omisión en la operación del Servicio o daño resultante de alguna violación a la seguridad de la cuenta como virus o errores de programación o como resultado de manipulación indebida, fraude, error, omisión, interrupción, defecto, demora en la operación o transmisión, en la línea, falla de la red o cualquier otro tipo de desperfecto técnico o por pérdida del valor comercial durante la ejecución del contrato, por negligencia o ilícito. Es posible que la ley aplicable vigente no contemple la exención de responsabilidad por daños incidentales o emergentes, por lo que las excepciones anteriores pueden no ser aplicables a su situación. Al utilizar la Plataforma usted acepta de manera expresa la asignación de riesgos según aquí se detalla. En caso de no aceptar, no se le otorgará el permiso para acceder a la Plataforma ni a los Servicios, ni utilizar ninguna de sus funciones, y deberá dejar de ingresar y utilizar la Plataforma y los Servicios, de lo contrario se considerará que acepta la asignación de riesgos sin oponer objeción alguna.",
+    "p59": "Usted puede eximir de responsabilidad a Sponsor.Online por cualquier tipo de daños (directos, indirectos, punitivos, incidentales, especiales, emergentes, ni daños surgidos de la pérdida de datos, negocios o ganancias), costos, acciones legales, gastos (incluso costas legales) como resultado de las siguientes circunstancias: (i) su incumplimento de estas Condiciones de Uso o de sus obligaciones; (ii) cualquier garantía que usted haya extendido según estas Condiciones de Uso o al utilizar la Plataforma o los Servicios de manera indebida; (iii) su accionar incorrecto o negligente, excepto que las pérdidas, los daños o reclamos sean ocasionados por el accionar incorrecto o negligente de Sponsor.Online, sin perjuicio del derecho de rescindir el contrato u otras herramientas disponibles para Sponsor.Online según este documento o las leyes vigentes aplicables.",
+    "final_provisions": "DISPOSICIONES FINALES",
+    "p60": "Estas Condiciones de Uso y su derecho de utilizar la Plataforma entrarán en vigor en el momento en que usted ingrese a la Plataforma, y serán vinculantes en tanto y en cuanto usted utilice la Plataforma de acuerdo con estas Condiciones de Uso. Su derecho a utilizar los Servicios entrará en vigor a partir del momento en que se efectivice su registro y se cree su cuenta como Marca o Titular de Derechos de acuerdo con estas Condiciones de Uso y con las instrucciones de la Plataforma, y adquirirá carácter vinculante en tanto y en cuanto usted utilice la Plataforma de acuerdo con estas Condiciones de Uso.",
+    "p61": "Asimismo, Sponsor.Online se reserva la totalidad de sus derechos legales de tomar cualquier tipo de medidas si consideramos que usted utiliza la Plataforma o los Servicios para actividades fraudulentas o ilegítimas o si realiza acciones que infrinjan alguna de estas Condiciones de Uso, con el fin de proteger nuestro buen nombre y nuestro negocio y a otros Usuarios. Además, Sponsor.Online se reserva el derecho de cancelar su acceso y uso a su cuenta en cualquier momento por cualquier motivo o sin motivo alguno. Esta cancelación se llevará a cabo sin aviso previo. Usted también puede renunciar a estas Condiciones de Uso en cualquier momento al dejar de utilizar la Plataforma y sus funciones, y en caso de que usted se haya registrado en la Plataforma para acceder a los Servicios, puede enviar un mensaje de correo electrónico a ",
+    "p62": "y solicitar que eliminemos la información de su cuenta.",
+    "p63": "Estas Condiciones de Uso podrán ser modificadas o actualizadas por Sponsor.Online de manera periódica sin previo aviso, y usted quedará sujeto a esos cambios y actualizaciones en tanto continúe utilizando la Plataforma o los Servicios luego de que tales modificaciones se publiquen. Revise estas Condiciones de Uso con periodicidad para estar al tanto de cambios y actualizaciones.",
+    "p64": "Todas las notificaciones dirigidas a Sponsor.Online serán efectivas solo si han sido enviadas de la manera indicada.",
+    "p65": "No podrá ceder ni delegar estas Condiciones de Uso ni sus derechos conferidos por éstas, voluntariamente o según la ley aplicable, sin obtener el consentimiento previo de Sponsor.Online. En tanto, Sponsor.Online tiene la facultar de ceder o delegar sus derechos y obligaciones sin su consentimiento. En caso de que Sponsor.Online no cumpla de manera estricta con estas Condiciones de Uso, no se considerará como una renuncia voluntaria por parte de Sponsor.Online. Nos reservamos el derecho de limitar la disponibilidad de la Plataforma y los Servicios que proveen a cualquier persona, área geográfica, jurisdicción, en cualquier momento y a nuestro exclusivo criterio. No existe ningún tipo de alianza estratégica, sociedad ni relación laboral entre usted y Sponsor.Online como resultado de estas Condiciones de Uso o su utilización de la Plataforma. Todas las disposiciones que pretendan prolongarse más allá de la finalización de la relación entre usted y Sponsor.Online permanecerán en vigencia, incluso aquellas relacionadas con la propiedad intelectual, confidencialidad, declaraciones, garantías y exenciones de responsabilidad. Los títulos en que se divide este texto son solo para fines de facilitar su consulta.",
+    "p66": "Estas Condiciones de Uso han sido confeccionadas y serán interpretadas y vinculantes solo de acuerdo con las leyes de Suiza. Usted y Sponsor.Online aceptan quedar sujetos a las leyes exclusivas de su jurisdicción y dirigirse a los tribunales distritales correspondientes de Suiza."
+  }
+}

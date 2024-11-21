@@ -1,0 +1,9 @@
+{
+  "data": {
+    "createCampaign": {
+      "id": "216",
+      "name": "asd",
+      "__typename": "Campaign"
+    }
+  }
+}

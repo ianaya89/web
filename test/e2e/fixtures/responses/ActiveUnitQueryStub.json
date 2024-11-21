@@ -1,0 +1,431 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "subscriptions": [
+        {
+          "id": "1",
+          "stripePlan": "team-basic",
+          "stripeId": "sub_FcuZycYzbkzY11",
+          "__typename": "OrganizationUnitSubscription"
+        }
+      ],
+      "permissions": {
+        "role": {
+          "id": "3",
+          "name": "member",
+          "__typename": "Role"
+        },
+        "list": [
+          {
+            "name": "club.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.player.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.shareholder.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.sponsor.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.stadium.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.inventory.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.socialMedia.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.excludedIndustry.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.ranking.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.event.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.package.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.revenue.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.trophy.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.inventory.share",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.package.share",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.player.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.shareholder.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.sponsor.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.stadium.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.inventory.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.socialMedia.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.excludedIndustry.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.ranking.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.event.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.package.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.revenue.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.trophy.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.player.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.shareholder.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.sponsor.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.stadium.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.inventory.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.socialMedia.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.excludedIndustry.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.ranking.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.event.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.package.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.revenue.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "club.trophy.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.industry.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.sport.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.industry.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "sponsor.sport.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "stadium.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "stadium.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "player.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "player.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "player.socialMedia.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "player.socialMedia.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "player.socialMedia.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "order.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "order.delete",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.club.index",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.sponsor.index",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.store",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.update",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "setting.remove",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.orders.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.organizations.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.permissions.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.users.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.roles.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.brands.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.teams.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.stadiums.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.leagues.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "cms.players.show",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-team-sponsorship",
+            "can": true,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-team-players",
+            "can": true,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-team-media",
+            "can": true,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-team-demographics",
+            "can": true,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-team-social-media",
+            "can": true,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-brand-comparison-tool",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          },
+          {
+            "name": "access-brand-audience",
+            "can": false,
+            "__typename": "EvaluatedPermission"
+          }
+        ],
+        "__typename": "UserPermissions"
+      },
+      "organization": {
+        "id": "5",
+        "name": "Top League Agency",
+        "__typename": "Organization"
+      },
+      "entity": {
+        "id": "1",
+        "name": "Bundesliga",
+        "profileCompletion": 83,
+        "logo": {
+          "url": "http://backendr.test/uploads/7?token=hdSiQT4gHTQroHw6LYlOV0cmcmabdLJJ&conversion=thumb",
+          "__typename": "Image"
+        },
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

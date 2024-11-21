@@ -1,0 +1,309 @@
+{
+  "errors": [
+    {
+      "message": "User is not available.",
+      "extensions": {
+        "code": "ERR-SO-808",
+        "category": "auth"
+      },
+      "locations": [
+        {
+          "line": 2,
+          "column": 3
+        }
+      ],
+      "path": ["login"],
+      "trace": [
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/app/GraphQL/Mutations/Login.php",
+          "line": 16,
+          "call": "App\\Core\\Auth\\LoginService::getTokens('engineering@sponsoronline.eu', 'invalid')"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/nuwave/lighthouse/src/Tracing/TracingDirective.php",
+          "line": 59,
+          "call": "App\\GraphQL\\Mutations\\Login::resolve(null, array(2), instance of Nuwave\\Lighthouse\\Schema\\Context, instance of GraphQL\\Type\\Definition\\ResolveInfo)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/nuwave/lighthouse/src/Schema/Factories/FieldFactory.php",
+          "line": 221,
+          "call": "Nuwave\\Lighthouse\\Tracing\\TracingDirective::Nuwave\\Lighthouse\\Tracing\\{closure}(null, array(2), instance of Nuwave\\Lighthouse\\Schema\\Context, instance of GraphQL\\Type\\Definition\\ResolveInfo)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 632,
+          "call": "Nuwave\\Lighthouse\\Schema\\Factories\\FieldFactory::Nuwave\\Lighthouse\\Schema\\Factories\\{closure}(null, array(2), instance of Nuwave\\Lighthouse\\Schema\\Context, instance of GraphQL\\Type\\Definition\\ResolveInfo)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 555,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::resolveOrError(instance of GraphQL\\Type\\Definition\\FieldDefinition, instance of GraphQL\\Language\\AST\\FieldNode, instance of Closure, null, instance of Nuwave\\Lighthouse\\Schema\\Context, instance of GraphQL\\Type\\Definition\\ResolveInfo)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 478,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::resolveField(GraphQLType: Mutation, null, instance of ArrayObject(1), array(1))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 921,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::GraphQL\\Executor\\{closure}(array(0), 'login')"
+        },
+        {
+          "call": "GraphQL\\Executor\\ReferenceExecutor::GraphQL\\Executor\\{closure}(array(0), 'login')"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 923,
+          "function": "array_reduce(array(1), instance of Closure, array(0))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 494,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::promiseReduce(array(1), instance of Closure, array(0))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 256,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::executeFieldsSerially(GraphQLType: Mutation, null, array(0), instance of ArrayObject(1))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/ReferenceExecutor.php",
+          "line": 208,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::executeOperation(instance of GraphQL\\Language\\AST\\OperationDefinitionNode, null)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/Executor/Executor.php",
+          "line": 155,
+          "call": "GraphQL\\Executor\\ReferenceExecutor::doExecute()"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/GraphQL.php",
+          "line": 158,
+          "call": "GraphQL\\Executor\\Executor::promiseToExecute(instance of GraphQL\\Executor\\Promise\\Adapter\\SyncPromiseAdapter, instance of GraphQL\\Type\\Schema, instance of GraphQL\\Language\\AST\\DocumentNode, null, instance of Nuwave\\Lighthouse\\Schema\\Context, array(2), null, null)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/webonyx/graphql-php/src/GraphQL.php",
+          "line": 90,
+          "call": "GraphQL\\GraphQL::promiseToExecute(instance of GraphQL\\Executor\\Promise\\Adapter\\SyncPromiseAdapter, instance of GraphQL\\Type\\Schema, 'mutation Login($email: String!, $password: String!) {\n  login(email: $email, password: $password) {\n    tokenType\n    expiresIn\n    accessToken\n    refreshToken\n    __typename\n  }\n}', null, instance of Nuwave\\Lighthouse\\Schema\\Context, array(2), null, null, array(29))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/nuwave/lighthouse/src/GraphQL.php",
+          "line": 191,
+          "call": "GraphQL\\GraphQL::executeQuery(instance of GraphQL\\Type\\Schema, 'mutation Login($email: String!, $password: String!) {\n  login(email: $email, password: $password) {\n    tokenType\n    expiresIn\n    accessToken\n    refreshToken\n    __typename\n  }\n}', null, instance of Nuwave\\Lighthouse\\Schema\\Context, array(2), null, null, array(29))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/nuwave/lighthouse/src/GraphQL.php",
+          "line": 130,
+          "call": "Nuwave\\Lighthouse\\GraphQL::executeQuery('mutation Login($email: String!, $password: String!) {\n  login(email: $email, password: $password) {\n    tokenType\n    expiresIn\n    accessToken\n    refreshToken\n    __typename\n  }\n}', instance of Nuwave\\Lighthouse\\Schema\\Context, array(2), null, null)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/nuwave/lighthouse/src/Support/Http/Controllers/GraphQLController.php",
+          "line": 79,
+          "call": "Nuwave\\Lighthouse\\GraphQL::executeRequest(instance of Nuwave\\Lighthouse\\Execution\\LighthouseRequest)"
+        },
+        {
+          "call": "Nuwave\\Lighthouse\\Support\\Http\\Controllers\\GraphQLController::query(instance of Nuwave\\Lighthouse\\Execution\\LighthouseRequest)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+          "line": 54,
+          "function": "call_user_func_array(array(2), array(1))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php",
+          "line": 45,
+          "call": "Illuminate\\Routing\\Controller::callAction('query', array(1))"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+          "line": 219,
+          "call": "Illuminate\\Routing\\ControllerDispatcher::dispatch(instance of Illuminate\\Routing\\Route, instance of Nuwave\\Lighthouse\\Support\\Http\\Controllers\\GraphQLController, 'query')"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+          "line": 176,
+          "call": "Illuminate\\Routing\\Route::runController()"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+          "line": 680,
+          "call": "Illuminate\\Routing\\Route::run()"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 30,
+          "call": "Illuminate\\Routing\\Router::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 104,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+          "line": 682,
+          "call": "Illuminate\\Pipeline\\Pipeline::then(instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+          "line": 657,
+          "call": "Illuminate\\Routing\\Router::runRouteWithinStack(instance of Illuminate\\Routing\\Route, instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+          "line": 623,
+          "call": "Illuminate\\Routing\\Router::runRoute(instance of Illuminate\\Http\\Request, instance of Illuminate\\Routing\\Route)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+          "line": 612,
+          "call": "Illuminate\\Routing\\Router::dispatchToRoute(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+          "line": 176,
+          "call": "Illuminate\\Routing\\Router::dispatch(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 30,
+          "call": "Illuminate\\Foundation\\Http\\Kernel::Illuminate\\Foundation\\Http\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/nova/src/Http/Middleware/ServeNova.php",
+          "line": 26,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Laravel\\Nova\\Http\\Middleware\\ServeNova::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/spatie/laravel-cors/src/Cors.php",
+          "line": 28,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Spatie\\Cors\\Cors::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/fideloper/proxy/src/TrustProxies.php",
+          "line": 57,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Fideloper\\Proxy\\TrustProxies::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+          "line": 21,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+          "line": 21,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+          "line": 27,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php",
+          "line": 62,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 163,
+          "call": "Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode::handle(instance of Illuminate\\Http\\Request, instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+          "line": 53,
+          "call": "Illuminate\\Pipeline\\Pipeline::Illuminate\\Pipeline\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+          "line": 104,
+          "call": "Illuminate\\Routing\\Pipeline::Illuminate\\Routing\\{closure}(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+          "line": 151,
+          "call": "Illuminate\\Pipeline\\Pipeline::then(instance of Closure)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+          "line": 116,
+          "call": "Illuminate\\Foundation\\Http\\Kernel::sendRequestThroughRouter(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/Code/sponsr/backendr/public/index.php",
+          "line": 55,
+          "call": "Illuminate\\Foundation\\Http\\Kernel::handle(instance of Illuminate\\Http\\Request)"
+        },
+        {
+          "file": "/Users/lukas/.composer/vendor/laravel/valet/server.php",
+          "line": 158,
+          "function": "require('/Users/lukas/Code/sponsr/backendr/public/index.php')"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "login": null
+  }
+}

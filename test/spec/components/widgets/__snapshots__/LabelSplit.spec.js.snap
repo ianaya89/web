@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LabelSplit renders LabelSplit 1`] = `
+<div
+  class="w-full flex flex-wrap pt-2"
+>
+  <div
+    class="w-1/2 sm:w-1/4"
+  >
+    <div>
+      <div
+        class="text-grey text-p3 uppercase tracking-wide"
+      >
+        <span
+          class="leading-tight"
+        >
+          Test
+        </span>
+         
+        <!---->
+         
+        <!---->
+      </div>
+       
+      <div
+        class="text-h5 font-medium leading-tight uppercase"
+      >
+        
+      100%
+    
+      </div>
+    </div>
+  </div>
+</div>
+`;

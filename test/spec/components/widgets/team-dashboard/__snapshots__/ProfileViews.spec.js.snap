@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileViews renders ProfileViews 1`] = `
+<div
+  class="w-full bg-white shadow-xl p-4"
+>
+  <div
+    class="w-full flex"
+  >
+    <div
+      class="mr-auto"
+    >
+      <label-chart-stub
+        animation="true"
+        info="TRANSLATE:app.team.dashboard.profile_views"
+        label="0"
+        labelclass="text-h3"
+        piecolors="#21CE99,#D4D4D4"
+      />
+    </div>
+     
+    <div
+      class="ml-auto my-auto"
+    >
+      <growth-stub
+        applycolorontext="true"
+        class="text-h3 font-medium"
+        downcolor="text-red"
+        downicon="fas fa-arrow-alt-circle-down"
+        duration="2000"
+        iconclass="text-h4"
+        mainclasses="flex items-center"
+        showvalue="true"
+        upcolor="text-green"
+        upicon="fas fa-arrow-alt-circle-up"
+        value="0"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="w-full"
+  >
+    <timeseries-chart-stub
+      enablemousetracking="true"
+      fillcolor="0,rgba(33, 206, 153,0.3),1,rgba(33, 206, 153,0)"
+      greenmarker="true"
+      height="200"
+      labelformatter="vm => function () {
+        return \`
+            <div class=\\"chart__title\\">\${vm.$filters.dateTime(this.point.x)}</div>
+            <div class=\\"chart__val\\">\${this.point.filterFnc ? this.point.filterFnc(this.y) : vm.$filters.number(this.y)}</div>
+            \`;
+      }"
+      mouseoverhandler="function () { [native code] }"
+      series="[object Object]"
+      seriescolor="#21CE99"
+      seriestype="areaspline"
+    />
+  </div>
+</div>
+`;

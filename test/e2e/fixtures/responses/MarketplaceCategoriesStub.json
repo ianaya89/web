@@ -1,0 +1,1406 @@
+{
+  "data": {
+    "marketplaceCategories": [
+      {
+        "id": "1",
+        "name": "Player kit",
+        "path": "player-kit",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "2",
+        "name": "Shirt",
+        "path": "player-kit / shirt",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "3",
+        "name": "Front",
+        "path": "player-kit / shirt / front",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "4",
+        "name": "Sleeve",
+        "path": "player-kit / shirt / sleeve",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "5",
+        "name": "Back",
+        "path": "player-kit / shirt / back",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "6",
+        "name": "Training",
+        "path": "player-kit / shirt / training",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "7",
+        "name": "Shorts",
+        "path": "player-kit / shorts",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "8",
+        "name": "Front",
+        "path": "player-kit / shorts / front",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "9",
+        "name": "Back",
+        "path": "player-kit / shorts / back",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "10",
+        "name": "Socks",
+        "path": "player-kit / socks",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "11",
+        "name": "Front",
+        "path": "player-kit / socks / front",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "12",
+        "name": "Back",
+        "path": "player-kit / socks / back",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "13",
+        "name": "Tracksuit",
+        "path": "player-kit / tracksuit",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "14",
+        "name": "Front",
+        "path": "player-kit / tracksuit / front",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "15",
+        "name": "Back",
+        "path": "player-kit / tracksuit / back",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "16",
+        "name": "Winter jacket",
+        "path": "player-kit / winter-jacket",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "17",
+        "name": "Front",
+        "path": "player-kit / winter-jacket / front",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "18",
+        "name": "Back",
+        "path": "player-kit / winter-jacket / back",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "19",
+        "name": "Stadium",
+        "path": "stadium",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "20",
+        "name": "Naming rights",
+        "path": "stadium / naming-rights",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "21",
+        "name": "Stadium",
+        "path": "stadium / naming-rights / stadium",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "22",
+        "name": "Academy",
+        "path": "stadium / naming-rights / academy",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "23",
+        "name": "Static boards",
+        "path": "stadium / static-boards",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "24",
+        "name": "Pitch level 1st row",
+        "path": "stadium / static-boards / pitch-level-1st-row",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "25",
+        "name": "Pitch level 2nd row",
+        "path": "stadium / static-boards / pitch-level-2nd-row",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "26",
+        "name": "1st tier",
+        "path": "stadium / static-boards / 1st-tier",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "27",
+        "name": "Mini Static boards",
+        "path": "stadium / mini-static-boards",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "28",
+        "name": "Pitch level 1st row",
+        "path": "stadium / mini-static-boards / pitch-level-1st-row",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "29",
+        "name": "Pitch level 2nd row",
+        "path": "stadium / mini-static-boards / pitch-level-2nd-row",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "30",
+        "name": "1st tier",
+        "path": "stadium / mini-static-boards / 1st-tier",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "31",
+        "name": "LED boards",
+        "path": "stadium / led-boards",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "32",
+        "name": "Pitch level 1st row",
+        "path": "stadium / led-boards / pitch-level-1st-row",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "33",
+        "name": "1st tier",
+        "path": "stadium / led-boards / 1st-tier",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "34",
+        "name": "Mini LED boards",
+        "path": "stadium / mini-led-boards",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "35",
+        "name": "Pitch level 1st row",
+        "path": "stadium / mini-led-boards / pitch-level-1st-row",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "36",
+        "name": "1st tier",
+        "path": "stadium / mini-led-boards / 1st-tier",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "37",
+        "name": "Giant screen",
+        "path": "stadium / giant-screen",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "38",
+        "name": "Basic",
+        "path": "stadium / giant-screen / basic",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "39",
+        "name": "3D carpet",
+        "path": "stadium / 3d-carpet",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "40",
+        "name": "Next to the goal",
+        "path": "stadium / 3d-carpet / next-to-the-goal",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "41",
+        "name": "Competition",
+        "path": "stadium / competition",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "42",
+        "name": "Halftime",
+        "path": "stadium / competition / halftime",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "43",
+        "name": "Match-day sponsor",
+        "path": "stadium / match-day-sponsor",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "44",
+        "name": "Before",
+        "path": "stadium / match-day-sponsor / before",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "45",
+        "name": "Halftime",
+        "path": "stadium / match-day-sponsor / halftime",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "46",
+        "name": "After",
+        "path": "stadium / match-day-sponsor / after",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "47",
+        "name": "Backdrops",
+        "path": "stadium / backdrops",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "48",
+        "name": "Basic",
+        "path": "stadium / backdrops / basic",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "49",
+        "name": "Messages over P/A system",
+        "path": "stadium / messages-over-pa-system",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "50",
+        "name": "Messages",
+        "path": "stadium / messages-over-pa-system / messages",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "51",
+        "name": "Sector branding",
+        "path": "stadium / sector-branding",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "52",
+        "name": "Sector",
+        "path": "stadium / sector-branding / sector",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "53",
+        "name": "Hospitality",
+        "path": "hospitality",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "54",
+        "name": "Lounge",
+        "path": "hospitality / lounge",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "55",
+        "name": "Main tribune",
+        "path": "hospitality / lounge / main-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "56",
+        "name": "Opposite tribune",
+        "path": "hospitality / lounge / opposite-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "57",
+        "name": "Behind left goal tribune",
+        "path": "hospitality / lounge / behind-left-goal-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "58",
+        "name": "Behind right goal tribune",
+        "path": "hospitality / lounge / behind-right-goal-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "59",
+        "name": "Skybox",
+        "path": "hospitality / skybox",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "60",
+        "name": "Main tribune",
+        "path": "hospitality / skybox / main-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "61",
+        "name": "Opposite tribune",
+        "path": "hospitality / skybox / opposite-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "62",
+        "name": "Behind left goal tribune",
+        "path": "hospitality / skybox / behind-left-goal-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "63",
+        "name": "Behind right goal tribune",
+        "path": "hospitality / skybox / behind-right-goal-tribune",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "64",
+        "name": "Promotion",
+        "path": "hospitality / promotion",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "65",
+        "name": "VIP club",
+        "path": "hospitality / promotion / vip-club",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "66",
+        "name": "Hospitality tickets",
+        "path": "hospitality / hospitality-tickets",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "67",
+        "name": "Tickets",
+        "path": "hospitality / hospitality-tickets / tickets",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "68",
+        "name": "Hospitality branding",
+        "path": "hospitality / hospitality-branding",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "69",
+        "name": "Branding",
+        "path": "hospitality / hospitality-branding / branding",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "70",
+        "name": "Screens",
+        "path": "hospitality / screens",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "71",
+        "name": "VIP club",
+        "path": "hospitality / screens / vip-club",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "72",
+        "name": "Media",
+        "path": "media",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "73",
+        "name": "Website link",
+        "path": "media / website-link",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "74",
+        "name": "Header",
+        "path": "media / website-link / header",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "75",
+        "name": "Footer",
+        "path": "media / website-link / footer",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "76",
+        "name": "Navigation",
+        "path": "media / website-link / navigation",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "77",
+        "name": "Social Media",
+        "path": "media / social-media",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "78",
+        "name": "Preview",
+        "path": "media / social-media / preview",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "79",
+        "name": "Line ups",
+        "path": "media / social-media / line-ups",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "80",
+        "name": "Kick-off",
+        "path": "media / social-media / kick-off",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "81",
+        "name": "Halftime score",
+        "path": "media / social-media / halftime-score",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "82",
+        "name": "Substitutions",
+        "path": "media / social-media / substitutions",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "83",
+        "name": "Goals",
+        "path": "media / social-media / goals",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "84",
+        "name": "Final score",
+        "path": "media / social-media / final-score",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "85",
+        "name": "MVP",
+        "path": "media / social-media / mvp",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "86",
+        "name": "Player of the month",
+        "path": "media / social-media / player-of-the-month",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "87",
+        "name": "Training",
+        "path": "media / social-media / training",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "88",
+        "name": "Birthdays",
+        "path": "media / social-media / birthdays",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "89",
+        "name": "Arrivals",
+        "path": "media / social-media / arrivals",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "90",
+        "name": "Departures",
+        "path": "media / social-media / departures",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "91",
+        "name": "Contract Extension",
+        "path": "media / social-media / contract-extension",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "92",
+        "name": "Testimonial video",
+        "path": "media / social-media / testimonial-video",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "93",
+        "name": "Competitions",
+        "path": "media / social-media / competitions",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "94",
+        "name": "Live-Action-Widget",
+        "path": "media / social-media / live-action-widget",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "95",
+        "name": "sport.video",
+        "path": "media / sportvideo",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "96",
+        "name": "Highlights",
+        "path": "media / sportvideo / highlights",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "97",
+        "name": "Match programme",
+        "path": "media / match-programme",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "98",
+        "name": "Issue",
+        "path": "media / match-programme / issue",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "99",
+        "name": "Suppliers",
+        "path": "suppliers",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "100",
+        "name": "Technical supplier",
+        "path": "suppliers / technical-supplier",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "101",
+        "name": "Shirts",
+        "path": "suppliers / technical-supplier / shirts",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "102",
+        "name": "Shorts",
+        "path": "suppliers / technical-supplier / shorts",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "103",
+        "name": "Socks",
+        "path": "suppliers / technical-supplier / socks",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "104",
+        "name": "Gloves",
+        "path": "suppliers / technical-supplier / gloves",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "105",
+        "name": "Training outfit",
+        "path": "suppliers / technical-supplier / training-outfit",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "106",
+        "name": "Balls",
+        "path": "suppliers / technical-supplier / balls",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "107",
+        "name": "Other",
+        "path": "suppliers / technical-supplier / other",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "108",
+        "name": "Food & Beverage",
+        "path": "suppliers / food-beverage",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "109",
+        "name": "Drinks",
+        "path": "suppliers / food-beverage / drinks",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "110",
+        "name": "Restaurants",
+        "path": "suppliers / food-beverage / restaurants",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "111",
+        "name": "Transport",
+        "path": "suppliers / transport",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "112",
+        "name": "Cars",
+        "path": "suppliers / transport / cars",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "113",
+        "name": "Bus",
+        "path": "suppliers / transport / bus",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "114",
+        "name": "Airlines",
+        "path": "suppliers / transport / airlines",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "115",
+        "name": "Accommodation",
+        "path": "suppliers / accommodation",
+        "layer": "2",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "116",
+        "name": "Hotels",
+        "path": "suppliers / accommodation / hotels",
+        "layer": "3",
+        "suggestedSlotType": "season",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "117",
+        "name": "Campaign",
+        "path": "campaign",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "118",
+        "name": "Player testimonial",
+        "path": "campaign / player-testimonial",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "119",
+        "name": "Testimonial",
+        "path": "campaign / player-testimonial / testimonial",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "120",
+        "name": "Event",
+        "path": "campaign / event",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "121",
+        "name": "Basic",
+        "path": "campaign / event / basic",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "122",
+        "name": "Brand activation",
+        "path": "campaign / brand-activation",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "123",
+        "name": "Activation",
+        "path": "campaign / brand-activation / activation",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "124",
+        "name": "Youth team sponsor",
+        "path": "campaign / youth-team-sponsor",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "125",
+        "name": "Youth sponsor",
+        "path": "campaign / youth-team-sponsor / youth-sponsor",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "126",
+        "name": "Youth tournament sponsor",
+        "path": "campaign / youth-tournament-sponsor",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "127",
+        "name": "Youth sponsor",
+        "path": "campaign / youth-tournament-sponsor / youth-sponsor",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "128",
+        "name": "Newsletter",
+        "path": "campaign / newsletter",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "129",
+        "name": "Basic",
+        "path": "campaign / newsletter / basic",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "130",
+        "name": "Print material",
+        "path": "campaign / print-material",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "131",
+        "name": "Basic",
+        "path": "campaign / print-material / basic",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "132",
+        "name": "Guess the right result & win",
+        "path": "campaign / guess-the-right-result-win",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "133",
+        "name": "Competition",
+        "path": "campaign / guess-the-right-result-win / competition",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "134",
+        "name": "Discount for fans",
+        "path": "campaign / discount-for-fans",
+        "layer": "2",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "135",
+        "name": "Discount",
+        "path": "campaign / discount-for-fans / discount",
+        "layer": "3",
+        "suggestedSlotType": "date",
+        "target": "inventory",
+        "description": null,
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "136",
+        "name": "Platinum",
+        "path": "platinum",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "package",
+        "description": "Platinum package category.",
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "137",
+        "name": "Gold",
+        "path": "gold",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "package",
+        "description": "Gold package category.",
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "138",
+        "name": "Silver",
+        "path": "silver",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "package",
+        "description": "Silver package category.",
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "139",
+        "name": "Bronze",
+        "path": "bronze",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "package",
+        "description": "Bronze package category.",
+        "__typename": "MarketplaceItemCategory"
+      },
+      {
+        "id": "140",
+        "name": "Custom",
+        "path": "custom",
+        "layer": "1",
+        "suggestedSlotType": null,
+        "target": "package",
+        "description": "Custom package category.",
+        "__typename": "MarketplaceItemCategory"
+      }
+    ]
+  }
+}

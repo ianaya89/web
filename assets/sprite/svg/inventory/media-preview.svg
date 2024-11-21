@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="84px" viewBox="0 0 68 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="media-preview" transform="translate(2.000000, 2.000000)">
+            <polygon id="Fill-1" fill="#FF553F" points="7 65.1 57 65.1 57 16 7 16"></polygon>
+            <polygon id="Stroke-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 80 64 80 64 0 0 0"></polygon>
+            <path d="M9,6 C10.1045695,6 11,6.8954305 11,8 C11,9.1045695 10.1045695,10 9,10 C7.8954305,10 7,9.1045695 7,8 C7,6.8954305 7.8954305,6 9,6 Z" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Stroke-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="7 65.1 57 65.1 57 16 7 16"></polygon>
+            <path d="M7,72 L32,72" id="Stroke-6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17,8 L32,8" id="Stroke-9" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M33.12,29.67 L35.89,35.3 C36.0741352,35.666019 36.4247426,35.9196499 36.83,35.98 L43.04,36.88 C43.5097167,36.9455758 43.9008852,37.2733339 44.0476685,37.7243202 C44.1944517,38.1753064 44.0711355,38.6705148 43.73,39 L39.24,43.38 C38.9442056,43.6637745 38.8092125,44.0762533 38.88,44.48 L39.94,50.67 C40.0250821,51.1399079 39.8349952,51.6172303 39.4501684,51.9000036 C39.0653416,52.1827769 38.5530293,52.2215821 38.13,52 L32.58,49.08 C32.2167414,48.8897253 31.7832586,48.8897253 31.42,49.08 L25.87,52 C25.4504643,52.2179339 24.943873,52.1805315 24.5608926,51.9033468 C24.1779122,51.6261621 23.9840795,51.1566277 24.06,50.69 L25.12,44.5 C25.1907875,44.0962533 25.0557944,43.6837745 24.76,43.4 L20.27,39 C19.9267648,38.6650685 19.8074345,38.1622438 19.9635728,37.708801 C20.1197111,37.2553583 20.5233214,36.9326027 21,36.88 L27.21,35.98 C27.6152574,35.9196499 27.9658648,35.666019 28.15,35.3 L30.92,29.67 C31.1382067,29.265721 31.560592,29.0137171 32.02,29.0137171 C32.479408,29.0137171 32.9017933,29.265721 33.12,29.67 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

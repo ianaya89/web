@@ -1,0 +1,11 @@
+{
+  "data": {
+    "createContact": {
+      "id": "262",
+      "name": "some name",
+      "company": "some company",
+      "email": "6939@email.com",
+      "__typename": "Contact"
+    }
+  }
+}

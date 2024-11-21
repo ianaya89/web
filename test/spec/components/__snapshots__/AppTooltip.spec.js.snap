@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppTooltip activating tooltip 1`] = `
+<div
+  class="tooltip relative inline-block"
+>
+  <div
+    class="activator flex"
+  >
+    <span
+      class="lni-question-circle p-1"
+    />
+  </div>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="tracking-wide inline-block z-30 absolute border border-grey-l3 py-2 px-4 -mt-3 leading-tight min-w-28 tooltip--dark tooltip--right"
+      style="display: none;"
+    >
+      TRANSLATE:general.default
+    </div>
+  </transition-stub>
+</div>
+`;
+
+exports[`AppTooltip activating tooltip 2`] = `
+<div
+  class="tooltip relative inline-block"
+>
+  <div
+    class="activator flex"
+  >
+    <span
+      class="lni-question-circle p-1"
+    />
+  </div>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="tracking-wide inline-block z-30 absolute border border-grey-l3 py-2 px-4 -mt-3 leading-tight min-w-28 tooltip--dark tooltip--right"
+      style="display: none;"
+    >
+      TRANSLATE:general.default
+    </div>
+  </transition-stub>
+</div>
+`;
+
+exports[`AppTooltip renders default tooltip 1`] = `
+<div
+  class="tooltip relative inline-block"
+>
+  <div
+    class="activator flex"
+  >
+    <span
+      class="lni-question-circle p-1"
+    />
+  </div>
+   
+  <transition-stub
+    name="fade"
+  >
+    <div
+      class="tracking-wide inline-block z-30 absolute border border-grey-l3 py-2 px-4 -mt-3 leading-tight min-w-28 tooltip--dark tooltip--right"
+      style="display: none;"
+    >
+      TRANSLATE:general.default
+    </div>
+  </transition-stub>
+</div>
+`;

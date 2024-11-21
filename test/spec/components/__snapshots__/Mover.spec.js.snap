@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mover Inverted Mover simulation 1`] = `
+<div
+  class="select-none"
+>
+  <span
+    class="text-red pr-1 my-auto cursor-pointer fa fa-chevron-left"
+  />
+   
+  <span
+    class="font-medium flex-grow"
+  />
+   
+  <span
+    class="text-red pl-1 my-auto disabled fa fa-chevron-right"
+  />
+</div>
+`;
+
+exports[`Mover Inverted Mover simulation 2`] = `
+<div
+  class="select-none"
+>
+  <span
+    class="text-red pr-1 my-auto cursor-pointer fa fa-chevron-left"
+  />
+   
+  <span
+    class="font-medium flex-grow"
+  />
+   
+  <span
+    class="text-red pl-1 my-auto disabled fa fa-chevron-right"
+  />
+</div>
+`;
+
+exports[`Mover Mover simulation 1`] = `
+<div
+  class="select-none"
+>
+  <span
+    class="text-red pr-1 my-auto disabled fa fa-chevron-left"
+  />
+   
+  <span
+    class="font-medium flex-grow"
+  />
+   
+  <span
+    class="text-red pl-1 my-auto cursor-pointer fa fa-chevron-right"
+  />
+</div>
+`;
+
+exports[`Mover Mover simulation 2`] = `
+<div
+  class="select-none"
+>
+  <span
+    class="text-red pr-1 my-auto disabled fa fa-chevron-left"
+  />
+   
+  <span
+    class="font-medium flex-grow"
+  />
+   
+  <span
+    class="text-red pl-1 my-auto cursor-pointer fa fa-chevron-right"
+  />
+</div>
+`;
+
+exports[`Mover renders default Mover 1`] = `
+<div
+  class="select-none"
+>
+  <span
+    class="text-red pr-1 my-auto cursor-pointer fa fa-chevron-left"
+  />
+   
+  <span
+    class="font-medium flex-grow"
+  />
+   
+  <span
+    class="text-red pl-1 my-auto disabled fa fa-chevron-right"
+  />
+</div>
+`;

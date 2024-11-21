@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TipsCard renders TipsCard 1`] = `
+<div
+  class="tips-card py-6 px-5 min-h-64"
+  data-cy="tipsCard"
+>
+  <h4
+    class="font-medium uppercase my-3"
+  >
+    
+    0 TRANSLATE:widgets.tips.title
+  
+  </h4>
+   
+  <div
+    class="flex justify-between items-center my-3"
+  >
+    <span
+      class="font-medium text-h6 py-2"
+    >
+      
+      TRANSLATE:widgets.tips.label 1
+    
+    </span>
+     
+    <div
+      class="select-none font-bold flex justify-end"
+    >
+      <a
+        class="lni-chevron-left text-red hover:text-red-d1 px-2 py-2 font-bold cursor-pointer disabled"
+      />
+       
+      <a
+        class="lni-chevron-right text-red hover:text-red-d1 px-2 py-2 font-bold cursor-pointer disabled"
+      />
+    </div>
+  </div>
+   
+  <!---->
+   
+  <!---->
+   
+  <div>
+    
+    TRANSLATE:widgets.tips.no_tips
+  
+  </div>
+</div>
+`;

@@ -1,0 +1,389 @@
+/**
+ * This injects Tailwind's base styles, which is a combination of
+ * Normalize.css and some additional base styles.
+ *
+ * You can see the styles here:
+ * https://github.com/tailwindcss/tailwindcss/blob/master/css/preflight.css
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/base";
+ */
+@tailwind base;
+
+a {
+  @apply .font-medium;
+  color: theme('colors.red');
+}
+
+html {
+  line-height: 1.15;
+}
+
+/**
+ * This injects any component classes registered by plugins.
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/components";
+ */
+@tailwind components;
+
+/**
+ * Here you would add any of your custom component classes; stuff that you'd
+ * want loaded *before* the utilities so that the utilities could still
+ * override them.
+ *
+ * Example:
+ *
+ * .btn { ... }
+ * .form-input { ... }
+ *
+ * Or if using a preprocessor or `postcss-import`:
+ *
+ * @import "components/buttons";
+ * @import "components/forms";
+ */
+
+/**
+ * This injects all of Tailwind's utility classes, generated based on your
+ * config file.
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/utilities";
+ */
+@tailwind utilities;
+
+/**
+ * Here you would add any custom utilities you need that don't come out of the
+ * box with Tailwind.
+ *
+ * Example :
+ *
+ * .bg-pattern-graph-paper { ... }
+ * .skew-45 { ... }
+ *
+ * Or if using a preprocessor or `postcss-import`:
+ *
+ * @import "utilities/background-patterns";
+ * @import "utilities/skew-transforms";
+ */
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @apply .font-sans .text-black;
+}
+
+body {
+  @apply .leading-normal;
+}
+
+.has-transition {
+  transition: all 0.15s ease-in-out;
+}
+
+.no-results {
+  @apply .font-sans .text-grey-l2 .text-p3;
+}
+
+/* SLIDE FADE */
+.slide-fade-enter-active {
+  transition: all 0.3s ease;
+}
+
+.slide-fade-leave-active {
+  transition: all 0.3s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+  transform: translate3d(10px, 0, 0);
+  opacity: 0;
+}
+
+
+/* SCALE FADE */
+.scale-fade-enter-active {
+  transition: all 0.3s ease;
+}
+
+.scale-fade-leave-active {
+  transition: all 0.15s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.scale-fade-enter,
+.scale-fade-leave-to {
+  transform: scale(0.7);
+  opacity: 0;
+}
+
+/* FADE DOWN */
+.fade-down-enter-active {
+  transition: all 0.3s ease;
+  max-height: 800px;
+}
+
+.fade-down-leave-active {
+  transition: all 0.3s cubic-bezier(0.8, 0.5, 1, 1);
+  max-height: 800px;
+}
+
+.fade-down-enter,
+.fade-down-leave-to {
+  transform: translate3d(0, -10px, 0);
+  opacity: 0;
+  max-height: 0;
+}
+
+/* FADE DOWN */
+.fade-down-enter-active {
+  transition: all .8s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-down-leave-active {
+  transition: all 0.3s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-down-enter,
+.fade-down-leave-to {
+  transform: translate3d(0, -1rem, 0);
+  opacity: 0;
+  max-height: 0;
+}
+
+/* FADE DOWN DELAYED */
+.fade-down-delayed-enter-active {
+  transition: all 1s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-down-delayed-leave-active {
+  transition: all 0.3s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-down-delayed-enter,
+.fade-down-delayed-leave-to {
+  transform: translate3d(0, -1rem, 0);
+  opacity: 0;
+  max-height: 0;
+}
+
+/* FADE UP */
+.fade-up-enter-active {
+  transition: all .8s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-up-leave-active {
+  transition: all 0.3s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-up-enter,
+.fade-up-leave-to {
+  transform: translate3d(0, 1rem, 0);
+  opacity: 0;
+  max-height: 0;
+}
+
+/* FADE UP DELAYED */
+.fade-up-delayed-enter-active {
+  transition: all 1s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-up-delayed-leave-active {
+  transition: all 0.3s cubic-bezier(.32, .21, .4, 1.04);
+  max-height: 800px;
+}
+
+.fade-up-delayed-enter,
+.fade-up-delayed-leave-to {
+  transform: translate3d(0, 1rem, 0);
+  opacity: 0;
+  max-height: 0;
+}
+
+/* FADE */
+.fade-enter-active {
+  transition: all 0.3s ease;
+}
+
+.fade-leave-active {
+  transition: all 0.15s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/* FADE FAST */
+.fade-fast-enter-active {
+  transition: all 200ms ease;
+}
+
+.fade-fast-leave-active {
+  transition: all 200ms cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.fade-fast-enter,
+.fade-fast-leave-to {
+  opacity: 0;
+}
+
+/* FADE DELAYED */
+.fade-delayed-enter-active {
+  transition: all 0.8s cubic-bezier(0.81, 0.05, 0.54, 0.79);
+}
+
+.fade-delayed-leave-active {
+  transition: all 0.05s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.fade-delayed-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/* FADE GROW RIGHT */
+.fade-grow-right-enter-active {
+  transition: all 1s ease;
+}
+
+.fade-grow-right-leave-active {
+  transition: all 0.3s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.fade-grow-right-enter,
+.fade-grow-right-leave-to {
+  transform: translate3d(50px, 0, 0);
+  opacity: 0;
+}
+
+/* CLIP PATH SLIDE UP */
+.clip-path-slide-up-enter-active {
+  animation: clip-path-slide-up 1.5s cubic-bezier(.32, .21, .4, 1.04);
+}
+
+.clip-path-slide-up-leave-active {
+  animation: clip-path-slide-up .5s reverse;
+}
+
+@keyframes clip-path-slide-up {
+  0% {
+    clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+  }
+
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+
+/* CLIP PATH UP SLIDE - DELAYED 01 */
+.clip-path-slide-up-delayed-enter-active {
+  animation: clip-path-slide-up-delayed 1.8s cubic-bezier(.32, .21, .56, .96);
+}
+
+.clip-path-slide-up-delayed-leave-active {
+  animation: clip-path-slide-up-delayed .5s reverse;
+}
+
+@keyframes clip-path-slide-up-delayed {
+  0% {
+    clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+  }
+
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+
+/* CLIP PATH UP SLIDE - DELAYED 02 */
+.clip-path-slide-up-delayed-2-enter-active {
+  animation: clip-path-slide-up-delayed-2 2s cubic-bezier(.32, .21, .56, .96);
+}
+
+.clip-path-slide-up-delayed-2-leave-active {
+  animation: clip-path-slide-up-delayed-2 .5s reverse;
+}
+
+@keyframes clip-path-slide-up-delayed-2 {
+  0% {
+    clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+  }
+
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1400px;
+  }
+}
+
+/* CREATE CAMPAIGN HOTFIX */
+.campaign__create .accordion-header {
+  justify-content: flex-start !important;
+}
+
+.campaign__create .opener {
+  padding-right: 0;
+}
+
+.campaign__create .v-input__control {
+  min-height: 0;
+}
+
+@font-face {
+  font-family: 'Akrobat';
+  src: url('../fonts/Akrobat/Akrobat-SemiBold.eot');
+  src: url('../fonts/Akrobat/Akrobat-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Akrobat/Akrobat-SemiBold.woff2') format('woff2'),
+    url('../fonts/Akrobat/Akrobat-SemiBold.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Akrobat';
+  src: url('../fonts/Akrobat/Akrobat-Bold.eot');
+  src: url('../fonts/Akrobat/Akrobat-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Akrobat/Akrobat-Bold.woff2') format('woff2'),
+    url('../fonts/Akrobat/Akrobat-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Akrobat';
+  src: url('../fonts/Akrobat/Akrobat-Regular.eot');
+  src: url('../fonts/Akrobat/Akrobat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Akrobat/Akrobat-Regular.woff2') format('woff2'),
+    url('../fonts/Akrobat/Akrobat-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+.hyphens-auto {
+  hyphens: auto;
+}
+
+::selection {
+  @apply .bg-red-l4 .text-black .shadow-none;
+}
+
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+@import './styleguide.css';

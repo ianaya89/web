@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextArea renders default textarea 1`] = `
+<div
+  class="relative"
+>
+  <!---->
+   
+  <!---->
+   
+  <v-textarea-stub
+    backgroundcolor=""
+    class="textarea no-required"
+    clearicon="$vuetify.icons.clear"
+    color="primary"
+    errorcount="1"
+    errormessages=""
+    label="Label"
+    messages=""
+    name="name"
+    rowheight="24"
+    rows="5"
+    rules=""
+    sololabel="Label"
+    successmessages=""
+    type="text"
+  />
+</div>
+`;
+
+exports[`TextArea renders input with placeholder outline and hint 1`] = `
+<div
+  class="relative"
+>
+  <span
+    class="text-grey text-p2 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <v-textarea-stub
+    backgroundcolor=""
+    class="textarea no-required"
+    clearicon="$vuetify.icons.clear"
+    color="primary"
+    errorcount="1"
+    errormessages=""
+    hint="Please write your first name"
+    label="First name"
+    messages=""
+    name="name"
+    outline="true"
+    persistenthint="true"
+    placeholder="Your name"
+    rowheight="24"
+    rows="5"
+    rules=""
+    sololabel="Label"
+    successmessages=""
+    type="text"
+  />
+</div>
+`;
+
+exports[`TextArea renders sticky label 1`] = `
+<div
+  class="relative"
+>
+  <!---->
+   
+  <!---->
+   
+  <v-textarea-stub
+    backgroundcolor=""
+    class="textarea no-required"
+    clearicon="$vuetify.icons.clear"
+    color="primary"
+    errorcount="1"
+    errormessages=""
+    label="Label"
+    messages=""
+    name="name"
+    rowheight="24"
+    rows="5"
+    rules=""
+    singleline="true"
+    sololabel="Label"
+    stickylabel="true"
+    successmessages=""
+    type="text"
+  />
+</div>
+`;

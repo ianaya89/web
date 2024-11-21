@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timeline renders empty timeline 1`] = `
+<div>
+  <ul />
+</div>
+`;
+
+exports[`Timeline renders some props 1`] = `
+<div>
+  <ul>
+    <li
+      class=""
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2019-20 
+        <span>
+           - Foo
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+    <li
+      class="hidden"
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2018-19 
+        <span>
+           - Bar
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Timeline renders some props 2`] = `
+<div>
+  <ul>
+    <li
+      class=""
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2019-20 
+        <span>
+           - Foo
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+    <li
+      class="hidden"
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2018-19 
+        <span>
+           - Bar
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Timeline renders some props 3`] = `
+<div>
+  <ul>
+    <li
+      class=""
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2019-20 
+        <span>
+           - Foo
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+    <li
+      class="hidden"
+    >
+      <h6
+        class="font-medium leading-none"
+      >
+        
+        2018-19 
+        <span>
+           - Bar
+        </span>
+      </h6>
+       
+      <span
+        class="font-serif text-grey"
+      >
+        
+      </span>
+    </li>
+  </ul>
+</div>
+`;

@@ -1,0 +1,372 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heroes renders Heroes 1`] = `
+<div
+  class="h-full relative"
+>
+  <div
+    class="fading-gradient"
+  />
+   
+  <div
+    class="flex mb-5"
+  >
+    <div
+      class="w-1/2 text-left text-grey text-p2 uppercase tracking-wide"
+    >
+      
+      TRANSLATE:app.profile.header.info.heroes
+    
+    </div>
+     
+    <div
+      class="w-1/2 text-right"
+    >
+      <app-button-stub
+        btnclass="link"
+        title="TRANSLATE:general.expand_all"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="flex relative shadow-inner sm:shadow-none pl-4 sm:pl-0"
+  >
+    <accordion-stub
+      class="w-full scrollable-medium"
+      multi="true"
+    >
+      <accordion-item-stub
+        bodyclasses=""
+        bottomborder="true"
+        headerclasses=""
+        hideicon="lni-chevron-up"
+        showicon="lni-chevron-down"
+        topborder="true"
+      >
+         
+        <span
+          class="font-serif text-grey pb-4"
+        >
+          
+          Lorem ipsum
+        
+        </span>
+      </accordion-item-stub>
+       
+      <div
+        class="w-full h-10"
+      />
+    </accordion-stub>
+  </div>
+</div>
+`;
+
+exports[`Heroes toggleAll accordion items 1`] = `
+<div
+  class="h-full relative"
+>
+  <div
+    class="fading-gradient"
+  />
+   
+  <div
+    class="flex mb-5"
+  >
+    <div
+      class="w-1/2 text-left text-grey text-p2 uppercase tracking-wide"
+    >
+      
+      TRANSLATE:app.profile.header.info.heroes
+    
+    </div>
+     
+    <div
+      class="w-1/2 text-right"
+    >
+      <button
+        class="relative focus:outline-none button--link"
+      >
+        <!---->
+         
+        <span>
+          <!---->
+           
+          <span
+            class="max-w-xxs"
+          >
+            TRANSLATE:general.expand_all
+          </span>
+           
+          <!---->
+        </span>
+         
+        <!---->
+      </button>
+    </div>
+  </div>
+   
+  <div
+    class="flex relative shadow-inner sm:shadow-none pl-4 sm:pl-0"
+  >
+    <div
+      class="w-full scrollable-medium"
+    >
+      <div
+        class="accordion border-grey-l3 border-t border-b"
+      >
+        <div
+          class="accordion-header"
+        >
+          <!---->
+           
+          <div
+            class="flex w-full items-center py-1"
+          >
+            <div
+              class="mr-2 pt-2"
+            >
+              <div
+                class="inline-block bg-transparent p-px w-10 h-10"
+              >
+                <div
+                  class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+                  style="background-image: url(URLLOGO);"
+                >
+                  <!---->
+                </div>
+              </div>
+            </div>
+             
+            <span
+              class="h6 leading-tight"
+            >
+              John
+            </span>
+          </div>
+           
+          <span
+            class="opener font-bold ml-auto px-4 lni-chevron-down"
+          />
+        </div>
+         
+        <transition-stub
+          name="fade-down"
+        >
+          <!---->
+        </transition-stub>
+      </div>
+       
+      <div
+        class="w-full h-10"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Heroes toggleAll accordion items 2`] = `
+<div
+  class="h-full relative"
+>
+  <div
+    class="fading-gradient"
+  />
+   
+  <div
+    class="flex mb-5"
+  >
+    <div
+      class="w-1/2 text-left text-grey text-p2 uppercase tracking-wide"
+    >
+      
+      TRANSLATE:app.profile.header.info.heroes
+    
+    </div>
+     
+    <div
+      class="w-1/2 text-right"
+    >
+      <button
+        class="relative focus:outline-none button--link"
+      >
+        <!---->
+         
+        <span>
+          <!---->
+           
+          <span
+            class="max-w-xxs"
+          >
+            TRANSLATE:general.expand_all
+          </span>
+           
+          <!---->
+        </span>
+         
+        <!---->
+      </button>
+    </div>
+  </div>
+   
+  <div
+    class="flex relative shadow-inner sm:shadow-none pl-4 sm:pl-0"
+  >
+    <div
+      class="w-full scrollable-medium"
+    >
+      <div
+        class="accordion border-grey-l3 border-t border-b"
+      >
+        <div
+          class="accordion-header"
+        >
+          <!---->
+           
+          <div
+            class="flex w-full items-center py-1"
+          >
+            <div
+              class="mr-2 pt-2"
+            >
+              <div
+                class="inline-block bg-transparent p-px w-10 h-10"
+              >
+                <div
+                  class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+                  style="background-image: url(URLLOGO);"
+                >
+                  <!---->
+                </div>
+              </div>
+            </div>
+             
+            <span
+              class="h6 leading-tight"
+            >
+              John
+            </span>
+          </div>
+           
+          <span
+            class="opener font-bold ml-auto px-4 lni-chevron-down"
+          />
+        </div>
+         
+        <transition-stub
+          name="fade-down"
+        >
+          <!---->
+        </transition-stub>
+      </div>
+       
+      <div
+        class="w-full h-10"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Heroes toggleAll accordion items 3`] = `
+<div
+  class="h-full relative"
+>
+  <div
+    class="fading-gradient"
+  />
+   
+  <div
+    class="flex mb-5"
+  >
+    <div
+      class="w-1/2 text-left text-grey text-p2 uppercase tracking-wide"
+    >
+      
+      TRANSLATE:app.profile.header.info.heroes
+    
+    </div>
+     
+    <div
+      class="w-1/2 text-right"
+    >
+      <button
+        class="relative focus:outline-none button--link"
+      >
+        <!---->
+         
+        <span>
+          <!---->
+           
+          <span
+            class="max-w-xxs"
+          >
+            TRANSLATE:general.expand_all
+          </span>
+           
+          <!---->
+        </span>
+         
+        <!---->
+      </button>
+    </div>
+  </div>
+   
+  <div
+    class="flex relative shadow-inner sm:shadow-none pl-4 sm:pl-0"
+  >
+    <div
+      class="w-full scrollable-medium"
+    >
+      <div
+        class="accordion border-grey-l3 border-t border-b"
+      >
+        <div
+          class="accordion-header"
+        >
+          <!---->
+           
+          <div
+            class="flex w-full items-center py-1"
+          >
+            <div
+              class="mr-2 pt-2"
+            >
+              <div
+                class="inline-block bg-transparent p-px w-10 h-10"
+              >
+                <div
+                  class="h-full bg-center bg-no-repeat bg-cover relative border border-grey-l4 rounded-full"
+                  style="background-image: url(URLLOGO);"
+                >
+                  <!---->
+                </div>
+              </div>
+            </div>
+             
+            <span
+              class="h6 leading-tight"
+            >
+              John
+            </span>
+          </div>
+           
+          <span
+            class="opener font-bold ml-auto px-4 lni-chevron-down"
+          />
+        </div>
+         
+        <transition-stub
+          name="fade-down"
+        >
+          <!---->
+        </transition-stub>
+      </div>
+       
+      <div
+        class="w-full h-10"
+      />
+    </div>
+  </div>
+</div>
+`;

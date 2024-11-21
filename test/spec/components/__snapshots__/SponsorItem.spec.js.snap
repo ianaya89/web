@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SponsorItem renders SponsorItem with name 1`] = `
+<div
+  class="sponsor-item flex items-center"
+>
+  <div
+    class="w-16"
+  >
+    <avatar-stub
+      avatarclasses=""
+      class="my-auto"
+      classes="h-16 w-16"
+      src="\\"thumb-fallback.svg\\""
+      tooltipcolor="light"
+      tooltipposition="top"
+    />
+  </div>
+   
+  <div
+    class="w-3/5 ml-4"
+  >
+    <h6
+      class="my-auto leading-tight"
+    >
+      
+      John
+    
+    </h6>
+  </div>
+</div>
+`;

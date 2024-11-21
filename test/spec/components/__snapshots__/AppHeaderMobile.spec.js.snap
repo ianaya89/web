@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppHeaderMobile renders default mobile header 1`] = `
+<header
+  class="app-header-mobile"
+>
+  <logo-stub
+    variant="mobile"
+  />
+   
+  <ul />
+</header>
+`;

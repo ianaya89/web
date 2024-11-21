@@ -1,0 +1,250 @@
+a {
+  @apply .text-red .no-underline;
+  transition: 150ms ease-in-out;
+
+  &:hover,
+  &:active {
+    @apply .text-red-d1;
+  }
+}
+
+/* a with arrow -- START */
+a.has-arrow {
+  @apply .flex .items-center;
+
+  &:hover,
+  &:active {
+      &::after {
+      @apply .pl-5;
+    }
+  }
+}
+
+.app-link {
+  transition: 150ms ease-in-out;
+  &:hover,
+  &:active {
+    @apply .text-red-d1;
+  }
+}
+
+.has-arrow {
+  &::after {
+    @apply .pl-3 .text-h3;
+    line-height: 0;
+    font-family: "LineIcons";
+    content: "\ea4c";
+    transition: 150ms ease-in-out;
+  }
+}
+/* a with arrow -- END */
+p {
+  @apply .font-serif;
+}
+
+body h1,
+body .h1 {
+  @apply .text-h1 .leading-tight .font-medium;
+}
+
+body h2,
+body .h2 {
+  @apply .text-h2 .leading-tight .font-medium;
+}
+
+body h3,
+body .h3 {
+  @apply .text-h3 .leading-tight .font-medium;
+}
+
+body h4,
+body .h4 {
+  @apply .text-h4 .leading-tight .font-medium;
+}
+
+body h5,
+body .h5 {
+  @apply .text-h5 .font-medium;
+}
+
+body h6,
+body .h6 {
+  @apply .text-h6 .font-medium;
+}
+
+.h7 {
+  @apply .text-h7;
+}
+
+.p1 {
+  @apply .text-p1;
+}
+
+.p2 {
+  @apply .text-p2;
+}
+
+.p3 {
+  @apply .text-p3;
+}
+
+.p4 {
+  @apply .text-p4;
+}
+
+.p5 {
+  @apply .text-p5;
+}
+
+.header-one-action {
+  @apply .w-full .fixed .bg-white .border-b .border-grey-l3 .py-4 .flex .justify-between .z-50;
+  height: 80px;
+}
+
+.to-deals-icon {
+  @apply .text-grey-d1;
+
+  &:hover {
+    @apply .text-black;
+  }
+}
+
+.shadow-hover {
+  @apply .shadow;
+  transition: all 0.2s cubic-bezier(0.8, 0.5, 1, 1);
+
+  &:hover {
+    @apply .shadow-xl .z-10;
+  }
+}
+
+/*============================================================*/
+/*Vuetify variables*/
+/*============================================================*/
+
+.grey {
+  @apply bg-grey !important;
+  @apply border-grey !important;
+}
+
+.grey-l3 {
+  @apply bg-grey-l3 !important;
+  @apply border-grey-l3 !important;
+}
+
+.red {
+  @apply bg-red !important;
+  @apply border-red !important;
+}
+
+.green {
+  @apply bg-green !important;
+  @apply border-green !important;
+}
+
+.blue {
+  @apply bg-blue !important;
+  @apply border-blue !important;
+}
+
+
+
+.scrollable-medium {
+  @apply .overflow-y-auto;
+  max-height: 32rem;
+}
+
+.fading-gradient {
+  @apply .w-full .absolute .bottom-0 .z-10;
+  height: 3.5rem;
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    #fff 70%
+  );
+  pointer-events:none;
+}
+
+.flex-2 {
+  flex: 2 2 0%;
+}
+
+.toasted-container {
+  z-index: 100000 !important;
+}
+
+
+.chart--column,
+.chart--line {
+  .chart__plotline-val {
+      font-weight: 500 !important;
+  }
+  .chart__plotline-title {
+    font-weight: 500 !important;
+    margin-right: 1rem !important;
+  }
+}
+
+.theme--light.application {
+  @apply .bg-white;
+}
+
+.highcharts-credits {
+  display: none;
+}
+
+.highcharts-label {
+  @apply .z-20;
+  span {
+    left: 6px;
+    .chart__title {
+      @apply .text-grey .font-medium .leading-tight;
+    }
+    .chart__val {
+      @apply .font-medium .text-h7 .leading-tight;
+    }
+  }
+}
+
+.highcharts-tooltip {
+  z-index: 9999 !important;
+
+  >span {
+     @apply .font-sans .font-medium .py-2 .px-0 .shadow-lg .bg-white !important;
+  }
+}
+
+.layout-enter-active {
+  transition: opacity 700ms
+}
+.layout-leave-active {
+  transition: opacity 0ms
+}
+.layout-enter,
+.layout-leave-active {
+  opacity: 0
+}
+
+.media-modal {
+  img {
+    @apply .mx-auto .max-h-full .max-w-full .h-auto;
+    /*max-width: none;*/
+    /*height: 100%;*/
+  }
+
+  @media (min-width: 577px) and (max-width: 1280px) {
+    img {
+      min-width: 80vw;
+      /*max-width: 100%;*/
+      /*height: auto;*/
+    }
+  }
+
+  @media (max-width: 576px) {
+    img {
+      min-width: 80vw;
+      /*max-width: 100%;*/
+      /*height: auto;*/
+    }
+  }
+}

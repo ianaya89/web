@@ -1,0 +1,61 @@
+{
+  "data": {
+    "me": {
+      "id": "4",
+      "email": "brand@sponsoronline.eu",
+      "settings": [],
+      "profile": {
+        "id": "4",
+        "firstName": "Elon",
+        "lastName": "Musk",
+        "phoneNumber": "0915002008",
+        "photo": {
+          "url": "http://backendr.test/uploads/3?token=Nk6WzhLoDM0D0YYHrA9gf04BJWY44F4V&conversion=thumb",
+          "__typename": "Image"
+        },
+        "jobTitle": "CEO",
+        "timezone": "Europe/Bratislava",
+        "__typename": "UserProfile"
+      },
+      "units": [
+        {
+          "id": "75",
+          "organization": {
+            "id": "2",
+            "name": "Dope Brand Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "1",
+            "name": "Automotive Germany",
+            "logo": {
+              "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Brand"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "77",
+          "organization": {
+            "id": "2",
+            "name": "Dope Brand Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "2",
+            "name": "B/S/H BSH Home Appliances Group",
+            "logo": {
+              "url": "http://backendr.test/uploads/56?token=Wd69e6lRvEG6Z7A5EDlMwgLiVIxaeKkU&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Brand"
+          },
+          "__typename": "OrganizationUnit"
+        }
+      ],
+      "__typename": "User"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "updateInventory": {
+      "id": "48",
+      "price": 1010302.64,
+      "__typename": "Inventory"
+    }
+  }
+}

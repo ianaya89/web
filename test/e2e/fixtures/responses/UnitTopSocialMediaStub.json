@@ -1,0 +1,13 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "socialAccounts": [],
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

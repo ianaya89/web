@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeaturedTopCard renders default 1`] = `
+<div
+  class="relative flex bg-center bg-cover overflow-hidden"
+  style="background-image: url();"
+>
+  <div
+    class="featured-mask"
+  />
+   
+  <div
+    class="featured-logo flex items-end ml-12 pb-16 w-32"
+  >
+    <img
+      src=""
+    />
+  </div>
+   
+  <div
+    class="w-3/4 border-r my-2 border-grey py-4 pl-10 pr-6 text-white text-h4 z-10 flex"
+  />
+   
+  <div
+    class="w-1/4 text-white py-6 px-8 z-10"
+  />
+</div>
+`;

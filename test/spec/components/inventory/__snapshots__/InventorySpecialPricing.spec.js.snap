@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventorySpecialPricing renders default InventorySpecialPricing 1`] = `
+<div
+  class="w-full pt-10 border-t border-grey-l3"
+>
+  <h6>
+    
+    TRANSLATE:app.inventory.items.form.special_pricing.title
+  
+  </h6>
+   
+  <p
+    class="block text-grey text-p3 uppercase tracking-wide mb-2"
+  >
+    
+    TRANSLATE:app.inventory.items.form.special_pricing.price_decrease
+  
+  </p>
+   
+  <transition-group-stub
+    class="flex flex-wrap w-full -m-2"
+    name="special-pricing"
+    tag="div"
+  >
+     
+    <div
+      class="w-full md:w-1/3 md:max-w-xs p-2"
+    >
+      <div
+        class="border border-grey-l3 p-4 w-full cursor-pointer flex items-center justify-center h-full font-medium"
+        style="min-height: 85px;"
+      >
+        
+        + TRANSLATE:general.add_another
+      
+      </div>
+    </div>
+  </transition-group-stub>
+   
+  <p
+    class="block text-grey text-p3 uppercase tracking-wide mb-2 mt-6"
+  >
+    
+    TRANSLATE:app.inventory.items.form.special_pricing.price_increase
+  
+  </p>
+   
+  <transition-group-stub
+    class="flex flex-wrap w-full -m-2"
+    name="special-pricing"
+    tag="div"
+  >
+     
+    <div
+      class="w-full md:w-1/3 md:max-w-xs p-2"
+    >
+      <div
+        class="border border-grey-l3 p-4 w-full cursor-pointer flex items-center justify-center h-full font-medium"
+        style="min-height: 85px;"
+      >
+        
+        + TRANSLATE:general.add_another
+      
+      </div>
+    </div>
+  </transition-group-stub>
+   
+  <modal-stub
+    cyidentifier=""
+    footer="true"
+    header="true"
+    modalsizeclasses="min-h-screen sm:min-h-auto max-w-sm"
+  />
+</div>
+`;

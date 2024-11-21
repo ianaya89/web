@@ -1,0 +1,111 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "packages": [
+          {
+            "id": "51",
+            "nameOverride": null,
+            "description": "Est iusto magni perspiciatis. Aut nostrum exercitationem necessitatibus ut soluta consequatur voluptates.",
+            "expiredAt": null,
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "children": [
+              {
+                "id": "52",
+                "category": {
+                  "id": "133",
+                  "name": "Competition",
+                  "path": "campaign / guess-the-right-result-win / competition",
+                  "__typename": "MarketplaceItemCategory"
+                },
+                "__typename": "Inventory"
+              },
+              {
+                "id": "53",
+                "category": {
+                  "id": "114",
+                  "name": "Airlines",
+                  "path": "suppliers / transport / airlines",
+                  "__typename": "MarketplaceItemCategory"
+                },
+                "__typename": "Inventory"
+              },
+              {
+                "id": "54",
+                "category": {
+                  "id": "101",
+                  "name": "Shirts",
+                  "path": "suppliers / technical-supplier / shirts",
+                  "__typename": "MarketplaceItemCategory"
+                },
+                "__typename": "Inventory"
+              },
+              {
+                "id": "55",
+                "category": {
+                  "id": "50",
+                  "name": "Messages",
+                  "path": "stadium / messages-over-pa-system / messages",
+                  "__typename": "MarketplaceItemCategory"
+                },
+                "__typename": "Inventory"
+              }
+            ],
+            "__typename": "Package"
+          },
+          {
+            "id": "109",
+            "nameOverride": null,
+            "description": "Some basic description",
+            "expiredAt": "2019-09-02 00:00:00",
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "children": [],
+            "__typename": "Package"
+          },
+          {
+            "id": "112",
+            "nameOverride": null,
+            "description": "Some basic description",
+            "expiredAt": "2019-09-02 00:00:00",
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "children": [],
+            "__typename": "Package"
+          },
+          {
+            "id": "115",
+            "nameOverride": null,
+            "description": "Some basic description",
+            "expiredAt": "2019-09-02 00:00:00",
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "children": [],
+            "__typename": "Package"
+          }
+        ],
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

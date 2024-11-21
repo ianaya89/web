@@ -1,0 +1,331 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "inventories": [
+          {
+            "id": "45",
+            "nameOverride": null,
+            "category": {
+              "id": "61",
+              "name": "Opposite tribune",
+              "path": "hospitality / skybox / opposite-tribune",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Quis in est quo facere aliquam. Molestiae non tenetur dignissimos iure qui id.",
+            "price": 5364813.09,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "46",
+            "nameOverride": null,
+            "category": {
+              "id": "135",
+              "name": "Discount",
+              "path": "campaign / discount-for-fans / discount",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Et dolor accusamus ea deserunt alias officiis debitis. Unde assumenda quis dignissimos odio optio.",
+            "price": 698928.55,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "47",
+            "nameOverride": null,
+            "category": {
+              "id": "21",
+              "name": "Stadium",
+              "path": "stadium / naming-rights / stadium",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Debitis expedita reiciendis culpa sed aut qui praesentium. Ea ducimus possimus asperiores. Odio et qui aperiam illum. Voluptatem impedit dolorem voluptas eum ut non rerum.",
+            "price": 6368968.78,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "48",
+            "nameOverride": null,
+            "category": {
+              "id": "40",
+              "name": "Next to the goal",
+              "path": "stadium / 3d-carpet / next-to-the-goal",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1010302.64,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "49",
+            "nameOverride": null,
+            "category": {
+              "id": "135",
+              "name": "Discount",
+              "path": "campaign / discount-for-fans / discount",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Soluta iste eveniet sed id enim et. Dolores enim nostrum est unde. Repellendus in rem ducimus veniam.",
+            "price": 254103.97,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "50",
+            "nameOverride": null,
+            "category": {
+              "id": "96",
+              "name": "Highlights",
+              "path": "media / sportvideo / highlights",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Aspernatur pariatur aliquam quibusdam a. Consequatur soluta ut animi inventore omnis. Quia id ut animi beatae est.",
+            "price": 7299589.6,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "52",
+            "nameOverride": "deleniti",
+            "category": {
+              "id": "133",
+              "name": "Competition",
+              "path": "campaign / guess-the-right-result-win / competition",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Magni provident placeat ipsam quia. At aut sit esse reiciendis asperiores commodi. Occaecati molestiae velit repellendus consequatur atque omnis repudiandae. Ut commodi dolores iure eum voluptatem ex facilis ut. Praesentium et exercitationem delectus.",
+            "price": 4776267.52,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "53",
+            "nameOverride": null,
+            "category": {
+              "id": "114",
+              "name": "Airlines",
+              "path": "suppliers / transport / airlines",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Qui quia et atque est. Consectetur et repellat magni autem adipisci. Repellat optio a suscipit ut et quasi est.",
+            "price": 7638294.94,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "54",
+            "nameOverride": null,
+            "category": {
+              "id": "101",
+              "name": "Shirts",
+              "path": "suppliers / technical-supplier / shirts",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Ipsum aut esse asperiores dolore. Quidem facilis sed natus quae facilis doloribus. Commodi fugit in molestias laudantium. Dolor consequatur aliquid ipsam pariatur architecto.",
+            "price": 8043716.1,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "55",
+            "nameOverride": null,
+            "category": {
+              "id": "50",
+              "name": "Messages",
+              "path": "stadium / messages-over-pa-system / messages",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Ut et possimus dolorem praesentium. Culpa molestias aut dolorem provident illum animi alias. Et voluptatum aperiam enim. Doloremque porro dolore libero nulla est perferendis a.",
+            "price": 4673328.23,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "105",
+            "nameOverride": null,
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": null,
+            "__typename": "Inventory"
+          },
+          {
+            "id": "107",
+            "nameOverride": "Front (duplicated)",
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "108",
+            "nameOverride": null,
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "110",
+            "nameOverride": "Front (duplicated)",
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "111",
+            "nameOverride": null,
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "113",
+            "nameOverride": "Front (duplicated)",
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          },
+          {
+            "id": "114",
+            "nameOverride": null,
+            "category": {
+              "id": "3",
+              "name": "Front",
+              "path": "player-kit / shirt / front",
+              "target": "inventory",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1000,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Inventory"
+          }
+        ],
+        "packages": [
+          {
+            "id": "51",
+            "nameOverride": null,
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "target": "package",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Est iusto magni perspiciatis. Aut nostrum exercitationem necessitatibus ut soluta consequatur voluptates.",
+            "price": 5347420.96,
+            "expiredAt": null,
+            "__typename": "Package"
+          },
+          {
+            "id": "109",
+            "nameOverride": null,
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "target": "package",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1010302.64,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Package"
+          },
+          {
+            "id": "112",
+            "nameOverride": null,
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "target": "package",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1010302.64,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Package"
+          },
+          {
+            "id": "115",
+            "nameOverride": null,
+            "category": {
+              "id": "136",
+              "name": "Platinum",
+              "path": "platinum",
+              "target": "package",
+              "__typename": "MarketplaceItemCategory"
+            },
+            "description": "Some basic description",
+            "price": 1010302.64,
+            "expiredAt": "2019-09-02 00:00:00",
+            "__typename": "Package"
+          }
+        ],
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

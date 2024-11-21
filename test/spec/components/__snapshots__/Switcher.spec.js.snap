@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switcher disabled switcher 1`] = `
+<div
+  class="switcher"
+>
+  <v-switch-stub
+    backgroundcolor=""
+    color="red"
+    disabled="true"
+    errorcount="1"
+    errormessages=""
+    label="My label"
+    messages=""
+    ripple="true"
+    rules=""
+    successmessages=""
+    valuecomparator="function deepEqual(a, b) {
+    if (a === b) return true;
+    if (a instanceof Date && b instanceof Date) {
+        // If the values are Date, they were convert to timestamp with getTime and compare it
+        if (a.getTime() !== b.getTime()) return false;
+    }
+    if (a !== Object(a) || b !== Object(b)) {
+        // If the values aren't objects, they were already checked for equality
+        return false;
+    }
+    var props = Object.keys(a);
+    if (props.length !== Object.keys(b).length) {
+        // Different number of props, don't bother to check
+        return false;
+    }
+    return props.every(function (p) {
+        return deepEqual(a[p], b[p]);
+    });
+}"
+  />
+</div>
+`;
+
+exports[`Switcher renders default switcher 1`] = `
+<div
+  class="switcher"
+>
+  <v-switch-stub
+    backgroundcolor=""
+    color="red"
+    errorcount="1"
+    errormessages=""
+    label="Label"
+    messages=""
+    ripple="true"
+    rules=""
+    successmessages=""
+    valuecomparator="function deepEqual(a, b) {
+    if (a === b) return true;
+    if (a instanceof Date && b instanceof Date) {
+        // If the values are Date, they were convert to timestamp with getTime and compare it
+        if (a.getTime() !== b.getTime()) return false;
+    }
+    if (a !== Object(a) || b !== Object(b)) {
+        // If the values aren't objects, they were already checked for equality
+        return false;
+    }
+    var props = Object.keys(a);
+    if (props.length !== Object.keys(b).length) {
+        // Different number of props, don't bother to check
+        return false;
+    }
+    return props.every(function (p) {
+        return deepEqual(a[p], b[p]);
+    });
+}"
+  />
+</div>
+`;
+
+exports[`Switcher switcher test value 1`] = `
+<div
+  class="switcher"
+>
+  <div
+    class="v-input v-input--selection-controls v-input--switch v-input--is-label-active v-input--is-dirty theme--light"
+  >
+    <div
+      class="v-input__control"
+    >
+      <div
+        class="v-input__slot"
+      >
+        <div
+          class="v-input--selection-controls__input"
+        >
+          <input
+            aria-checked="true"
+            aria-label="Label"
+            role="checkbox"
+            type="checkbox"
+            value="true"
+          />
+          <div
+            class="v-input--selection-controls__ripple red--text"
+          />
+          <div
+            class="v-input--switch__track theme--light red--text"
+          />
+          <div
+            class="v-input--switch__thumb theme--light red--text"
+          >
+            <transition-stub
+              mode="out-in"
+              name="fab-transition"
+            />
+          </div>
+        </div>
+        <label
+          aria-hidden="true"
+          class="v-label theme--light"
+          style="left: 0px; position: relative;"
+        >
+          Label
+        </label>
+      </div>
+      <div
+        class="v-messages theme--light"
+      >
+        <transition-group-stub
+          class="v-messages__wrapper"
+          name="message-transition"
+          tag="div"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

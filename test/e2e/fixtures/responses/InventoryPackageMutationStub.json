@@ -1,0 +1,9 @@
+{
+  "data": {
+    "createPackage": {
+      "id": "117",
+      "price": 1010302.64,
+      "__typename": "Package"
+    }
+  }
+}

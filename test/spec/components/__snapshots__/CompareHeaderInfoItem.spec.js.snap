@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompareHeaderInfoItem renders default compare header info 1`] = `
+<li
+  class="compare--dropdown-item"
+>
+  <compare-item-info-stub
+    info="TRANSLATE:app.marketplace.categories.-"
+    remover="true"
+    src="\\"thumb-fallback.svg\\""
+    title="TRANSLATE:app.marketplace.categories.-"
+  />
+</li>
+`;

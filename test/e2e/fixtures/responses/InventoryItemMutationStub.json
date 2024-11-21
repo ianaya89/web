@@ -1,0 +1,9 @@
+{
+  "data": {
+    "createInventory": {
+      "id": "116",
+      "price": 1000,
+      "__typename": "Inventory"
+    }
+  }
+}

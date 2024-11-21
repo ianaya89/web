@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppLabel renders default label 1`] = `
+<v-chip-stub
+  class="app-label"
+  value="true"
+>
+  Label 
+  <!---->
+</v-chip-stub>
+`;
+
+exports[`AppLabel renders some props 1`] = `
+<v-chip-stub
+  class="app-label"
+  color="secondary"
+  disabled="true"
+  label="Custom label"
+  textcolor="white"
+  value="true"
+>
+  Label 
+  <!---->
+</v-chip-stub>
+`;
+
+exports[`AppLabel renders with closing 1`] = `
+<span
+  class="v-chip app-label v-chip--disabled v-chip--removable theme--light cursor-pointer"
+  closeable="true"
+  tabindex="-1"
+>
+  <span
+    class="v-chip__content"
+  >
+    Label 
+    <span
+      class="label-close"
+    >
+      <span
+        class="pl-3 pt-1 -mr-1 lni-close"
+      />
+    </span>
+    <div
+      class="v-chip__close"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--light"
+      >
+        cancel
+      </i>
+    </div>
+  </span>
+</span>
+`;
+
+exports[`AppLabel renders with closing 2`] = `
+<span
+  class="v-chip app-label v-chip--disabled v-chip--removable theme--light cursor-pointer"
+  closeable="true"
+  tabindex="-1"
+>
+  <span
+    class="v-chip__content"
+  >
+    Label 
+    <span
+      class="label-close"
+    >
+      <span
+        class="pl-3 pt-1 -mr-1 lni-close"
+      />
+    </span>
+    <div
+      class="v-chip__close"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--light"
+      >
+        cancel
+      </i>
+    </div>
+  </span>
+</span>
+`;
+
+exports[`AppLabel renders with closing 3`] = `
+<span
+  class="v-chip app-label v-chip--disabled v-chip--removable theme--light cursor-pointer"
+  closeable="true"
+  tabindex="-1"
+>
+  <span
+    class="v-chip__content"
+  >
+    Label 
+    <span
+      class="label-close"
+    >
+      <span
+        class="pl-3 pt-1 -mr-1 lni-close"
+      />
+    </span>
+    <div
+      class="v-chip__close"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--light"
+      >
+        cancel
+      </i>
+    </div>
+  </span>
+</span>
+`;

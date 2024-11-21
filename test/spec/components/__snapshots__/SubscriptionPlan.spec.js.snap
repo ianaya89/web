@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubscriptionPlan renders SubscriptionPlan 1`] = `
+<div
+  class="border border-grey-l3 p-6 font-medium h-full"
+>
+  <div
+    class="h-full flex flex-col content-between"
+  >
+    <div
+      class="flex-1"
+    >
+      <div
+        class="sm:min-h-64 md:min-h-56 lg:min-h-48"
+      >
+        <p
+          class="text-grey-l2 tracking-wide uppercase"
+        >
+          
+          TRANSLATE:app.team.settings.subscriptions.free
+        
+        </p>
+         
+        <h3
+          class="mt-2 uppercase"
+        >
+          
+          Test
+        
+        </h3>
+         
+        <h3
+          class="text-red"
+        >
+          <span>
+            TRANSLATE:general.custom
+          </span>
+        </h3>
+         
+        <p
+          class="text-grey pt-2 pb-6 font-serif"
+        >
+          
+          Test description
+        
+        </p>
+      </div>
+       
+      <p
+        class="pt-3 pb-2 border-t border-b border-grey-l3 font-bold text-h6 uppercase"
+      >
+        <span
+          class="text-red"
+        >
+          10%
+        </span>
+         TRANSLATE:app.team.settings.subscriptions.deal_commission
+      
+      </p>
+       
+      <div
+        class="pt-3 pb-2 block md:hidden border-b border-grey-l3"
+      >
+        <app-button-stub
+          btnclass="link"
+          title="TRANSLATE:general.show_more"
+        />
+      </div>
+       
+      <transition-stub
+        name="fade-down"
+      >
+        <!---->
+      </transition-stub>
+       
+      <transition-stub
+        name="fade-down"
+      >
+        <div
+          class="hidden md:block"
+        >
+          <p
+            class="pb-2 pt-4"
+          >
+            
+            TRANSLATE:app.team.settings.subscriptions.features
+          
+          </p>
+           
+          <ul
+            class="is-truncated"
+          >
+            <li
+              class="py-2"
+            >
+              
+              Feature name
+            
+            </li>
+          </ul>
+        </div>
+      </transition-stub>
+    </div>
+     
+    <div
+      class="w-full pt-4 md:pt-6"
+    >
+      <app-button-stub
+        btnclass="link w-full"
+        class="w-full pt-6"
+        disabled="true"
+        loader="true"
+        shoulddisable="true"
+        title="TRANSLATE:app.team.settings.subscriptions.current"
+      />
+    </div>
+  </div>
+</div>
+`;

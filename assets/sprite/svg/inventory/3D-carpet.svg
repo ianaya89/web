@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>3D-carpet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3D-carpet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(77.000000, 17.000000)">
+            <polygon id="Path" fill="#FF553F" points="0 52 8 47.2727273 8 0 0 4.72727273"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="1 52 9 47.2727273 9 0 1 4.72727273"></polygon>
+        </g>
+        <g id="Group-Copy" transform="translate(5.500000, 43.000000) scale(1, -1) translate(-5.500000, -43.000000) translate(1.000000, 17.000000)">
+            <polygon id="Path" fill="#FF553F" points="0 52 8 47.2727273 8 0 0 4.72727273"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="1 52 9 47.2727273 9 0 1 4.72727273"></polygon>
+        </g>
+        <polygon id="Stroke-1" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="17 73 71 73 71 16 17 16"></polygon>
+        <path d="M44.5,16 L44.5,73" id="Stroke-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M44.5048575,34 C48.7185665,34.0923596 52.0709443,38.1209942 51.9951229,43.0012356 C52.0938615,46.1770392 50.6872873,49.1617897 48.3276448,50.7836241 C45.9680023,52.4054586 43.0319978,52.4054586 40.6723553,50.7836241 C38.3127128,49.1617897 36.9061386,46.1770392 37.0048771,43.0012356 C36.9684821,40.6556293 37.7382847,38.3893862 39.1448722,36.7012448 C40.5514599,35.0131036 42.4795628,34.0414073 44.5048575,34 Z" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polygon id="Stroke-6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="62 57 71 57 71 29 62 29"></polygon>
+        <polygon id="Stroke-20" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="17 57 26 57 26 29 17 29"></polygon>
+    </g>
+</svg>

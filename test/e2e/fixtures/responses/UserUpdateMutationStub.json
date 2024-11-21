@@ -1,0 +1,22 @@
+{
+  "data": {
+    "updateUser": {
+      "id": "1",
+      "email": "engineering@sponsoronline.eu",
+      "profile": {
+        "id": "1",
+        "firstName": "asdsad",
+        "lastName": "sadsad",
+        "phoneNumber": "213123123123",
+        "photo": {
+          "url": "http://backendr.test/uploads/1?token=FD5z6Lim6AbX08aLY9huxUBz33IPdc9y&conversion=thumb",
+          "__typename": "Image"
+        },
+        "jobTitle": "asdasda",
+        "timezone": "Europe/Bratislava",
+        "__typename": "UserProfile"
+      },
+      "__typename": "User"
+    }
+  }
+}

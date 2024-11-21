@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0" stroke-linecap="round" stroke-linejoin="round">
+        <g id="supplier-shorts" transform="translate(6.000000, 6.000000)" fill="#FFFFFF" stroke="#000000" stroke-width="4">
+            <g id="la4ma-link">
+                <path d="M36,0 L7.2,0 L7.2,1.656 C7.19813977,5.33651479 6.74475323,9.00290067 5.85,12.573 L2.16,27.405 C0.728979137,33.114822 0.00356509235,38.9785855 -1.43884904e-14,44.865 L-1.43884904e-14,66.186 C-0.000642358987,67.9236681 1.00712889,69.5037972 2.583,70.236 C4.743,71.1 8.559,72 15.3,72 C28.8,72 30.6,68.4 30.6,68.4 L30.6,61.2 L36,36" id="la4ma"></path>
+            </g>
+            <g id="la4mb-link" transform="translate(36.000000, 0.000000)">
+                <path d="M0,0 L28.8,0 L28.8,1.656 C28.8018602,5.33651479 29.2552468,9.00290067 30.15,12.573 L33.849,27.405 C35.2769874,33.1151982 35.9993782,38.9789562 36,44.865 L36,66.15 C36.0043491,67.9075695 34.9850441,69.5068239 33.39,70.245 C31.23,71.1 27.396,72 20.7,72 C7.2,72 5.4,68.4 5.4,68.4 L5.4,61.2 L0,36" id="la4mb"></path>
+            </g>
+            <g id="la4mc-link" transform="translate(0.000000, 61.200000)">
+                <path d="M0,0 C5.292,2.439 10.746,3.717 16.2,3.6 C21.2016709,3.43969078 26.1113213,2.21227817 30.6,0" id="la4mc"></path>
+            </g>
+            <g id="la4md-link" transform="translate(41.400000, 61.200000)">
+                <path d="M30.6,0 C25.308,2.439 19.854,3.717 14.4,3.6 C9.3983291,3.43969078 4.48867866,2.21227817 0,0" id="la4md"></path>
+            </g>
+            <g id="la4me-link" transform="translate(7.200000, 6.300000)">
+                <path d="M57.6,0.9 L0,0.9" id="la4me"></path>
+            </g>
+            <g id="la4mf-link" transform="translate(30.600000, 7.200000)">
+                <path d="M5.4,0 C1.89480254,4.67359661 -7.10542736e-15,10.3580042 -7.10542736e-15,16.2" id="la4mf"></path>
+            </g>
+            <g id="la4mg-link" transform="translate(36.000000, 7.200000)">
+                <path d="M0,0 C3.50519746,4.67359661 5.4,10.3580042 5.4,16.2" id="la4mg"></path>
+            </g>
+            <g id="la4mh-link" transform="translate(3.600000, 14.400000)">
+                <path d="M0,10.8 C4.29990298,10.7998345 8.11730095,8.0482627 9.477,3.969 L10.8,0" id="la4mh"></path>
+            </g>
+            <g id="la4mi-link" transform="translate(57.600000, 14.400000)">
+                <path d="M10.8,10.8 C6.50009702,10.7998345 2.68269905,8.0482627 1.323,3.969 L0,0" id="la4mi"></path>
+            </g>
+            <g id="la4mj-link" transform="translate(41.400000, 54.900000)">
+                <path d="M7.2,0.9 L0,0.9" id="la4mj"></path>
+            </g>
+            <g id="la4mk-link" transform="translate(39.600000, 47.700000)">
+                <path d="M5.4,0.9 L0,0.9" id="la4mk"></path>
+            </g>
+        </g>
+    </g>
+</svg>

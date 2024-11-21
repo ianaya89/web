@@ -1,0 +1,2039 @@
+{
+  "form": {
+    "required": "Si prega di compilare questo input."
+  },
+  "general": {
+    "tc_": "",
+    "agree_to": "Accetto il",
+    "of_platform": "di SPONSOR.ONLINE",
+    "platform": "SPONSOR.ONLINE",
+    "rights": "Tutti i diritti riservati",
+    "read_time": "Leggi min",
+    "expand_all": "Espandi tutto",
+    "lets_start": "Iniziamo",
+    "tc_season": "Stagione | Stagioni",
+    "season": "Stagione",
+    "match_day": "Giorno della partita",
+    "add": "Inserisci",
+    "asc": "Asc",
+    "none": "Nessuno",
+    "desc": "Disc",
+    "set_up": "Imposta",
+    "view": "Visualizza",
+    "text": "Testo",
+    "video": "Video",
+    "uploaded": "Aggiunto",
+    "others": "altri",
+    "package": "Pacchetto",
+    "next": "successivo",
+    "more": "altro",
+    "reach": "Portata",
+    "engagement": "Impegno",
+    "valuation": "Valutazione",
+    "duplicate": "Duplica",
+    "advanced_search": "Ricerca Avanzata",
+    "show_all": "Mostra tutto",
+    "hide_all": "Nascondi tutto",
+    "collapse_all": "Comprimi tutto",
+    "select_all": "Seleziona tutto",
+    "unselect_all": "Deseleziona tutto",
+    "add_another": "Aggiungi un altro",
+    "save_add_another": "Salva e aggiungi un altro",
+    "terms": "Termini di servizio",
+    "privacy": "Informativa sulla privacy",
+    "get_started": "Cominciamo",
+    "lets_get_started": "Cominciamo",
+    "find_out_more": "Scopri di più",
+    "proposal": "Proposta",
+    "step": "Passo",
+    "hide": "Nascondi",
+    "office": "ufficio",
+    "settings": "Impostazioni",
+    "contact_person": "Contatto",
+    "see_items": "Vedi elementi",
+    "items": "Articoli | Articolo | Articoli",
+    "ordered_by": "ordinato da",
+    "brand": "Marchio",
+    "team": "Squadra",
+    "users": "Utenti",
+    "country": "Paese",
+    "categories": "Categorie",
+    "inventoryTypes": "Inventory Types",
+    "budget": "Budget",
+    "accounts": "Account | Account",
+    "yes": "Sì",
+    "reply": "Rispondi",
+    "m2": "m2",
+    "or": "o",
+    "contents": "Contenuti",
+    "supported_formats": "Formati supportati",
+    "no": "No",
+    "send": "Invia",
+    "back": "Indietro",
+    "edit": "Modifica",
+    "from": "Da",
+    "create_new": "Crea nuovo",
+    "show": "Mostra",
+    "close": "Concludi ",
+    "tc_date": "Data | Date",
+    "date": "Data",
+    "cancel": "Annulla",
+    "search": "Cerca",
+    "share": "Condividi",
+    "delete": "Elimina",
+    "dates": "Date",
+    "amount": "Quantità",
+    "pieces_short": "pezzi",
+    "default": "Default",
+    "yesterday": "Ieri",
+    "last_season": "Ultima stagione",
+    "current_season": "Stagione attuale",
+    "last_year": "L'anno scorso",
+    "last_quarter": "Ultimo trimestre",
+    "last_month": "Ultimo mese",
+    "last_3_months": "Ultimi 3 mesi",
+    "month_shortcut": "mese",
+    "year_shortcut": "anno",
+    "last_week": "La settimana scorsa",
+    "show_more": "Mostra di più",
+    "show_less": "Mostra meno",
+    "image": "Immagine",
+    "save": "Salva",
+    "save_close": "Salva & chiudi",
+    "update": "Aggiorna",
+    "updating": "In aggiornamento",
+    "plus": "più",
+    "total": "Totale",
+    "custom": "Abitudine",
+    "hashtags": "Hashtag",
+    "mentions": "Citazioni",
+    "tags": "Tag",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "twitter": "Twitter",
+    "tiktok": "TikTok",
+    "weibo": "Weibo",
+    "google-plus": "Google+",
+    "web-page": "Pagina web",
+    "months": {
+      "0": "Gennaio",
+      "1": "Febbraio",
+      "2": "Marzo",
+      "3": "Aprile",
+      "4": "Maggio",
+      "5": "Giugno",
+      "6": "Luglio",
+      "7": "Agosto",
+      "8": "Settembre",
+      "9": "Ottobre",
+      "10": "Novembre",
+      "11": "Dicembre"
+    },
+    "and": "&",
+    "menu": "Menu",
+    "loading_data": "Loading data..."
+  },
+  "terms": {
+    "sections": {
+      "general": "Disposizioni generali",
+      "subscriptions": "Abbonamenti",
+      "sponsorship": "Contratto & commissioni di sponsorizzazione",
+      "undertakings": "Ulteriori impegni",
+      "provisions": "Disposizioni finali"
+    }
+  },
+  "privacy": {
+    "sections": {
+      "intro": "introduzione",
+      "personal_data": "Chi controlla i dati personali trattati?",
+      "personal_data_kind": "Che tipo di dati personali vengono raccolti?",
+      "personal_data_allowed": "Perché siamo autorizzati a elaborare i dati personali?",
+      "personal_data_purpose": "Per quali scopi elaboriamo i dati personali?",
+      "personal_data_share": "Con chi condividiamo i dati personali che elaboriamo?",
+      "personal_data_keep": "Per quanto tempo conserviamo i dati personali?",
+      "personal_data_security": "Come possiamo garantire la sicurezza dei dati personali trattati?",
+      "personal_data_rights": "Quali sono i diritti delle persone i cui dati personali elaboriamo?",
+      "contact_us": "Come ci contatti?",
+      "up_to_date": "Come manteniamo aggiornate le nostre politiche?"
+    }
+  },
+  "notifications": {
+    "page_visited": "ha visitato il tuo profilo",
+    "message_received": "ti ho mandato un messaggio",
+    "offer_received": "ti ho inviato un'offerta",
+    "targeting_matched": "added marketplace item matching your targeting criteria"
+  },
+  "landing": {
+    "brand": {
+      "title": "La più avanzata piattaforma di sponsorizzazione di calcio",
+      "subtitle": "Connessioni che cambiano le interazioni tra marchi principali e squadre di calcio professioniste",
+      "title_signup": "Diventa uno sponsor",
+      "how_it_works": {
+        "title": "Come funziona",
+        "sign_up": {
+          "title": "Iscriviti",
+          "body": "Ci vogliono solo pochi minuti per accedere a SPONSOR.ONLINE. Hai bisogno di aiuto extra? I nostri assistenti saranno felici di programmare una telefonata."
+        },
+        "search": {
+          "title": "Cerca squadre",
+          "body": "Scegli i dati anagrafici, il budget e il tipo di sponsorizzazione più interessanti per il tuo marchio e lascia che il nostro sistema faccia il resto."
+        },
+        "communication": {
+          "title": "Comunica con le squadre",
+          "body": "Lo strumento di messaggistica di SPONSOR.ONLINE ti consente di comunicare con le squadre, negoziare offerte e concludere contratti di sponsorizzazione in tempi record, tutto in un solo sistema."
+        },
+        "deals": {
+          "title": "Concludi i contratti",
+          "body": "Concludi contratti di sponsorizzazione in tempo record proprio qui sulla piattaforma SPONSOR.ONLINE."
+        }
+      }
+    },
+    "team": {
+      "title": "La più avanzata piattaforma di sponsorizzazione di calcio",
+      "subtitle": "Connessioni che cambiano le interazioni tra marchi principali e squadre di calcio professioniste",
+      "title_signup": "Aggiungi la tua squadra",
+      "pricing": {
+        "title": "Connettiti con marchi di fama mondiale"
+      },
+      "advisors": {
+        "title": "Squadra",
+        "body": "Ulteriori informazioni sulle persone che operano per SPONSOR.ONLINE"
+      },
+      "stories": {
+        "title": "Correttezza. Facilità. Trasparenza. Questi sono i nostri valori fondamentali che ci piacerebbe condividere con te.",
+        "success": "Storia di successo",
+        "body": "Ulteriori informazioni sulle persone che operano per SPONSOR.ONLINE"
+      },
+      "deals": {
+        "title": "Pronti a trovare il tuo prossimo contratto di sponsorizzazione?",
+        "body": "Fai clic di seguito e in qualche minuto potrai trovare i marchi che cercano di entrare in contatto con la tua squadra, la tua regione e i tuoi fan!",
+        "clubs": {
+          "title": "+ di 140",
+          "body": "Squadre europee"
+        },
+        "brands": {
+          "title": "+ di 45",
+          "body": "Marchi globali"
+        },
+        "reg_brands": {
+          "title": "200+",
+          "body": "Marchi regionali"
+        }
+      },
+      "save_money": {
+        "chart_alt": "Salva la selezione grafico",
+        "title": "Risparmia tempo risparmia denaro",
+        "subtitle1": "Ti copriamo le spalle",
+        "subtitle2": "Togliti le supposizioni e ottieni rapidamente i fatti.",
+        "p1": "Sei un marchio che cerca di sponsorizzare una squadra di calcio. Hai infinite proposte di sponsorizzazione sulla scrivania. Come puoi confrontare le opportunità? Come puoi trovare i dati reali alla base dell'offerta?",
+        "p2": "Il nostro strumento per il confronto delle sponsorizzazioni confronta ogni dettaglio dei contratti di sponsorizzazione. Con pochi clic, hai a portata di mano i dati reali di ogni team. Rispondi alle domande che devi sapere, come la base di fan di quella squadra che meglio si adatta ai tuoi marchi; quale squadra ha la più forte presenza online e quale squadra è la tua preferita per l'attivazione della sponsorizzazione dei marchi!",
+        "agency_fees": {
+          "title": "40%",
+          "body": "Da ogni € di sponsorizzazione sono trattenute le tasse di agenzia tradizionali"
+        },
+        "revenue": {
+          "title": "10%",
+          "body": "Aumento delle entrate di sponsorizzazione per le squadre di calcio europee nel 2017"
+        },
+        "annual_sponsorship": {
+          "title": "55B €",
+          "body": "Spesa annua di sponsorizzazione nel 2017"
+        },
+        "costs": {
+          "label": "Costi",
+          "agencies": {
+            "sponsor": "SPONSOR.ONLINE",
+            "agencies": "Agenzie"
+          }
+        }
+      },
+      "how_it_works": {
+        "title": "Come funziona",
+        "sign_up": {
+          "title": "Iscriviti",
+          "body": "Per le squadre di calcio professioniste che cercano sponsorizzazioni sportive all'avanguardia, iscriviti a SPONSOR.ONLINE."
+        },
+        "upload": {
+          "title": "Carica l'inventario",
+          "body": "Aggiungi il tuo inventario di sponsorizzazione al tuo profilo, configura i tuoi pacchetti di sponsorizzazione e lascia che i principali marchi sappiano ciò che la tua squadra ha da offrire."
+        },
+        "connections": {
+          "title": "Connessioni cruciali",
+          "body": "Negozia con i marchi e conclusi contratti velocemente con il sistema di messaggistica SPONSOR.ONLINE."
+        },
+        "deals": {
+          "title": "Concludi i contratti",
+          "body": "Concludi contratti di sponsorizzazione in tempo record proprio qui sulla piattaforma SPONSOR.ONLINE."
+        }
+      },
+      "under_hood": {
+        "title": "Dai un'occhiata attenta",
+        "body": "Dai un'occhiata al motivo per cui SPONSOR.ONLINE sta cambiando l'attività di sponsorizzazione per squadra e marchi.",
+        "dashboard": "Dashboard",
+        "inventory": "Inventario",
+        "presentation": "Presentazione"
+      }
+    }
+  },
+  "advisors": {
+    "christian": {
+      "position": "Christian è un ex calciatore di successo e vincitore della Coppa del Mondo nel 1998 con la nazionale francese. Attualmente è un investitore attivo in società tecnologiche legate allo sport."
+    },
+    "kay": {
+      "position": "Partner presso SASS Media GmbH"
+    },
+    "tyson": {
+      "position": "Fondatore di Sports Rights Consulting"
+    },
+    "max": {
+      "position": "Co-fondatore e amministratore delegato di SPONSOR.ONLINE AG"
+    }
+  },
+  "pricing": {
+    "for_brands": {
+      "title": "Connettiti con le migliori squadre",
+      "cta": "Pronto a trovare il tuo prossimo contratto di sponsorizzazione?",
+      "cta_button": "Cominciamo"
+    },
+    "for_teams": {
+      "title": "Connettiti con marchi di fama mondiale",
+      "cta": "Pronto a trovare il tuo prossimo contratto di sponsorizzazione?",
+      "cta_button": "Cominciamo"
+    }
+  },
+  "languages": {
+    "sk": "Slovacco"
+  },
+  "countries": {
+    "sk": "Slovacchia"
+  },
+  "error_page": {
+    "back": "Torna alla homepage",
+    "text": "Qualcosa è andato storto",
+    "supported_formats": "Supportato",
+    "supported_format": "Supportato",
+    "prod_message": "Qualcosa è andato storto. I nostri tecnici ci stanno lavorando.",
+    "or": "o"
+  },
+  "errors": {
+    "recaptcha": {
+      "missing-input-secret": "Contattaci per risolvere il problema. Manca il parametro secret.",
+      "invalid-input-secret": "Contattaci per risolvere il problema. Il parametro secret non è valido o non è corretto",
+      "missing-input-response": "Si prega di aggiornare la pagina e riprovare. Se il problema persiste, contattaci.",
+      "invalid-input-response": "Si prega di aggiornare la pagina e riprovare. Se il problema persiste, contattaci.",
+      "bad-request": "Si prega di aggiornare la pagina e riprovare. Se il problema persiste, contattaci.",
+      "timeout-or-duplicate": "Si prega di aggiornare la pagina e riprovare. Se il problema persiste, contattaci."
+    },
+    "general": "L'azione non è andata a buon fine. Riprova più tardi.",
+    "no_results": "Nessun risultato disponibile ...",
+    "section-not-allowed": "Non sei autorizzato a visitare quella sezione.",
+    "no-tags": "Nessun tag disponibile ...",
+    "no-posts": "Nessun post disponibile ...",
+    "no-items-in-proposal": "La tua proposta è vuota ...",
+    "no-search-result": "Nessun risultato dalla ricerca ...",
+    "general-authentication-error": "Si è verificato un errore durante l'autenticazione",
+    "forgot-error": "Si è verificato un errore durante l'invio della email di reimpostazione della password. L'e-mail inserita è corretta?",
+    "already-authenticated": "Sei già autenticato. Sarai reindirizzato."
+  },
+  "success": {
+    "general": "Risorsa aggiornata con successo",
+    "sent": "La richiesta è stata inviata",
+    "offer-sent": "Offerta inviata"
+  },
+  "widgets": {
+    "tips": {
+      "empty_body": "...",
+      "title": "Consigli per massimizzare il profitto",
+      "label": "Consiglio"
+    }
+  },
+  "public": {
+    "header": {
+      "teams": "Squadre",
+      "brands": "Marchi",
+      "pricing": "Prezzi",
+      "news": "Informazioni",
+      "login": "Accesso",
+      "signup": "Guida introduttiva",
+      "go_to_dashboard": "Vai al dashboard",
+      "features": "Caratteristiche",
+      "terms_sections": "Sezioni",
+      "privacy_legacy_sections": "Sezioni",
+      "contact-us": "Contact us"
+    },
+    "footer": {
+      "copyright": "Tutti i diritti riservati."
+    },
+    "bill": {
+      "bill_annually": "Fatturazione annuale"
+    },
+    "scroll": "Scorri verso il basso"
+  },
+  "app": {
+    "profile_header": {
+      "edit_photos": "Update Photos"
+    },
+    "update_unit_photos_modal": {
+      "heading": "Update Photos"
+    },
+    "edit_modal": {
+      "header": {
+        "title": "Update information"
+      },
+      "confirm_btn": {
+        "text": "Save"
+      },
+      "form": {
+        "field": "Field",
+        "validation": {
+          "required": "This field is required"
+        }
+      }
+    },
+    "validation_error": "Some validation errors occurred. Please fix them and try again.",
+    "subscription_result": {
+      "success": "Payment has been successful. Thank you!",
+      "cancel": "Payment has been canceled.",
+      "return_to_subscriptions": "Return to subscriptions"
+    },
+    "trial_notification": {
+      "title": "Welcome to Sponsor.Online!",
+      "text": "To discover all of Sponsor.Online's features, you have been provided with a 14-day trial of the Basic plan.",
+      "days_left": "days left in your trial",
+      "upgrade_now": "Upgrade Now"
+    },
+    "confirmation_modal": {
+      "header": {
+        "title": "Sei sicuro?"
+      },
+      "body": {
+        "text": "Vuoi davvero eseguire l'ultima azione?"
+      },
+      "confirm_btn": {
+        "text": "Fallo"
+      }
+    },
+    "header": {
+      "faq": "Come funziona & domande frequenti",
+      "news": "Informazioni",
+      "user_dropdown": {
+        "log_out": "Esci",
+        "settings": "Impostazioni account",
+        "active_account": "Account attivo",
+        "available_accounts": "Contatti disponibili"
+      }
+    },
+    "contact_us": {
+      "title": "Our Presence",
+      "modal_title": "Contattaci"
+    },
+    "marketplace": {
+      "itemType": {
+        "package": "Pacchetto",
+        "iventory": "Inventario"
+      },
+      "search": {
+        "show_list": "Mostra lista"
+      },
+      "show_item": {
+        "title": "Mostra elemento",
+        "add_to_proposal": "Aggiungi alla proposta",
+        "in_proposal": "Nella proposta",
+        "visit_team_profile": "Visita il profilo della squadra",
+        "form": {
+          "amount": {
+            "validation": {
+              "required": "Si deve precisare un importo",
+              "min": "L'importo minimo è 1",
+              "max": "L'importo massimo è {amount}"
+            }
+          },
+          "slots": {
+            "validation": {
+              "required": "È richiesta la selezione delle fasce orarie"
+            }
+          }
+        }
+      },
+      "categories": {
+        "-": "-",
+        "player-kit": "Kit giocatore",
+        "training-outfit": "Tenuta da allenamento",
+        "player-testimonial": "Testimonial giocatore",
+        "mvp": "MVP",
+        "brand-activation": "Attivazione del marchio",
+        "youth-team-sponsor": "Sponsor della squadra giovanile",
+        "mini-led-boards": "Mini tavole LED",
+        "mini-static-boards": "Mini tavole statiche",
+        "match-programme": "Programma della partita",
+        "sector-branding": "Branding settore",
+        "3d-carpet": "Tappeto 3D",
+        "tracksuit": "Tuta sportiva",
+        "track-suit": "Tuta sportiva",
+        "departures": "Partenze",
+        "newsletter": "Newsletter",
+        "basic": "Di base",
+        "event": "Evento",
+        "kick-off": "Calcio d'inizio",
+        "view-event": "View Event",
+        "print-material": "Stampa materiale",
+        "contract-extension": "Estensione del contratto",
+        "live-action-widget": "Live action widget",
+        "arrivals": "Arrivi",
+        "backdrops": "Backdrop",
+        "tickets": "Biglietti",
+        "hospitality-tickets": "Biglietti ospitalità",
+        "hospitality-branding": "Branding ospitalità",
+        "halftime-score": "Risultato del primo tempo",
+        "messages-over-pa-system": "Messaggi su sistema PA",
+        "player-of-the-month": "Giocatore del mese",
+        "messages": "Messaggi",
+        "branding": "Branding",
+        "restaurants": "Ristoranti",
+        "main": "Principale",
+        "static-boards": "Tavole statiche",
+        "1st-tier": "primo tempo",
+        "sportvideo": "Sportvideo",
+        "activation": "Attivazione",
+        "preview": "Anteprima",
+        "promotion": "Promozione",
+        "navigation": "Navigazione",
+        "led-boards": "Tavole led",
+        "next-to-the-goal": "Accanto all'obiettivo",
+        "match-day-sponsor": "Sponsor della giornata",
+        "highlights": "Highlight",
+        "competitions": "Gare",
+        "guess": "Indovina il risultato corretto",
+        "guess-the-right-result-win": "Indovina il risultato corretto",
+        "lounge": "Lounge",
+        "bus": "Autobus",
+        "skybox": "Skybox",
+        "leaflets": "Volantini",
+        "stadium": "Kit stadio",
+        "hospitality": "Ospitalità",
+        "vip-hospitality-by": "VIP Hospitality by",
+        "accommodation": "Alloggio",
+        "media": "Media",
+        "suppliers": "Fornitori",
+        "snacks": "Snack",
+        "campaign": "Campagna",
+        "back": "Dietro",
+        "front": "Davanti",
+        "halftime": "Intervallo",
+        "balls": "Palle",
+        "goals": "Goal",
+        "discount": "Sconto",
+        "issue": "Problema",
+        "sleeve": "Manica",
+        "shirts": "Camicie",
+        "shirt": "Camicia",
+        "winter-jacket": "Giacca invernale",
+        "shorts": "Pantaloncini",
+        "socks": "Calzini",
+        "cars": "Auto",
+        "birthdays": "Compleanni",
+        "technical-supplier": "Fornitore tecnico",
+        "food-beverage": "Prodotti alimentari e bevande",
+        "social-media": "Social media",
+        "website-link": "Collegamento al sito Web",
+        "giant-screen": "Schermo gigante",
+        "naming-rights": "Diritti di denominazione",
+        "youth-tournament-sponsor": "Sponsor del torneo giovanile",
+        "discount-for-fans": "Sconto per i fan",
+        "transport": "Trasporto",
+        "screens": "Schermi",
+        "footer": "Footer",
+        "testimonial-video": "Video Testimonial",
+        "youth-sponsor": "Sponsor delle giovanili",
+        "final-score": "Punteggio finale",
+        "pitch-level-1st-row": "Livello campo, prima fila",
+        "pitch-level-2nd-row": "Livello campo, seconda fila",
+        "before": "Prima",
+        "competition": "Gara",
+        "hotels": "Hotel",
+        "airlines": "Compagnie aeree",
+        "sector": "Settore",
+        "substitutions": "Sostituzioni",
+        "line-ups": "Line up",
+        "main-tribune": "Tribuna principale",
+        "opposite-tribune": "Tribuna opposta",
+        "behind-left-goal-tribune": "Dietro la tribuna goal sinistra",
+        "behind-right-goal-tribune": "Dietro la tribuna goal destra",
+        "drinks": "Bevande",
+        "after": "Dopo",
+        "gloves": "Guanti",
+        "other": "Altro",
+        "academy": "Accademia",
+        "header": "Intestazione",
+        "vip-club": "Club VIP",
+        "testimonial": "Testimonial",
+        "training": "Formazione",
+        "collectables": "Collectables",
+        "nfts": "NFT",
+        "package": {
+          "-": "-",
+          "bronze": "Bronzo",
+          "silver": "Argento",
+          "gold": "Oro",
+          "platinum": "Platino",
+          "custom": "Abitudine"
+        }
+      },
+      "find_team": "Trova una squadra",
+      "items": "Elementi",
+      "create_item_first_4_category": "Prima di tutto crea un articolo per questa categoria nel tuo inventario.",
+      "fans": "Fan",
+      "teams": "Squadre",
+      "cpt_index": "Indice CPT",
+      "featured": "In primo piano",
+      "nearby": "Nelle vicinanze",
+      "newest": "Più recente",
+      "show_team": "Mostra",
+      "show_on_map": "Mostra sulla mappa",
+      "show_bundle": "Mostra",
+      "excellent_reach": "Portata eccellente",
+      "maybe_worth": "degno incontro per te",
+      "sorters": {
+        "price": {
+          "asc": "Prezzo, asc",
+          "desc": "Prezzo, disc"
+        },
+        "reach": {
+          "asc": "Portata, asc",
+          "desc": "Portata, disc"
+        }
+      },
+      "filters": {
+        "entities": {
+          "title": "Entity",
+          "items": [
+            {
+              "text": "League",
+              "value": "1"
+            },
+            {
+              "text": "Team",
+              "value": "2"
+            }
+          ]
+        },
+        "total_reach": {
+          "title": "Portata totale",
+          "items": [
+            {
+              "text": "Nessuno",
+              "value": ""
+            },
+            {
+              "text": "oltre 1k",
+              "value": "1000"
+            },
+            {
+              "text": "oltre 5k",
+              "value": "5000"
+            },
+            {
+              "text": "oltre 10k",
+              "value": "10000"
+            },
+            {
+              "text": "oltre 20k",
+              "value": "20000"
+            },
+            {
+              "text": "oltre 50k",
+              "value": "50000"
+            },
+            {
+              "text": "> 100k",
+              "value": "100000"
+            }
+          ]
+        },
+        "budget": {
+          "title": "Budget",
+          "items": [
+            {
+              "text": "Nessuno",
+              "value": ""
+            },
+            {
+              "text": "fino a 10k",
+              "value": "10000"
+            },
+            {
+              "text": "fino a 50k",
+              "value": "50000"
+            },
+            {
+              "text": "fino a 100k",
+              "value": "100000"
+            },
+            {
+              "text": "fino a 250k",
+              "value": "250000"
+            },
+            {
+              "text": "fino a 500k",
+              "value": "500000"
+            }
+          ]
+        },
+        "total_fans": {
+          "title": "Raggiungi il potenziale",
+          "items": [
+            {
+              "text": "Nessuno",
+              "value": ""
+            },
+            {
+              "text": "oltre 1k",
+              "value": "1000"
+            },
+            {
+              "text": "oltre 5k",
+              "value": "5000"
+            },
+            {
+              "text": "oltre 10k",
+              "value": "10000"
+            },
+            {
+              "text": "oltre 20k",
+              "value": "20000"
+            },
+            {
+              "text": "oltre 50k",
+              "value": "50000"
+            },
+            {
+              "text": "oltre 100k",
+              "value": "100000"
+            }
+          ]
+        }
+      },
+      "proposal": {
+        "description_placeholder": "Scrivi una breve descrizione del contratto che vorresti proporre."
+      }
+    },
+    "inventory": {
+      "led_board": {
+        "quantity_info": "Tempo di presentazione totale. Ad esempio: 10 pannelli LED x 10 minuti = 100 minuti."
+      },
+      "messages_pa": {
+        "quantity_info": "Tempo di presentazione totale"
+      },
+      "screen_giant": {
+        "quantity_info": "Tempo di presentazione totale"
+      },
+      "home_away": {
+        "images_info": "Carica l'immagine per la variazione di casa ed indirizzo"
+      },
+      "screen": {
+        "quantity_info": "Tempo di presentazione totale"
+      },
+      "interested": "Contattami sull'inventario disponibile",
+      "your": "Il tuo inventario",
+      "inventory_uploaded": "dell'inventario caricato",
+      "upload_your_inventory": "Aggiungi un nuovo articolo all'inventario",
+      "select_inventory_item": "Seleziona un articolo di inventario",
+      "sell_in_packages": "Vendi articoli in contratti a pacchetto",
+      "delete": {
+        "messages": {
+          "success": "Articolo dell'inventario rimosso con successo.",
+          "error": "L'articolo di inventario non è stato rimosso. Riprova o contattarci."
+        }
+      },
+      "create": {
+        "messages": {
+          "success": "Articolo dell'inventario aggiunto correttamente al tuo profilo",
+          "error": "L'articolo dell'inventario non è stato caricato. Riprova o contattaci."
+        }
+      },
+      "update": {
+        "messages": {
+          "success": "L'oggetto dell'inventario è stato aggiornato con successo.",
+          "error": "L'articolo di inventario non è stato aggiornato. Riprova o contattaci"
+        }
+      },
+      "items": {
+        "title": "Elementi",
+        "availability": "Disponibilità",
+        "specifications": "Specifiche",
+        "init_modal": {
+          "title": ""
+        },
+        "delete_modal": {
+          "title": "Rimuovi articolo?",
+          "text": "Vuoi veramente rimuovere l'articolo: {item}?",
+          "btn": "Rimuovi"
+        },
+        "form": {
+          "name": {
+            "label": "Nome"
+          },
+          "description": {
+            "label": "Descrizione"
+          },
+          "broadcasting": {
+            "label": "Trasmissione"
+          },
+          "placement": {
+            "label": "Posizionamento"
+          },
+          "slots": {
+            "label": "Disponibilità"
+          },
+          "slot_type": {
+            "label": "Tipo di slot"
+          },
+          "type": {
+            "label": "Tipo"
+          },
+          "quantity": {
+            "label": "Quantità"
+          },
+          "visible_from": {
+            "label": "Offerta visibile da"
+          },
+          "separately": {
+            "label": "Vendi separatamente dal pacchetto di sponsorizzazione"
+          },
+          "part_of_package": {
+            "label": "Parte del pacchetto"
+          },
+          "price": {
+            "label": "Prezzo"
+          },
+          "dimensions": {
+            "label": "Dimensioni"
+          },
+          "price_to": {
+            "label": "Price to"
+          },
+          "excluded_industries": {
+            "label": "Industrie escluse"
+          },
+          "upload": {
+            "images": "Immagini",
+            "info": "Trascina e rilascia l'immagine",
+            "button": "Carica immagine"
+          }
+        },
+        "create": {
+          "title": "Aggiungi elemento inventario",
+          "action": "Salva"
+        },
+        "edit": {
+          "title": "Modifica elemento inventario",
+          "action": "Salva"
+        }
+      },
+      "add_to_proposal": "Aggiungi alla proposta",
+      "package_contains": "Il pacchetto contiene",
+      "team_also_offers": "La squadra offre anche",
+      "add_together_with": "Prendi insieme a",
+      "packages": {
+        "title": "Pacchetti",
+        "active": {
+          "title": "Pacchetti attivi",
+          "info": "I pacchetti sono una delle funzionalità più popolari di SPONSOR.ONLINE. Aiutano le squadra a coprire importanti spazi pubblicitari e rende più facile per gli sponsor soddisfare le loro esigenze di campagna.",
+          "inspired_by": "I nostri pacchetti sono ispirati ai grandi marchi sportivi"
+        },
+        "init_modal": {
+          "title": ""
+        },
+        "delete_modal": {
+          "title": "Rimuovere il pacchetto?",
+          "text": "Vuoi davvero rimuovere il pacchetto: {package} ?",
+          "btn": "Rimuovi"
+        },
+        "create": {
+          "title": "Pacchetto",
+          "action": "Salva",
+          "name": "Nome del pacchetto",
+          "select_inventory": "Aggiungi elemento/i",
+          "included_inventory": "Articoli inclusi",
+          "add_your_first_item": "Aggiungi il tuo primo elemento",
+          "messages": {
+            "success": "Pacchetto dell'inventario aggiunto correttamente al tuo profilo",
+            "error": "Il pacchetto dell'inventario non è stato caricato. Riprova o contattaci"
+          }
+        },
+        "update": {
+          "messages": {
+            "success": "Pacchetto dell'inventario aggiornato con successo.",
+            "error": "Il pacchetto di inventario non è stato aggiornato. Riprova o contattaci"
+          }
+        },
+        "predefined": "Pacchetti predefiniti"
+      },
+      "campaigns": {
+        "title": "Campagne",
+        "name": "Nome della campagna",
+        "sent": "Inviato",
+        "open_rate": "Tariffa aperta",
+        "items": "Elementi",
+        "contacts": "Contatti",
+        "actions": "Azioni",
+        "offer": "offerte | offerta | offerte",
+        "currentView": "Mostra {first}-{last} campagne dal totale {total}",
+        "duplicate": {
+          "messages": {
+            "success": "Campagna duplicata salvata",
+            "error": "La duplicazione della campagna non è andata a buon fine"
+          }
+        },
+        "create": {
+          "title": "Crea campagna",
+          "back": "Indietro",
+          "details_step_title": "Inserisci i dettagli della campagna",
+          "select_inventory_step_title": "Seleziona articoli dall'inventario",
+          "select_recipients_step_title": "Seleziona destinatari",
+          "create_send": "Crea & invia",
+          "send_date": {
+            "label": "Data di invio",
+            "required": "La data di invio è obbligatoria"
+          },
+          "send_time": {
+            "label": "Invia tempo",
+            "required": "È richiesto il tempo di invio"
+          },
+          "name": {
+            "label": "Nome della campagna",
+            "required": "É richiesto il nome"
+          },
+          "description": {
+            "label": "Messaggio per i destinatari",
+            "required": "La descrizione è obbligatoria"
+          },
+          "available_inventory": "Inventario disponibile",
+          "available_contacts": "Contatti disponibili",
+          "messages": {
+            "success": "Nuova campagna salvata",
+            "error": "Aggiunta nuova campagna non andata a buon fine"
+          },
+          "new_contact": {
+            "add_contact": "Aggiungi contatto",
+            "messages": {
+              "success": "Nuovo contatto salvato",
+              "error": "Aggiunta nuovo contatto non andata a buon fine"
+            },
+            "name": {
+              "label": "Nome",
+              "required": "É necessario inserire il nuovo contatto"
+            },
+            "company": {
+              "label": "Azienda",
+              "required": "É necessario inserire il nome dell'azienda del nuovo contatto"
+            },
+            "email": {
+              "label": "E-mail",
+              "required": "É necessario inserire l'indirizzo e-mail del nuovo contatto",
+              "valid": "L'indirizzo e-mail del nuovo contatto deve essere valido"
+            }
+          }
+        }
+      }
+    },
+    "register": {
+      "title": "Il tuo prossimo contratto di sponsorizzazione è vicino",
+      "info": "Lasciaci le seguenti informazioni e ti contatteremo con la registrazione",
+      "submit": "Invia",
+      "terms": {
+        "validation": {
+          "required": "Devi accettare le nostre condizioni d'uso e i termini legali e sulla privacy"
+        }
+      },
+      "firstName": {
+        "label": "Nome",
+        "validation": {
+          "required": "É necessario inserire il nome"
+        }
+      },
+      "lastName": {
+        "label": "Cognome",
+        "validation": {
+          "required": "É necessario inserire il cognome"
+        }
+      },
+      "email": {
+        "label": "Indirizzo email",
+        "validation": {
+          "required": "É necessario inserire l'indirizzo e-mail",
+          "valid": "L'indirizzo e-mail deve essere valido"
+        }
+      },
+      "country": {
+        "label": "Paese"
+      },
+      "type": {
+        "label": "Tipo di Organizzazione"
+      },
+      "club": {
+        "label": "Club",
+        "validation": {
+          "required": "É richiesto il nome del club"
+        }
+      },
+      "organizationName": {
+        "label": "Nome della squadra/marchio"
+      },
+      "job": {
+        "label": "Titolo professionale",
+        "validation": {
+          "required": "È richiesto il titolo professionale"
+        }
+      },
+      "phone": {
+        "label": "Numero di telefono",
+        "hint": "Il formato deve essere + XXX XXX XXX XXX",
+        "validation": {
+          "required": "É necessario inserire il numero di telefono",
+          "valid": "Il numero di telefono deve essere valido"
+        }
+      },
+      "messages": {
+        "success": "Abbiamo ricevuto con successo le tue informazioni di registrazione.",
+        "verification_success": "Account verification successfully completed, you can now log in at SPONSOR.ONLINE"
+      }
+    },
+    "reset": {
+      "title": "Crea la password",
+      "info": "Prima di continuare, completa la creazione dell'account impostando una nuova password",
+      "password": {
+        "label": "Password",
+        "validation": {
+          "strength": "La password non è sufficientemente sicura",
+          "required": "La password è obbligatoria"
+        }
+      },
+      "password_again": {
+        "label": "Inserire nuovamente la password",
+        "validation": {
+          "required": "La password è obbligatoria",
+          "confirmed": "Le password dovrebbero essere uguali"
+        }
+      },
+      "strength": {
+        "title": "Sicurezza della password",
+        "hint": "La password deve contenere almeno 1 lettera maiuscola, 1 lettera minuscola, 1 numero e deve contenere almeno 8 caratteri."
+      },
+      "messages": {
+        "success": "La tua password è stata ripristinata correttamente. Puoi accedere con la tua nuova password.",
+        "error": "L'azione non andata a buon fine. Per favore riprova più tardi."
+      },
+      "submit": "Continua"
+    },
+    "forgot": {
+      "title": "Ha dimenticato la password?",
+      "info": "Inserisci l'e-mail o il numero di telefono che hai usato quando ti sei iscritto. Ti invieremo una password temporanea.",
+      "submit": "Invia password",
+      "email": {
+        "label": "Email o numero di telefono",
+        "validation": {
+          "required": "É necessario inserire l'indirizzo e-mail o il numero di telefono",
+          "valid": "L'e-mail o il numero di telefono devono essere validi"
+        }
+      },
+      "messages": {
+        "success": "Abbiamo inviato le istruzioni per reimpostare la password all'indirizzo e-mail che hai precisato.",
+        "error": "L'azione non andata a buon fine. Per favore riprova più tardi."
+      },
+      "to_login_link": "Torna al login"
+    },
+    "login": {
+      "title": "Ben tornato",
+      "info_text": "Accedendo accetti il nostro",
+      "forgot_info": "Hai dimenticato la password? Nessun problema, puoi ottenere una nuova qui.",
+      "forgot_link": "Reimposta la mia password",
+      "side_card": {
+        "title": "Non hai ancora il tuo account?",
+        "content": "Ci vogliono solo pochi minuti per entrare a far parte del futuro della sponsorizzazione calcistica.",
+        "link_text": "Unisciti a noi ora"
+      },
+      "register_link": "Hai bisogno di un account?",
+      "email": {
+        "label": "E-mail come nome utente",
+        "validation": {
+          "required": "É necessario inserire l'indirizzo e-mail",
+          "valid": "L'email deve essere valida"
+        }
+      },
+      "password": {
+        "label": "Password",
+        "validation": {
+          "required": "La password è obbligatoria"
+        }
+      },
+      "submit": "Fammi accedere"
+    },
+    "brand": {
+      "notAvailable": "Not available",
+      "pageNotAvailable": {
+        "title": "Page not available",
+        "text": "This feature is not available to your subscription plan. Please consider upgrading to one of our paid plans.",
+        "button": "UPGRADE NOW"
+      },
+      "settings": {
+        "title": "Impostazioni",
+        "navbar": {
+          "profile": "Profilo",
+          "password": "Password",
+          "notifications": "Notifiche",
+          "subscriptions": "Abbonamenti"
+        },
+        "profile": {
+          "first_name": "Nome",
+          "last_name": "Cognome",
+          "email": "La tua email",
+          "job": "Titolo professionale",
+          "location": "Indirizzo",
+          "phone": "Numero di telefono",
+          "your_profile_photo": "La foto del tuo profilo",
+          "change_picture": "Cambia immagine",
+          "go_to_brand_profile": "Vai al profilo del marchio",
+          "your_brand_account": "Il tuo account del brand",
+          "messages": {
+            "success": "Profilo aggiornato con successo.",
+            "error": "Il tuo profilo non è stato aggiornato. Riprova o contattaci."
+          },
+          "picture_messages": {
+            "success": "Profilo aggiornato con successo.",
+            "error": "Il tuo profilo non è stato aggiornato. Riprova o contattaci."
+          }
+        },
+        "subscriptions": {
+          "deal_commission": "Provvigione sul contratto",
+          "features": "Caratteristiche",
+          "change": "Upgrade",
+          "current": "Il tuo abbonamento",
+          "free": "Gratuito",
+          "billed_annually": "Fatturazione annuale"
+        },
+        "password": {
+          "current": "Password attuale",
+          "hint": "La password deve contenere almeno 1 numero, 1 lettera maiuscola e 1 lettera minuscola e deve contenere almeno 8 caratteri",
+          "new": "Nuova password",
+          "new_confirmation": "Conferma la nuova password",
+          "messages": {
+            "success": "Password aggiornata con successo.",
+            "error": "La tua  password non è stata aggiornata. Riprova o contattaci"
+          }
+        },
+        "notifications": {
+          "system": "Notifiche di sistema",
+          "marketing": "E-mail di marketing",
+          "new_offers": "Notifiche via e-mail relative a nuove offerte",
+          "weekly_review": "Revisione settimanale delle prestazioni",
+          "monthly_newsletter": "Newsletter mensile",
+          "weekly_suggestions": "Suggerimenti settimanali per gli sponsor",
+          "messages": {
+            "success": "Impostazioni delle notifiche aggiornate con successo.",
+            "error": "Le impostazioni delle notifiche non sono state aggiornate. Riprova o contattaci."
+          }
+        }
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "new_deals": "Nuovi contratti di sponsorizzazione | Nuovo contratto di sponsorizzazione| Nuovi contratti di sponsorizzazione",
+        "open_deals": "Apri i contratti di sponsorizzazione | Contatti di sponsorizzazione aperta | Apri i contratti di sponsorizzazione",
+        "see_all_deals": "Vedi tutte le offerte",
+        "profile_strength": "Forza del profilo",
+        "request_help": "Richiedi aiuto",
+        "request_help_sentence": "da uno dei nostri assistenti per migliorare il tuo gioco",
+        "strengthen_your_profile": "Rafforza il tuo profilo"
+      },
+      "profile": {
+        "validation": {
+          "country": {
+            "required": "The country field is required."
+          },
+          "city": {
+            "required": "The city field is required."
+          },
+          "preferredSports": {
+            "required": "The preferred sports field is required."
+          },
+          "industries": {
+            "required": "The industries field is required."
+          },
+          "description": {
+            "required": "The description field is required."
+          }
+        },
+        "navbar": {
+          "audience": "Audience",
+          "targeting": "Targeting",
+          "social": "Portata social"
+        },
+        "header": {
+          "city": "Città",
+          "country": "Paese",
+          "industry": "Industria",
+          "visible": "Visibile per le squadre",
+          "pref_sports": "Sport preferiti",
+          "description": "Descrizione"
+        },
+        "social": {
+          "title": "Post sui social media",
+          "sponsored_brand": "Marchio sponsorizzato | Marchi sponsorizzati",
+          "reach_valuation": "Valutazione portata",
+          "engagement_valuation": "Valutazione impegno",
+          "social_network": "Social network",
+          "followed_team": "Squadra seguita",
+          "mention_type": "Tipo di menzione",
+          "order_type": "Ordine da parte di",
+          "order_direction": "Ordine",
+          "order": {
+            "published_at": "Pubblicato in",
+            "likes": "Like",
+            "shares": "Azioni",
+            "reach": "Portata",
+            "engagement": "Impegno",
+            "valuation": "Valutazione",
+            "comments": "Commenti"
+          },
+          "no_posts": "Nessun post"
+        },
+        "audience": {
+          "page_views": {
+            "title": "Visualizzazioni pagina",
+            "chart": {
+              "title": "Visualizzazioni di pagina mensili",
+              "total": "Totale visualizzazioni",
+              "unique": "Visualizzazioni uniche"
+            }
+          },
+          "broadcast": {
+            "title": "Trasmissioni televisive",
+            "chart": {
+              "title": "Partite trasmesse mensilmente",
+              "matches": "Partite",
+              "stations": "Stazioni televisive"
+            }
+          },
+          "stadium_attendance": {
+            "title": "Presenza allo stadio",
+            "sponsored_teams": "Squadre sponsorizzate",
+            "chart": {
+              "title": "Presenza media allo stadio",
+              "matches": "Partite",
+              "attendance": "Presenza"
+            }
+          },
+          "media_posts": {
+            "title": "I primi 3 post sui social media",
+            "social_media_profiles": "Profili sui social media",
+            "period": "Periodo"
+          },
+          "media_audience": {
+            "title": "Audience su social media",
+            "growth_speed": "Velocità di crescita",
+            "channels": "Canale",
+            "month": "Mese"
+          },
+          "media_reach_engagement": {
+            "title": "Portata & coinvolgimento sui social media",
+            "social_accounts": "Account su social media",
+            "month": "Mese",
+            "images": "Immagini",
+            "engagement": "Impegno",
+            "reach": "Portata"
+          },
+          "activity_valuation": {
+            "title": "Valutazione dell'attività di sponsorizzazione",
+            "total_growth": "Crescita di valore totale",
+            "month": "Mese",
+            "sponsored_teams": "Squadre sponsorizzate",
+            "chart": {
+              "value": "Valore",
+              "growth": "Crescita"
+            }
+          }
+        },
+        "targeting": {
+          "demographics": "Anagrafica di base",
+          "advanced_demographics": "Dati anagrafici avanzati",
+          "media_settings": "Impostazioni dei social media",
+          "messages": {
+            "success": "Targeting del marchio aggiornato.",
+            "error": "Targeting del marchio non aggiornato. Riprova o contattaci"
+          },
+          "gender": {
+            "label": "Sesso",
+            "male": "Uomo",
+            "female": "Donna",
+            "other": "Altro"
+          },
+          "age": {
+            "label": "Fascia di età",
+            "group17": "< 17",
+            "group18": "18 - 24",
+            "group25": "25 - 34",
+            "group35": "35 - 44",
+            "group45": "45 - 54",
+            "group55": "55 - 64",
+            "group65": "> 65"
+          },
+          "categories": {
+            "label": "Categorie"
+          },
+          "education": {
+            "label": "Istruzione",
+            "primary": "Scuola primaria",
+            "secondary": "Scuola secondaria superiore",
+            "bachelor": "Laurea breve",
+            "master": "Master"
+          },
+          "income": {
+            "label": "Reddito",
+            "group9": "< 10k €",
+            "group10": "10k - 20k €",
+            "group20": "20k - 50k €",
+            "group50": ">= 50k €"
+          },
+          "martial": {
+            "label": "Stato civile",
+            "married": "Coniugato/a",
+            "divorced": "Divorziato/a",
+            "single": "Single"
+          },
+          "channel": {
+            "label": "Canale",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "youtube": "Youtube",
+            "twitter": "Twitter"
+          },
+          "engagement": {
+            "label": "Valore dell'impegno",
+            "group9": "< 10k €",
+            "group10": "10k - 20k €",
+            "group20": "20k - 30k €",
+            "group30": "30k - 50k €",
+            "group50": ">= 50k €"
+          },
+          "lang_countries": {
+            "label": "Lingua target e indirizzo",
+            "language": "Lingua",
+            "countries": "Paesi"
+          }
+        }
+      }
+    },
+    "proposal": {
+      "title": "Crea una nuova proposta",
+      "back": "Indietro",
+      "consider": "Considera anche",
+      "deals_info": "Le offerte dovevano essere approvate dalle squadre. Questo potrebbe richiedere diverse ore o addirittura giorni. Dopo aver inviato una proposta per un accordo, puoi iniziare a comunicare con la squadra per concludere l'affare in tempo.",
+      "proposal": "Proposta",
+      "delete": "Cancella proposta",
+      "send": "Invia alla squadra/alle squadre",
+      "add_item_modal": {
+        "title": "Il pacchetto è stato aggiunto alla tua proposta",
+        "show_proposal": "Mostra la proposta",
+        "continue_search": "Continua la ricerca",
+        "footer_packages": "| 1 pacchetto | {packages} pacchetti &",
+        "footer_items": "0 elementi | 1 elemento | {items} elementi",
+        "footer_suffix": "sono presenti ora nella tua proposta."
+      }
+    },
+    "compare": {
+      "title": "Confronta",
+      "back": "Indietro",
+      "empty": "Nessun elemento da confrontare",
+      "go_to_compare": "Vedi confronto",
+      "in_comparison": "In confronto",
+      "add_to_comparison": "Aggiungi al confronto",
+      "addDeal": "Aggiungi alla lista delle offerte",
+      "sidebar": {
+        "title": "Elementi da confrontare",
+        "add": "Aggiungi un altro elemento ",
+        "update": "Aggiornamento"
+      },
+      "section_keys": {
+        "general": "Generale",
+        "fans": "Fan",
+        "reach": "Portata",
+        "socialMedia": "Social media",
+        "fansDemographics": "Anagrafica fan",
+        "stadium": "Stadio",
+        "age": "Età",
+        "gender": "Sesso",
+        "finance": "Finanza",
+        "league": "Lega"
+      },
+      "field_values": {
+        "true": "Sì",
+        "false": "No"
+      },
+      "field_keys": {
+        "inventoryName": "Nome inventario",
+        "price": "Prezzo",
+        "availableTime": "Tempo disponibile",
+        "founded": "Fondato",
+        "location": "Indirizzo",
+        "stadiumCapacity": "Stadio (capacità)",
+        "averageAttendance": "Presenza media",
+        "totalAttendance": "Presenza totale",
+        "uniqueWebsiteVisits": "Visite uniche al sito web",
+        "socialMedia": "Social media",
+        "crm": "CRM",
+        "mobileApp": "Mobile App",
+        "broadcasting": "Trasmissione televisiva",
+        "printOutdoor": "Stampa e Outdoor",
+        "emailsSent": "Email inviate",
+        "seasonTicket": "Titolari di abbonamento stagionale",
+        "members": "Utenti",
+        "newsletter": "Newsletter",
+        "capacity": "Capacità",
+        "visitorsPerMatch": "Visitatori per partita",
+        "visitorsTotal": "Totale visitatori",
+        "businessSeats": "Posti Business",
+        "skyboxes": "Skybox",
+        "parking": "Parcheggio",
+        "trainingPitches": "Campo di allenamento",
+        "wifi": "Wi-Fi",
+        "website": "Sito web",
+        "domestic": "Trasmissioni nazionali",
+        "uefa": "Entrate dalla UEFA",
+        "commercial": "Commerciale",
+        "gate": "Ingresso",
+        "others": "Altri",
+        "totalRevenue": "Totale reddito",
+        "enterpriseValue": "Valore dell'impresa",
+        "squadMarketValue": "Valore di mercato della squadra",
+        "male": "Fan uomini",
+        "female": "Fan donne",
+        "unknown": "Fan sconosciuti",
+        "group17": "<= 17",
+        "group18": "18 - 24",
+        "group25": "25 - 34",
+        "group35": "35 - 44",
+        "group45": "45 - 54",
+        "group55": "55 - 64",
+        "group65": "65+",
+        "fansTotal": "Totale fan",
+        "fansFacebook": "Fan Facebook",
+        "fansInstagram": "Fan Istagram",
+        "fansYoutube": "Fan Youtube",
+        "fansTwitter": "Fan Twitter",
+        "fansWebPage": "Fan della pagina Web",
+        "engagementTotal": "Impegno totale",
+        "engagementFacebook": "Impegno Facebook",
+        "engagementInstagram": "Impegno Istagram",
+        "engagementYoutube": "Impegno Youtube",
+        "engagementTwitter": "Impegno Twitter",
+        "engagementWebPage": "Impegno sulla pagina Web",
+        "leagueName": "Nome della lega"
+      }
+    },
+    "deals": {
+      "current_offer": "Offerta attuale",
+      "select_deal": "Seleziona un contratto",
+      "show_current_offer": "Mostra offerta corrente",
+      "past_offer": "Offerta passata",
+      "total": "Valore",
+      "seasons": "Stagioni",
+      "add_to_deal": "Aggiungi al contratto",
+      "weight_price_tooltip": "Prezzo corretto in base a quantità e numero di fasce orarie (date o stagioni).",
+      "dates": "Date",
+      "price": "Prezzo",
+      "duration": "Durata",
+      "amount": "Quantità",
+      "dimensions": "Dimensioni",
+      "accept_deal": "Accetta contratto",
+      "decline_deal": "Declina",
+      "add_item": "+ Aggiungi elemento/i",
+      "deal_requested": "Contratto richiesto",
+      "deal_with_brand": "Trattativa con marchio",
+      "deal_with": "Trattativa con",
+      "thread_area_placeholder": "Scrivi il tuo messaggio...",
+      "brand_representative": "Rappresentante del marchio",
+      "accept": "Accetta",
+      "decline": "Declina",
+      "edit": "Modifica",
+      "cancel_edit": "Annulla modifica",
+      "cancel": "Annulla",
+      "remove": "Rimuovi",
+      "add_item_modal": {
+        "title": "Aggiungi un nuovo elemento da trattare"
+      },
+      "messages": {
+        "decline": {
+          "success": "Il contratto stato rifiutato con successo",
+          "error": "Il contratto non è stato rifiutato. Riprova o contattaci"
+        },
+        "accept": {
+          "success": "Il contratto è stato accettato con successo",
+          "error": "Il contratto non è stato accettato. Riprova o contattaci."
+        },
+        "add_item_modal": {
+          "success": "L'elemento è stato aggiunto con successo al contratto",
+          "error": "L'elemento non è stato aggiunto al contratto. Riprova o contattaci"
+        },
+        "update_item": {
+          "success": "L'elemento è stato aggiornato con successo",
+          "error": "L'elemento non è stato aggiornato. Riprova o contattaci"
+        },
+        "accept_item": {
+          "success": "L'elemento è stato accettato con successo",
+          "error": "L'elemento non è stato accettato. Riprova o contattaci"
+        },
+        "decline_item": {
+          "success": "L'elemento è stato rifiutato con successo",
+          "error": "L'elemento non è stato rifiutato. Riprova o contattaci"
+        },
+        "remove_item": {
+          "success": "L'elemento è stato rimosso con successo dal contratto",
+          "error": "L'elemento non è stato rimosso dal contratto. Riprova o contattaci"
+        }
+      },
+      "status": {
+        "open": "Aperto",
+        "accepted": "Accettato",
+        "declined": "Rifiutato",
+        "in_negotiation": "In negoziazione",
+        "waiting_for_payment": "In attesa del pagamento",
+        "paid": "Pagato"
+      }
+    },
+    "team": {
+      "league_position_edit": {
+        "heading": "Update league position",
+        "season_label": "Season",
+        "league_label": "League",
+        "position_label": "Position",
+        "validation": {
+          "season_label": {
+            "required": "The Season field is required."
+          },
+          "league_label": {
+            "required": "The League field is required."
+          },
+          "position_label": {
+            "required": "The Position field is required."
+          }
+        }
+      },
+      "timeline_edit": {
+        "heading": "Update Timeline",
+        "season_label": "Season",
+        "title_label": "Title",
+        "description_label": "Description",
+        "validation": {
+          "title_label": {
+            "required": "The Title field is required."
+          },
+          "description_label": {
+            "required": "The Description field is required."
+          }
+        }
+      },
+      "trophy_edit": {
+        "heading": "Update Trophies",
+        "season_label": "Season",
+        "trophy_label": "Trophy",
+        "stage_label": "Stage",
+        "validation": {
+          "season_label": {
+            "required": "The Season field is required."
+          },
+          "trophy_label": {
+            "required": "The Trophy field is required."
+          },
+          "trophy_stage": {
+            "required": "The Trophy stage field is required."
+          }
+        }
+      },
+      "heroes_edit": {
+        "heading": "Update Heroes",
+        "name_label": "Name",
+        "logo_label": "Photo",
+        "validation": {
+          "name_label": {
+            "required": "The Name field is required."
+          }
+        }
+      },
+      "fans": {
+        "validation": {
+          "seasonTicket": {
+            "required": "The Season Ticket field is required."
+          },
+          "members": { "required": "The Member field is required." },
+          "newsletter": { "required": "The Newsletter field is required." },
+          "crm": { "required": "The CRM field is required." },
+          "mobileApp": { "required": "The Mobile App field is required." }
+        },
+        "error": "An error occurred, please try again later.",
+        "success": "Your changes have been saved successfully."
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "profile_views": "Visualizzazioni profili per Marchi",
+        "search_appearances": "Cerca aspetti",
+        "new_offer": "Nuove offerte | Nuova offerta | Nuove offerte",
+        "see_new_offers": "Vedi nuove offerte",
+        "profile_completed": "Profilo completato",
+        "inventory_uploaded": "Inventario caricato",
+        "upload_inventory": "Carica l'inventario",
+        "request_help": "Richiedi aiuto",
+        "request_help_sentence": "da uno dei nostri assistenti per migliorare il tuo gioco",
+        "strengthen_your_profile": "Rafforza il tuo profilo",
+        "social_media_posts": "Post sui social media",
+        "top_social_media_posts": "I migliori post sui social media"
+      },
+      "faq": {
+        "title": "Domande frequenti",
+        "questions": [
+          {
+            "title": "Posso utilizzare SPONSOR.ONLINE per gestire il rapporto con gli sponsor esistenti?",
+            "body": "Si, puoi. SPONSOR.ONLINE è un ottimo strumento per aiutarti a gestire e migliorare il tuo rapporto con i marchi esistenti e con nuovi marchi che sponsorizzano la tua squadra. Permette loro di vedere i dati reali e il valore di mercato della sponsorizzazione della tua squadra, e li tiene aggiornati su tutte tue future opportunità di sponsorizzazione. \n<br><br>Puoi invitare il tuo database esistente di sponsor per iscriverti a SPONSOR.ONLINE dal tuo profilo. Inoltre, SPONSOR.ONLINE addebiterà una commissione pari allo 0% sul primo contratto futuro stipulato con uno dei tuoi sponsor esistenti sulla nostra piattaforma."
+          },
+          {
+            "title": "In che modo SPONSOR.ONLINE può aiutarmi a trovare nuovi sponsor?",
+            "body": "SPONSOR.ONLINE è diverso dalle agenzie tradizionali il cui obiettivo è aiutarti a trovare nuovi marchi per sponsorizzare la tua squadra. Ancora più importante, ti forniamo tutti gli strumenti necessari per presentare la tua offerta, nelle migliori condizioni possibili ai marchi, sia locali sia globali. Il nostro strumento di presentazione e i dati integrati precisano ai marchi tutte le informazioni di cui hanno bisogno per trovare la loro migliore partita da sponsorizzare. \n<br><br>SPONSOR.ONLINE è stato creato da una squadra vincente di professionisti che vantano molti anni di esperienza di sponsorizzazione internazionale nel mondo del calcio. Vantiamo importanti contatti con i decision maker dei budget di sponsorizzazione presso alcuni dei principali marchi globali. Inoltre, investiamo pesantemente su nuovi sponsor attraverso una combinazione di marketing digitale e team di vendita sul campo."
+          },
+          {
+            "title": "In che modo SPONSOR.ONLINE può aiutarmi a trovare i team giusti da sponsorizzare?",
+            "body": "Il team di SPONSOR.ONLINE vanta una lunga esperienza nella gestione dello spazio di sponsorizzazione internazionale per il calcio. Conosciamo le difficoltà che i marchi incontrano nel trovare le migliori opportunità di sponsorizzazione e le difficoltà  nel  monitoraggio del ROI sulle spese di sponsorizzazione. \n<br><br>La nostra suite di analitica integrata permette a qualsiasi responsabile delle sponsorizzazioni di identificare rapidamente la migliore opportunità in base a dati reali verificati. Il nostro strumento di confronto delle sponsorizzazioni ti consente di confrontare ed analizzare rapidamente le offerte di sponsorizzazione in base ai punti dati che ti interessano maggiormente. I nostri strumenti di ricerca delle sponsorizzazioni ti consentono di consultare rapidamente i pacchetti di sponsorizzazione pertinenti in base ai criteri più importanti per te, ad esempio regione, valutazione online e dati anagrafici sui fan."
+          },
+          {
+            "title": "Come posso mantenere privati i miei dati?",
+            "body": "Per team e marchi, è chiaro che i tuoi dati sono di primaria importanza per te. La nostra politica sulla privacy delinea le migliori pratiche che seguiamo per garantire che i dati che raccogliamo siano attentamente memorizzati e monitorati. \n<br><br>Controlla la quantità d'informazioni che carichi sulla nostra piattaforma e controlla chi la vede. Vuoi mantenere privati i tuoi prezzi di sponsorizzazione fino a quando sei impegnato in una negoziazione con un marchio? Non c'è problema. Per domande specifiche sui dati, non esitare a inviare un'email al nostro team all'indirizzo <a href=\"mailto:info@sponsoronline.eu\">info@sponsoronline.eu</a>."
+          },
+          {
+            "title": "Quanto costa SPONSOR.ONLINE?",
+            "body": "SPONSOR.ONLINE ti consente di trovare il tipo di pacchetto di abbonamento più adatto a te. Anche se abbiamo un accesso gratuito all'account di base per marchi e team, i nostri strumenti avanzati sono accessibili con gli abbonamenti premium.</br></br> Visita la pagina Abbonamenti alla voce Impostazioni per maggiori informazioni."
+          }
+        ]
+      },
+      "how_it_works": {
+        "title": "Come funziona",
+        "get_started": {
+          "title": "INIZIA CON L'AIUTO DEI NOSTRI RESPONSABILI DELLE SPONSORIZZAZIONI",
+          "body": "Stai cercando di migliorare il tuo profilo? I nostri Responsabili delle sponsorizzazioni sono a disposizione per aiutarti a migliorare il tuo profilo e far crescere i tuoi ricavi da sponsorizzazioni con i più grandi marchi del mondo.",
+          "button": "Proviamo"
+        },
+        "inventory": {
+          "title": "GESTISCI IL TUO INVENTARIO",
+          "body": "I nostri responsabili delle sponsorizzazioni ti aiuteranno a caricare il tuo inventario e ti consiglieranno su come rendere le tue offerte di sponsorizzazione più attraenti.",
+          "button": "Modifica inventario"
+        },
+        "deals": {
+          "title": "CREA PACCHETTI DI OFFERTE",
+          "body": "Sei interessato a vendere più inventari contemporaneamente? La buona notizia è che i marchi stanno cercando di acquistare offerte di pacchetti per attivare più inventari in una sola volta. I nostri Responsabili delle sponsorizzazioni sono a disposizione per aiutarti a creare i pacchetti giusti per attirare gli sponsor.",
+          "button": "Crea nuovo"
+        },
+        "communication": {
+          "title": "COMUNICARE CON I MARCHI",
+          "body": "Lo strumento di messaggistica di SPONSOR.ONLINE ti consente di comunicare con i marchi, di negoziare e siglare contratti di sponsorizzazione in tempi brevissimi. Tutto con lo stesso strumento.",
+          "button": "Vai alla posta in arrivo"
+        }
+      },
+      "settings": {
+        "title": "Impostazioni",
+        "navbar": {
+          "profile": "Profilo",
+          "password": "Password",
+          "notifications": "Notifiche",
+          "social": "Profili social",
+          "subscriptions": "Abbonamenti",
+          "payments": "Pagamenti"
+        },
+        "profile": {
+          "first_name": "Nome",
+          "last_name": "Cognome",
+          "email": "La tua email",
+          "job": "Titolo professionale",
+          "location": "Indirizzo",
+          "phone": "Numero di telefono",
+          "your_profile_photo": "La foto del tuo profilo",
+          "change_picture": "Cambia immagine",
+          "go_to_team_profile": "Vai al profilo della squadra",
+          "your_team_account": "L'account della tua squadra"
+        },
+        "subscriptions": {
+          "deal_commission": "Provvigione sul contratto",
+          "features": "Caratteristiche",
+          "change": "Upgrade",
+          "current": "Il tuo abbonamento",
+          "free": "Gratuito",
+          "billed_annually": "Fatturati annualmente"
+        },
+        "payments": {
+          "info": "Informazioni sulla fatturazione della squadra",
+          "history": "Storico dei pagamenti",
+          "name": "Nome commerciale",
+          "address": "Indirizzo",
+          "city": "Città",
+          "tax_id": "Codice fiscale",
+          "vat_id": "Partita IVA",
+          "iban": "IBAN",
+          "invoice": "Fattura",
+          "proforma_invoice": "Fattura proforma"
+        },
+        "password": {
+          "current": "Password attuale",
+          "hint": "La password deve contenere almeno 1 numero, 1 lettera maiuscola e 1 lettera minuscola e deve contenere almeno 8 caratteri",
+          "new": "Nuova password",
+          "new_confirmation": "Conferma la nuova password"
+        },
+        "social": {
+          "title": "Attiva le connessioni ai social network",
+          "linkedin": "Connessione a Linkedin",
+          "facebook": "Connessione a Facebook",
+          "twitter": "Connessione a Twitter",
+          "youtube": "Connessione a Google (Youtube)",
+          "google_analytics": "Google Analytics",
+          "instagram": "Instagram"
+        },
+        "notifications": {
+          "system": "Notifiche di sistema",
+          "marketing": "E-mail di Marketing",
+          "new_offers": "Notifiche e-mail delle nuove offerte",
+          "weekly_review": "Revisione settimanale delle prestazioni",
+          "monthly_newsletter": "Newsletter mensile",
+          "weekly_suggestions": "Suggerimenti settimanali per gli sponsor"
+        }
+      }
+    },
+    "sidebar": {
+      "team": {
+        "profile": "Profilo della squadra",
+        "dashboard": "Dashboard",
+        "inventory": "Inventario",
+        "deals": "Offerte",
+        "settings": "Impostazioni",
+        "contact": "Contattaci",
+        "privacy": "Termini legali & Privacy",
+        "terms": "Condizioni d'uso",
+        "about": "Chi Siamo",
+        "contact-us": "Contact us"
+      },
+      "brand": {
+        "profile": "Profilo",
+        "dashboard": "Dashboard",
+        "marketplace": "Mercato",
+        "deals": "Offerte",
+        "settings": "Impostazioni",
+        "contact": "Contattaci",
+        "privacy": "Termini legali & Privacy",
+        "terms": "Condizioni d'uso",
+        "about": "Chi Siamo"
+      }
+    },
+    "navbar": {
+      "inventory": "Inventario",
+      "fans": "Fan & Copertura",
+      "players": "Giocatori",
+      "stadium": "Stadio",
+      "finances": "Finanze",
+      "partners": "Partners",
+      "league": "Lega",
+      "sponsorship": "Sponsorizzazione"
+    },
+    "profile": {
+      "stadium": {
+        "editButton": "Edit Stadium",
+        "editForm": {
+          "heading": "Editing Stadium",
+          "capacity": "Capacity",
+          "visitorsTotal": "Visitors Total",
+          "skyboxes": "Skyboxes",
+          "visitorsPerMatch": "Visitors per Match",
+          "businessSeats": "Business Seats",
+          "validation": {
+            "capacity": {
+              "required": "The Capacity field is required."
+            },
+            "visitorsTotal": {
+              "required": "The Visitors Total field is required."
+            },
+            "skyboxes": {
+              "required": "The Skyboxes field is required."
+            },
+            "visitorsPerMatch": {
+              "required": "The Visitors per Match field is required."
+            },
+            "businessSeats": {
+              "required": "The Business Seats field is required."
+            }
+          },
+          "success": "Your changes have been saved successfully.",
+          "error": "An error occurred, please try again later."
+        }
+      },
+      "settings": {
+        "your_title_photo": "Your title photo",
+        "your_logo": "Your logo"
+      },
+      "team": {
+        "league_position": "Posizione in classifica",
+        "feature_not_available_in_plan": "This feature is not available for your current plan. Please consider upgrading to another plan.",
+        "finances": {
+          "revenue": {
+            "title": "Reddito",
+            "domestic": "Trasmissioni nazionali",
+            "uefa": "Entrate dalla UEFA",
+            "commercial": "Commerciale",
+            "gate": "Ingresso",
+            "others": "Altri",
+            "total": "Totale Entrate",
+            "enterprise": "Valore dell'impresa",
+            "squad_market": "Valore di mercato della squadra"
+          },
+          "sponsor": {
+            "title": "Partner Sponsor"
+          }
+        },
+        "sponsorship": {
+          "title": "Impegno brandizzato",
+          "official_partnership": "Partnership ufficiale",
+          "source": "Fonte",
+          "posts": "Post",
+          "engagement": "Impegno",
+          "valuation": "Valutazione",
+          "engagement_table_title": "Valutazione dell'impegno complessivo",
+          "valuation_table_title": "Valutazione complessiva",
+          "stadium": "Stadio",
+          "fans": "Fan",
+          "media": "Media",
+          "team": "Squadra",
+          "players": "Giocatori",
+          "total": "Totale",
+          "picturesCount": "Immagini",
+          "videosCount": "Video",
+          "mentionsCount": "Citazioni",
+          "hashtagsCount": "Hashtag",
+          "brandedContentCount": "Contenuti brandizzati"
+        },
+        "fans": {
+          "editFans": "Edit fans",
+          "seasonTicketCount": "Abbonamento stagionale",
+          "membersCount": "Membro",
+          "newsletterCount": "Newsletter",
+          "websiteCount": "Sito web",
+          "socialMediaCount": "Social media",
+          "crmCount": "CRM",
+          "mobileAppCount": "Mobile App",
+          "web_social": "Web & Social Media",
+          "web_social_following": "Web & Social Media Following",
+          "reach_last_season": "Copertura totale - scorsa stagione",
+          "fans_last_season": "Fan",
+          "media": {
+            "title": "Fonti multimediali & impegno",
+            "social_accounts": "Account su social media",
+            "engagement": "Impegno",
+            "followersCount": "Follower",
+            "followers": "Follower"
+          },
+          "media_exposure": {
+            "title": "Esposizione ai media",
+            "sources": "Fonti"
+          },
+          "tv_print": {
+            "title": "Pubblico televisivo & carta stampata",
+            "tv": {
+              "title": "Esposizione su emittenti televisive"
+            },
+            "print": {
+              "title": "Esposizione sulla carta stampata"
+            }
+          },
+          "hashtags": {
+            "title": "I 10 hashtag più utilizzati dai fan"
+          },
+          "reach": {
+            "totalAttendanceCount": "Presenza alle partite in casa",
+            "emailsSentCount": "E-mail di Marketing",
+            "uniqueWebsiteVisitsCount": "Visite uniche al sito web",
+            "socialMediaCount": "Profili di social media di proprietà",
+            "broadcastingCount": "Trasmissione televisiva",
+            "printOutdoorCount": "Stampa & Outdoor"
+          },
+          "broadcastCoverage": {
+            "title": "Broadcast Coverage",
+            "liveBroadcastHours": "LIVE BROADCAST HOURS",
+            "delayedBroadcastHours": "DELAYED BROADCAST HOURS",
+            "broadcastedHighlightsHours": "BROADCASTED HIGHLIGHTS HOURS"
+          },
+          "broadcastViewers": {
+            "title": "Broadcast Viewers",
+            "liveBroadcastViewers": "LIVE BROADCAST VIEWERS",
+            "delayedBroadcastViewers": "DELAYED BROADCAST VIEWERS",
+            "broadcastedHighlightsViewers": "BROADCASTED HIGHLIGHTS VIEWERS"
+          },
+          "sharedVideoPlatforms": {
+            "title": "Shared Video Platforms",
+            "youtube": "YouTube",
+            "twitch": "Twitch"
+          },
+          "education": {
+            "title": "Istruzione",
+            "primary": "Scuola primaria",
+            "secondary": "Scuola secondaria superiore",
+            "bachelor": "Laurea breve",
+            "master": "Master"
+          },
+          "income": {
+            "title": "Reddito",
+            "group00": "< 10k €",
+            "group10": "10k - 20k €",
+            "group20": "20k - 50k €",
+            "group50": "> 50k €"
+          },
+          "age": {
+            "title": "Età",
+            "group17": "< 17",
+            "group18": "18-24",
+            "group25": "25 - 34",
+            "group35": "35 - 44",
+            "group45": "45 - 54",
+            "group55": "55 - 64",
+            "group65": "> 65"
+          },
+          "status": {
+            "title": "Stato civile",
+            "married": "Coniugato/a",
+            "divorced": "Divorziato/a",
+            "single": "Single"
+          },
+          "byCountry": {
+            "title": "Fan per paese"
+          },
+          "byLanguage": {
+            "title": "Fan che parlano la stessa lingua"
+          },
+          "demographics": {
+            "title": "Anagrafica",
+            "male": "Fan uomini",
+            "female": "Fan donne",
+            "other": "Altri supporter"
+          }
+        },
+        "stadium": {
+          "view_on_map": "Visualizza su Google Maps",
+          "capacity": "Capacità",
+          "perMatchVisitors": "Visitatori per partita",
+          "totalVisitors": "Totale visitatori",
+          "businessSeats": "Posti Business",
+          "skyboxes": "Skybox",
+          "trainingPitches": "Campo di allenamento",
+          "parking": "Parcheggio",
+          "wifi": "Wi-Fi"
+        }
+      },
+      "about": {
+        "title": "Chi Siamo",
+        "teams": {
+          "label": "Squadre",
+          "value": "Più di 140 squadre europee"
+        },
+        "sponsors": {
+          "label": "Sponsor",
+          "value": "+ di 45 MARCHI GLOBALI <br> + di 200 MARCHI REGIONALI"
+        },
+        "vision": {
+          "label": "La nostra visione",
+          "value": "SPONSOR.ONLINE esiste per cambiare il tradizionale settore delle sponsorizzazioni sportive. I nostri fondatori e la nostra squadra sono atleti appassionati, professionisti del calcio e leader delle sponsorizzazioni.<br><br> Frustrati dai limiti della creazione di accordi di sponsorizzazione con le agenzie tradizionali, abbiamo deciso di creare la piattaforma digitale più avanzata in cui le squadre di calcio professioniste possono incontrare i marchi globali più interessati alla squadra e ai giocatori, in uno unico mercato particolarmente attento."
+        },
+        "team": {
+          "title": "Incontra il nostro team"
+        }
+      },
+      "header": {
+        "share_button": "Presentazione",
+        "show_more": "Mostra di più",
+        "show_less": "Mostra meno",
+        "info": {
+          "country": "Paese",
+          "sport": "Sport",
+          "founded": "Fondato",
+          "stadium": "Stadio",
+          "stadium_capacity": "Capacità dello stadio",
+          "average_attendance": "Presenza media",
+          "annual_revenue": "Reddito annuale",
+          "league": "Lega",
+          "city": "Città",
+          "quote": "Citazione chiave",
+          "vision": "Visione di squadra",
+          "about_us": "About us",
+          "employees": "Dipendenti a tempo pieno",
+          "partner_clubs": "Team partner",
+          "shareholders": "Azionisti",
+          "academies": "Accademie",
+          "youth_players": "Giocatori delle giovanili",
+          "players": "Players",
+          "football_schools": "Scuole di calcio",
+          "teams": "Teams",
+          "coaches": "Allenatori",
+          "heroes": "Eroi",
+          "history": "Storia",
+          "titles": "Titoli"
+        }
+      },
+      "league": {
+        "country": {
+          "stats": {
+            "clubsCount": "Squadra di calcio nel paese",
+            "maleCount": "Giocatori di sesso maschile registrati",
+            "femaleCount": "Giocatori di sesso femminile registrati"
+          }
+        },
+        "stats": {
+          "league": "Lega",
+          "club": "Club",
+          "avgStadiumAttendance": "Occupazione media dello stadio",
+          "avgMatchdayAttendance": "Presenza media il giorno della partita",
+          "avgStadiumCapacity": "Capacità media dello stadio",
+          "avgStadiumUtilization": "Utilizzo media dello stadio",
+          "matchesCount": "Numero totale di partite",
+          "cumulativeAttendance": "Presenza complessiva"
+        },
+        "city": {
+          "population": "Popolazione",
+          "area": "Range",
+          "district": "Distretto"
+        }
+      }
+    }
+  },
+  "blog": {
+    "headings": {
+      "main": {
+        "index": "Ultimi articoli",
+        "tags": "Articoli dalla categoria:",
+        "authors": "Articoli per autore:"
+      },
+      "sections": {
+        "news": "Informazioni",
+        "tags": "Categorie",
+        "top_posts": "Articoli principali",
+        "recommended": "Consigliato",
+        "share": "Condividi"
+      },
+      "social": {
+        "claim": "Ti piace questo post? Condividilo con i tuoi amici!"
+      }
+    },
+    "links": {
+      "back": "Torna agli articoli"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "message": "Puoi essere il primo a ricevere notizie, novità e offerte extra"
+    }
+  },
+  "features": {
+    "manage_inventory": {
+      "headline": "Gestisci il tuo inventario",
+      "cta": "Presenta cosa puoi offrire"
+    }
+  }
+}

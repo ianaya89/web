@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="media-video" transform="translate(2.000000, 11.000000)">
+            <g id="Icons:-Main" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                <g id="video-player">
+                    <polygon id="Stroke-14" stroke-width="4" points="51.42 62 80 62 80 46 51.47 46 28.25 46 0 46 0 62 28.12 62"></polygon>
+                    <path d="M18.5,54 L74,54" id="Stroke-15" stroke-width="4"></path>
+                    <path d="M6,54 L10,54" id="Stroke-17" stroke-width="4"></path>
+                    <path d="M14.5,50 C16.709139,50 18.5,51.790861 18.5,54 C18.5,56.209139 16.709139,58 14.5,58 C12.290861,58 10.5,56.209139 10.5,54 C10.5,51.790861 12.290861,50 14.5,50 Z" id="Stroke-18" stroke-width="4"></path>
+                    <polyline id="Stroke-19" stroke-width="4" points="80 46 80 0 55 0 25 0 0 0 0 46"></polyline>
+                    <path d="M40,8 C48.4333881,8 55.27,14.8366119 55.27,23.27 C55.27,31.7033881 48.4333881,38.54 40,38.54 C31.5666119,38.54 24.73,31.7033881 24.73,23.27 C24.73,14.8366119 31.5666119,8 40,8 Z" id="Stroke-21" stroke-width="4.36"></path>
+                </g>
+            </g>
+            <path d="M36.49,29.92 C36.6516462,29.9853135 36.8261192,30.0126819 37,30 C37.2274616,29.9770808 37.4465215,29.901779 37.64,29.78 L47,24.21 C47.3298857,23.9824941 47.5306973,23.6106207 47.54,23.21 C47.5529139,22.8038157 47.3467228,22.4219804 47,22.21 L37.63,16.61 C37.2649067,16.3992133 36.8150933,16.3992133 36.45,16.61 C36.098032,16.8327573 35.860684,17.1979081 35.8,17.61 L35.8,28.85 C35.7729668,29.3187329 36.0518687,29.751233 36.49,29.92 Z" id="Path" fill="#FF553F"></path>
+        </g>
+    </g>
+</svg>

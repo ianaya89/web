@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tickets" transform="translate(2.000000, 2.000000)">
+            <path d="M80,8 C79.9725073,3.6012607 76.3988252,0.0499140846 72,0.05 L8,0.05 C3.60117479,0.0499140846 0.0274926567,3.6012607 0,8 L0,72.1 C-4.4408921e-16,76.518278 3.581722,80.1 8,80.1 L72.1,80.1 C76.518278,80.1 80.1,76.518278 80.1,72.1 L80,8 Z" id="Stroke-16" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(42.603788, 37.169308) rotate(-68.560000) translate(-42.603788, -37.169308) " x="17.0587878" y="25.0493084" width="51.09" height="24.24"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="21.48" y="19.63" width="24.24" height="51.09"></rect>
+            <rect id="Rectangle" fill="#FF553F" x="21.6" y="52.01" width="24.12" height="18.71"></rect>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="21.48" y="19.63" width="24.24" height="51.09"></rect>
+            <path d="M23.27,52.01 L45.72,52.01" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M38.81,28.14 L28.4,28.14" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M38.81,35.14 L28.4,35.14" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

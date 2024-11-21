@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryItemsList renders default InventoryItemsList 1`] = `
+<search-stub
+  inputprops="[object Object]"
+  limit="9999"
+  searchattribute="name"
+  searchitems=""
+>
+  <accordion-stub
+    class="border-t border-grey-l3"
+  />
+   
+  <!---->
+</search-stub>
+`;

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "me": {
+      "id": "1",
+      "email": "engineering@sponsoronline.eu",
+      "settings": [],
+      "profile": {
+        "id": "1",
+        "firstName": "asdsad",
+        "lastName": "sadsad",
+        "phoneNumber": "213123123123",
+        "photo": {
+          "url": "http://backendr.test/uploads/1?token=FD5z6Lim6AbX08aLY9huxUBz33IPdc9y&conversion=thumb",
+          "__typename": "Image"
+        },
+        "jobTitle": "asdasda",
+        "timezone": "Europe/Bratislava",
+        "__typename": "UserProfile"
+      },
+      "units": [
+        {
+          "id": "1",
+          "organization": {
+            "id": "5",
+            "name": "Top League Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "1",
+            "name": "Bundesliga",
+            "logo": {
+              "url": "http://backendr.test/uploads/7?token=hdSiQT4gHTQroHw6LYlOV0cmcmabdLJJ&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "League"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "3",
+          "organization": {
+            "id": "5",
+            "name": "Top League Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "2",
+            "name": "2. Bundesliga",
+            "logo": {
+              "url": "http://backendr.test/uploads/8?token=k6K5GlFo8LXmQsdlF2H94HxQI2TL4j9z&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "League"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "5",
+          "organization": {
+            "id": "5",
+            "name": "Top League Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "3",
+            "name": "Fortuna Liga",
+            "logo": {
+              "url": "http://backendr.test/uploads/9?token=KlmDfUYgQJrTNYHJ6O9UUYg93aQj23x6&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "League"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "7",
+          "organization": {
+            "id": "1",
+            "name": "Cool Football Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "1",
+            "name": "FC International",
+            "logo": {
+              "url": "http://backendr.test/uploads/11?token=IvMbqtAApLpgNNwX0zFnlv3F512mYDXN&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Team"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "9",
+          "organization": {
+            "id": "1",
+            "name": "Cool Football Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "2",
+            "name": "FC National",
+            "logo": {
+              "url": "http://backendr.test/uploads/15?token=gYZQ5Igjyk2OjvuJaZtysBYzmB4Lv3IY&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Team"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "11",
+          "organization": {
+            "id": "1",
+            "name": "Cool Football Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "3",
+            "name": "FC Trnava",
+            "logo": {
+              "url": "http://backendr.test/uploads/19?token=DvHXw2gKcJhu6RtjmsEWfZHiz95g3Qys&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Team"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "13",
+          "organization": {
+            "id": "1",
+            "name": "Cool Football Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "4",
+            "name": "Null Team",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "__typename": "Team"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "75",
+          "organization": {
+            "id": "2",
+            "name": "Dope Brand Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "1",
+            "name": "Automotive Germany",
+            "logo": {
+              "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Brand"
+          },
+          "__typename": "OrganizationUnit"
+        },
+        {
+          "id": "77",
+          "organization": {
+            "id": "2",
+            "name": "Dope Brand Agency",
+            "__typename": "Organization"
+          },
+          "entity": {
+            "id": "2",
+            "name": "B/S/H BSH Home Appliances Group",
+            "logo": {
+              "url": "http://backendr.test/uploads/56?token=Wd69e6lRvEG6Z7A5EDlMwgLiVIxaeKkU&conversion=thumb",
+              "__typename": "Image"
+            },
+            "__typename": "Brand"
+          },
+          "__typename": "OrganizationUnit"
+        }
+      ],
+      "__typename": "User"
+    }
+  }
+}

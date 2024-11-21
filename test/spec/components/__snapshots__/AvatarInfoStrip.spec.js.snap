@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarInfoStrip renders default 1`] = `
+<div
+  class="avatar-strip-info"
+>
+  <avatar-stub
+    alt="Image alt"
+    avatarclasses=""
+    class="px-2 my-auto"
+    classes="w-12 h-12"
+    info="Info"
+    rounded="true"
+    src="https://worldsportlogos.com/wp-content/uploads/2018/01/Chelsea-logo-768x432.png"
+    title="Title"
+    tooltipcolor="light"
+    tooltipposition="top"
+  />
+   
+  <div
+    class="px-2 flex flex-col"
+  >
+    <div
+      class="my-auto"
+    >
+      <div
+        class="font-medium leading-tight pt-1"
+      >
+        
+        Title
+      
+      </div>
+       
+      <div
+        class="text-grey leading-tight"
+      >
+        
+        Info
+      
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AvatarInfoStrip renders some prop 1`] = `
+<div
+  class="avatar-strip-info"
+>
+  <avatar-stub
+    alt="My alt"
+    avatarclasses=""
+    class="px-2 my-auto"
+    classes="w-12 h-12"
+    info="Some basic long lorem ipsum"
+    rounded="true"
+    src="https://worldsportlogos.com/wp-content/uploads/2018/01/Chelsea-logo-768x432.png"
+    title="Custom title"
+    tooltipcolor="light"
+    tooltipposition="top"
+  />
+   
+  <div
+    class="px-2 flex flex-col"
+  >
+    <div
+      class="my-auto"
+    >
+      <div
+        class="font-medium leading-tight pt-1"
+      >
+        
+        Custom title
+      
+      </div>
+       
+      <div
+        class="text-grey leading-tight"
+      >
+        
+        Some basic long lorem ipsum
+      
+      </div>
+    </div>
+  </div>
+</div>
+`;

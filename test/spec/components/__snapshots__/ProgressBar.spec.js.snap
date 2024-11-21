@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar renders 30 progressbar 1`] = `
+<div
+  class="relative mt-20"
+>
+  <v-progress-linear-stub
+    active="true"
+    buffervalue="0"
+    color="red"
+    height="10"
+    value="30"
+  />
+   
+  <!---->
+</div>
+`;
+
+exports[`ProgressBar renders 30 progressbar with label 1`] = `
+<div
+  class="relative mt-20"
+>
+  <v-progress-linear-stub
+    active="true"
+    buffervalue="0"
+    color="red"
+    height="10"
+    label="true"
+    value="30"
+  />
+   
+  <v-chip-stub
+    class="mb-5 top-0 -mt-16 label--progress-bar label--progress-bar-transition triangle--red"
+    color="red"
+    style="left: 30%;"
+    value="true"
+  >
+    30% complete
+  </v-chip-stub>
+</div>
+`;
+
+exports[`ProgressBar renders default progressbar 1`] = `
+<div
+  class="relative mt-20"
+>
+  <v-progress-linear-stub
+    active="true"
+    buffervalue="0"
+    color="red"
+    height="5"
+    value="0"
+  />
+   
+  <!---->
+</div>
+`;
+
+exports[`ProgressBar renders inactive progressbar 1`] = `
+<div
+  class="relative mt-20"
+>
+  <v-progress-linear-stub
+    buffervalue="0"
+    color="red"
+    height="5"
+    value="30"
+  />
+   
+  <!---->
+</div>
+`;

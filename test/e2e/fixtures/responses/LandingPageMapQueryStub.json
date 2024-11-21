@@ -1,0 +1,24 @@
+{
+  "data": {
+    "countriesValuationMap": [
+      {
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "valuation": 4584198111.990001,
+        "__typename": "CountryValuation"
+      },
+      {
+        "country": {
+          "id": "93",
+          "name": "Slovakia",
+          "__typename": "Country"
+        },
+        "valuation": 3240616164.1899996,
+        "__typename": "CountryValuation"
+      }
+    ]
+  }
+}

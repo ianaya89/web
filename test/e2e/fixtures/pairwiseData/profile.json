@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "job": "",
+    "phone": "",
+    "timezone": "",
+    "result": "error"
+  },
+  {
+    "firstName": "",
+    "lastName": "sadsad",
+    "email": "asdsad",
+    "job": "asdasda",
+    "phone": "asdasd",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "",
+    "lastName": "sadsad",
+    "email": "asdsd@asdasd.sd",
+    "job": "asdasda",
+    "phone": "213123123123",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "sadsad",
+    "email": "asdsd@asdasd.sd",
+    "job": "",
+    "phone": "asdasd",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "sadsad",
+    "email": "",
+    "job": "asdasda",
+    "phone": "213123123123",
+    "timezone": "",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "",
+    "email": "asdsad",
+    "job": "asdasda",
+    "phone": "",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "sadsad",
+    "email": "asdsad",
+    "job": "",
+    "phone": "213123123123",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "",
+    "email": "asdsd@asdasd.sd",
+    "job": "asdasda",
+    "phone": "",
+    "timezone": "Europe/Bratislava",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "sadsad",
+    "email": "",
+    "job": "asdasda",
+    "phone": "asdasd",
+    "timezone": "",
+    "result": "error"
+  },
+  {
+    "firstName": "asdsad",
+    "lastName": "sadsad",
+    "email": "asdsd@asdasd.sd",
+    "job": "asdasda",
+    "phone": "213123123123",
+    "timezone": "Europe/Bratislava",
+    "result": "success"
+  }
+]

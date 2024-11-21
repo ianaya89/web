@@ -1,0 +1,235 @@
+{
+  "data": {
+    "unit": {
+      "id": "1",
+      "entity": {
+        "id": "1",
+        "name": "Bundesliga",
+        "logo": {
+          "url": "http://backendr.test/uploads/7?token=hdSiQT4gHTQroHw6LYlOV0cmcmabdLJJ&conversion=thumb",
+          "__typename": "Image"
+        },
+        "titlePhotos": [],
+        "country": {
+          "id": "68",
+          "name": "Germany",
+          "__typename": "Country"
+        },
+        "profile": {
+          "founded": "1984",
+          "keyQuote": "Arte et labore",
+          "vision": "Engage the whole community to be involved with our club development and successes with a variety of effective alliances, partnerships and networks.",
+          "fullTimeEmployeesCount": "0",
+          "academiesCount": "1-9",
+          "footballSchoolsCount": "10-24",
+          "partnerClubsCount": "1000-1999",
+          "youthPlayersCount": "2000+",
+          "coachesCount": "100-249",
+          "shareholders": [
+            {
+              "name": "some",
+              "__typename": "Shareholder"
+            },
+            {
+              "name": "amazing",
+              "__typename": "Shareholder"
+            },
+            {
+              "name": "shareholders",
+              "__typename": "Shareholder"
+            }
+          ],
+          "__typename": "LeagueProfile"
+        },
+        "trophies": [],
+        "milestones": [
+          {
+            "id": "31",
+            "title": "Minerva O'Hara",
+            "description": "Odio aut voluptate in culpa quod cupiditate consequatur.",
+            "season": {
+              "id": "4",
+              "name": "2018/19",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "32",
+            "title": "Eloise Hauck I",
+            "description": "Sit et natus quo quia.",
+            "season": {
+              "id": "7",
+              "name": "2021/22",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "33",
+            "title": "Enoch Schuster",
+            "description": "Sapiente a illo quo voluptate laudantium nesciunt.",
+            "season": {
+              "id": "2",
+              "name": "2016/17",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "34",
+            "title": "Keara Schmitt",
+            "description": "Vero ut deserunt laborum est non.",
+            "season": {
+              "id": "1",
+              "name": "2015/16",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "35",
+            "title": "Miss Jany Lindgren MD",
+            "description": "At esse quo quos numquam ea iure esse et.",
+            "season": {
+              "id": "3",
+              "name": "2017/18",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "36",
+            "title": "Karina Yost",
+            "description": "Delectus cum ab est.",
+            "season": {
+              "id": "2",
+              "name": "2016/17",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "37",
+            "title": "Juliana Johnson",
+            "description": "Recusandae animi sunt a sed reprehenderit omnis et.",
+            "season": {
+              "id": "4",
+              "name": "2018/19",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "38",
+            "title": "Mollie Gerlach",
+            "description": "Quam laborum et et et eligendi.",
+            "season": {
+              "id": "2",
+              "name": "2016/17",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "39",
+            "title": "Dr. Devyn Conn II",
+            "description": "Dolore ut reiciendis fuga cumque dolorum est vero.",
+            "season": {
+              "id": "5",
+              "name": "2019/20",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          },
+          {
+            "id": "40",
+            "title": "Pat Sporer",
+            "description": "Adipisci ex totam eveniet sint voluptatibus itaque omnis.",
+            "season": {
+              "id": "5",
+              "name": "2019/20",
+              "__typename": "Season"
+            },
+            "__typename": "Milestone"
+          }
+        ],
+        "heroes": [
+          {
+            "id": "16",
+            "name": "Jude Predovic",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "description": "Qui omnis omnis nisi omnis et soluta.",
+            "__typename": "Hero"
+          },
+          {
+            "id": "17",
+            "name": "Devin Zieme",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "description": "Reprehenderit in eos dolorem accusantium soluta.",
+            "__typename": "Hero"
+          },
+          {
+            "id": "18",
+            "name": "Cecelia Marks",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "description": "Ex distinctio perferendis blanditiis aliquam dolorum.",
+            "__typename": "Hero"
+          },
+          {
+            "id": "19",
+            "name": "Miss Ava Wehner",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "description": "Beatae amet aut aperiam.",
+            "__typename": "Hero"
+          },
+          {
+            "id": "20",
+            "name": "Tyreek Blanda",
+            "logo": {
+              "url": null,
+              "__typename": "Image"
+            },
+            "description": "Velit voluptatum quaerat quis quae.",
+            "__typename": "Hero"
+          }
+        ],
+        "precalcs": [
+          {
+            "season": {
+              "id": "4",
+              "name": "2018/19",
+              "__typename": "Season"
+            },
+            "data": {
+              "matchVisitors": {
+                "avgStadiumAttendance": 11682,
+                "__typename": "MatchVisitor"
+              },
+              "finance": {
+                "totalRevenue": 62402,
+                "__typename": "TeamFinance"
+              },
+              "__typename": "LeaguePrecalcFields"
+            },
+            "__typename": "LeaguePrecalcs"
+          }
+        ],
+        "__typename": "League"
+      },
+      "__typename": "OrganizationUnit"
+    }
+  }
+}

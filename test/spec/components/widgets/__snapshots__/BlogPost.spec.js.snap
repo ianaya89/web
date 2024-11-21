@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogPost renders BlogPost 1`] = `
+<div
+  class="widget__blog-post has-transition small"
+>
+  <content-placeholders>
+    <content-placeholders-heading
+      img="true"
+    />
+     
+    <content-placeholders-text
+      lines="0"
+    />
+  </content-placeholders>
+</div>
+`;

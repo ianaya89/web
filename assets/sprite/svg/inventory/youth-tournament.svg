@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="youth-tournament" transform="translate(2.000000, 2.000000)">
+            <path d="M33.68,25 L46.68,25 C49.9937085,25 52.68,27.6862915 52.68,31 C52.6801134,34.3218935 50.0017801,37.0225463 46.68,37.05 L33.68,37.05 C32.0754402,37.05 30.5365991,36.4125911 29.402004,35.277996 C28.2674089,34.1434009 27.63,32.6045598 27.63,31 C27.6299444,29.4 28.2689444,27.86625 29.405,26.7395833 C30.5410556,25.6129167 32.0800556,24.9866667 33.68,25 Z" id="Path" fill="#FF553F"></path>
+            <path d="M20,18 L20,34 C20,41.7319865 26.2680135,48 34,48 L40,48" id="Stroke-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Stroke-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="16 18 64 18 64 10 16 10"></polygon>
+            <polyline id="Stroke-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="40 10 10 10 8 0.42"></polyline>
+            <path d="M34,48 L34,64" id="Stroke-6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,71 L20,71 C16.6862915,71 14,73.6862915 14,77 L14,80 L40,80" id="Stroke-7" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,64 L30,64 C26.6862915,64 24,66.6862915 24,70" id="Stroke-8" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M60,18 L60,34 C60,41.7319865 53.7319865,48 46,48 L40,48" id="Stroke-10" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-11" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="40 10 70 10 72 0.42"></polyline>
+            <path d="M46,48 L46,64" id="Stroke-12" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,71 L60,71 C63.3137085,71 66,73.6862915 66,77 L66,80 L40,80" id="Stroke-13" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,64 L50,64 C53.3137085,64 56,66.6862915 56,70" id="Stroke-14" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M20,40 L11,40 C4.92486775,40 1.33226763e-15,35.0751322 8.8817842e-16,29 C0,22.9248678 4.92486775,18 11,18 L20,18" id="Stroke-15" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M60,40 L69,40 C75.0751322,40 80,35.0751322 80,29 C80,22.9248678 75.0751322,18 69,18 L60,18" id="Stroke-17" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18,18 L63,18" id="Stroke-19" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M33.68,25 L46.68,25 C49.9937085,25 52.68,27.6862915 52.68,31 C52.6801134,34.3218935 50.0017801,37.0225463 46.68,37.05 L33.68,37.05 C32.0754402,37.05 30.5365991,36.4125911 29.402004,35.277996 C28.2674089,34.1434009 27.63,32.6045598 27.63,31 C27.6299444,29.4 28.2689444,27.86625 29.405,26.7395833 C30.5410556,25.6129167 32.0800556,24.9866667 33.68,25 Z" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StadiumMentions renders StadiumMentions 1`] = `
+<div
+  class="w-full mt-10 mb-10 overflow-x-auto"
+>
+  <sortable-table-stub
+    class="w-full -mx-2"
+    data=""
+    headers="[object Object],[object Object],[object Object],[object Object],[object Object]"
+    rowsperpage="-1"
+    sortby="sum"
+    sortdescending="true"
+  />
+</div>
+`;

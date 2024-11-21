@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeaturedCard renders default 1`] = `
+<div
+  class="bg-grey-l5 flex flex-col px-6 pt-4 pb-2 shadow-hover max-w-xs"
+>
+  <div
+    class="w-full flex flex-1 border-b border-grey-l3 pb-2"
+  >
+    <div
+      class="w-1/4"
+    >
+      <avatar-stub
+        avatarclasses=""
+        class="my-auto"
+        classes="h-16 w-16"
+        rounded="true"
+        src=""
+        tooltipcolor="light"
+        tooltipposition="top"
+      />
+    </div>
+     
+    <div
+      class="w-3/4 flex pl-1"
+    >
+      <div
+        class="my-auto"
+      >
+        <p
+          class="font-sans text-h4 font-medium leading-tight"
+        >
+          <a>
+            
+            -
+          
+          </a>
+        </p>
+         
+        <p
+          class="text-grey leading-tight"
+        >
+          
+          -
+        
+        </p>
+      </div>
+    </div>
+  </div>
+   
+  <div
+    class="w-full flex pt-2"
+  >
+    <div
+      class="w-1/2"
+    >
+      <data-label-stub
+        label="TRANSLATE:app.marketplace.items"
+        labelclasses="text-grey text-p3 uppercase tracking-wide"
+        uppercase="true"
+      >
+        
+        0
+      
+      </data-label-stub>
+    </div>
+     
+    <div
+      class="w-1/2"
+    >
+      <data-label-stub
+        label="TRANSLATE:app.profile.team.fans.media.followers"
+        labelclasses="text-grey text-p3 uppercase tracking-wide"
+        uppercase="true"
+      >
+        
+        0
+      
+      </data-label-stub>
+    </div>
+  </div>
+</div>
+`;

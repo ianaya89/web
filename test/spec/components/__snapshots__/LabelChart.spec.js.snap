@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LabelChart renders default label chart 1`] = `
+<div
+  class="flex items-center"
+>
+  <!---->
+   
+  <div
+    class="flex flex-wrap items-center"
+  >
+    <div
+      class="text-left mt-1"
+    >
+      <h3
+        class="text-h3"
+      >
+        
+          Label
+        
+      </h3>
+    </div>
+     
+    <div
+      class="text-left max-w-4xs font-medium leading-none ml-2"
+    >
+      
+      Search info
+    
+    </div>
+  </div>
+</div>
+`;

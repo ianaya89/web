@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogTags renders BlogTags 1`] = `
+<div
+  class="blog__tags py-4 mt-8"
+>
+  <p
+    class="text-p2 uppercase font-medium text-grey border-b border-grey-l3 pb-4 mb-4"
+  >
+    
+    TRANSLATE:blog.headings.sections.tags
+  
+  </p>
+   
+  <div
+    class="flex flex-wrap"
+  >
+    <blog-tag-link-stub
+      tag="[object Object]"
+    />
+    <blog-tag-link-stub
+      tag="[object Object]"
+    />
+    <blog-tag-link-stub
+      tag="[object Object]"
+    />
+    <blog-tag-link-stub
+      tag="[object Object]"
+    />
+    <blog-tag-link-stub
+      tag="[object Object]"
+    />
+     
+    <!---->
+  </div>
+</div>
+`;

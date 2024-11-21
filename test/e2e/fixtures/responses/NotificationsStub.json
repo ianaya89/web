@@ -1,0 +1,248 @@
+{
+  "data": {
+    "notifications": {
+      "unreadCount": 3373,
+      "latest": [
+        {
+          "id": "7889",
+          "type": "page_visited",
+          "meta": null,
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-27 14:05:29",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7872",
+          "type": "page_visited",
+          "meta": null,
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-21 16:51:35",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7870",
+          "type": "page_visited",
+          "meta": null,
+          "industry": "Consumer Electronics",
+          "isSeen": false,
+          "createdAt": "2019-08-21 16:50:01",
+          "unit": {
+            "id": "77",
+            "entity": {
+              "id": "2",
+              "name": "B/S/H BSH Home Appliances Group",
+              "logo": {
+                "url": "http://backendr.test/uploads/56?token=Wd69e6lRvEG6Z7A5EDlMwgLiVIxaeKkU&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7868",
+          "type": "page_visited",
+          "meta": null,
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-15 12:06:30",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7855",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": null,
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "11",
+            "entity": {
+              "id": "3",
+              "name": "FC Trnava",
+              "logo": {
+                "url": "http://backendr.test/uploads/19?token=DvHXw2gKcJhu6RtjmsEWfZHiz95g3Qys&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Team"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7857",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": null,
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "11",
+            "entity": {
+              "id": "3",
+              "name": "FC Trnava",
+              "logo": {
+                "url": "http://backendr.test/uploads/19?token=DvHXw2gKcJhu6RtjmsEWfZHiz95g3Qys&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Team"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7860",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7861",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7865",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        },
+        {
+          "id": "7866",
+          "type": "message_received",
+          "meta": {
+            "dealId": "45",
+            "__typename": "NotificationMeta"
+          },
+          "industry": "Automotive",
+          "isSeen": false,
+          "createdAt": "2019-08-15 11:30:52",
+          "unit": {
+            "id": "75",
+            "entity": {
+              "id": "1",
+              "name": "Automotive Germany",
+              "logo": {
+                "url": "http://backendr.test/uploads/53?token=VJWnOQFbxZ7IY8lfdqfdAYcryQYF6ZKT&conversion=thumb",
+                "__typename": "Image"
+              },
+              "__typename": "Brand"
+            },
+            "__typename": "OrganizationUnit"
+          },
+          "__typename": "Notification"
+        }
+      ],
+      "__typename": "Notifications"
+    }
+  }
+}

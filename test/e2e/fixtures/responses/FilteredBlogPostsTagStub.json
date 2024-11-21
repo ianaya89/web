@@ -1,0 +1,8 @@
+{
+  "data": {
+    "blog": {
+      "posts": [],
+      "__typename": "Blog"
+    }
+  }
+}

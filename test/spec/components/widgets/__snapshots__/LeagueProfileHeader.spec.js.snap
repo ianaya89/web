@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeagueProfileHeader renders LeagueProfileHeader 1`] = `
+<profile-header-partial-stub>
+   
+  <transition-stub
+    appear="true"
+    name="fade-up"
+  >
+    <profile-header-stub
+      hasmore="true"
+      shareenabled="true"
+    />
+  </transition-stub>
+</profile-header-partial-stub>
+`;

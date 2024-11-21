@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppSelect renders default select 1`] = `
+<div
+  class="app_select"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <!---->
+   
+  <v-select-stub
+    append-icon="fa-chevron-down"
+    error-messages=""
+    flat="true"
+    items=""
+    outline="true"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+  />
+</div>
+`;
+
+exports[`AppSelect renders some props 1`] = `
+<div
+  class="app_select"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <!---->
+   
+  <v-select-stub
+    append-icon="fa-chevron-down"
+    disabled="true"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+  />
+</div>
+`;
+
+exports[`AppSelect set value 1`] = `
+<div
+  class="app_select"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <!---->
+   
+  <v-select-stub
+    append-icon="fa-chevron-down"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+  />
+</div>
+`;
+
+exports[`AppSelect set value 2`] = `
+<div
+  class="app_select"
+>
+  <span
+    class="text-grey text-p3 uppercase tracking-wide"
+  >
+    
+    Label
+  
+  </span>
+   
+  <!---->
+   
+  <!---->
+   
+  <v-select-stub
+    append-icon="fa-chevron-down"
+    error-messages=""
+    flat="true"
+    items="[object Object],[object Object]"
+    outline="true"
+    rules=""
+    sololabel="Label"
+    tooltiptext="Tooltip"
+  />
+</div>
+`;

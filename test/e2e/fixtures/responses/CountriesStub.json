@@ -1,0 +1,111 @@
+{
+  "data": {
+    "countries": [
+      {
+        "id": "45",
+        "name": "Thailand",
+        "__typename": "Country"
+      },
+      {
+        "id": "46",
+        "name": "Turkey",
+        "__typename": "Country"
+      },
+      {
+        "id": "55",
+        "name": "Austria",
+        "__typename": "Country"
+      },
+      {
+        "id": "60",
+        "name": "Croatia",
+        "__typename": "Country"
+      },
+      {
+        "id": "62",
+        "name": "Czech Republic",
+        "__typename": "Country"
+      },
+      {
+        "id": "66",
+        "name": "Finland",
+        "__typename": "Country"
+      },
+      {
+        "id": "67",
+        "name": "France",
+        "__typename": "Country"
+      },
+      {
+        "id": "68",
+        "name": "Germany",
+        "__typename": "Country"
+      },
+      {
+        "id": "71",
+        "name": "Hungary",
+        "__typename": "Country"
+      },
+      {
+        "id": "74",
+        "name": "Italy",
+        "__typename": "Country"
+      },
+      {
+        "id": "87",
+        "name": "Poland",
+        "__typename": "Country"
+      },
+      {
+        "id": "92",
+        "name": "Serbia",
+        "__typename": "Country"
+      },
+      {
+        "id": "93",
+        "name": "Slovakia",
+        "__typename": "Country"
+      },
+      {
+        "id": "94",
+        "name": "Slovenia",
+        "__typename": "Country"
+      },
+      {
+        "id": "95",
+        "name": "Spain",
+        "__typename": "Country"
+      },
+      {
+        "id": "98",
+        "name": "Switzerland",
+        "__typename": "Country"
+      },
+      {
+        "id": "100",
+        "name": "United Kingdom",
+        "__typename": "Country"
+      },
+      {
+        "id": "161",
+        "name": "Australia",
+        "__typename": "Country"
+      },
+      {
+        "id": "197",
+        "name": "Canada",
+        "__typename": "Country"
+      },
+      {
+        "id": "228",
+        "name": "United States",
+        "__typename": "Country"
+      },
+      {
+        "id": "234",
+        "name": "Argentina",
+        "__typename": "Country"
+      }
+    ]
+  }
+}
